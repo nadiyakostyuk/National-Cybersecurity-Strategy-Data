@@ -1,5 +1,5 @@
 # National-Cybersecurity-Strategy-Data
-[Kostyuk, Nadiya](https://www.cmu.edu/cmist/about-us/people/faculty/nadiya-kostyuk.html)."Cyber Chess: Using a New Panel Dataset to Identify Global Patterns in National Cybersecurity-Strategy Adoption"
+[Kostyuk, Nadiya](https://www.cmu.edu/cmist/about-us/people/faculty/nadiya-kostyuk.html)."Cyber Chess: Using a New Panel Dataset to Identify Global Patterns in National Cybersecurity-Strategy Adoption." <i> International Studies Quarterly, Forthcoming </i>.
 
 ## Replication Code and Analysis
 The [/data](https://github.com/nadiyakostyuk/National-Cybersecurity-Strategy-Data/tree/main/data) folder contains the data used for the analysis.
