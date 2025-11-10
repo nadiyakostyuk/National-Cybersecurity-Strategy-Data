@@ -100,5 +100,5 @@ tab_wide
 
 library(xtable)
 xtable(tab_wide)
-#writeLines(capture.output(xtable(tab_wide)), paste0('output/summary_stats_v3.tex'))
+#writeLines(capture.output(xtable(tab_wide)), paste0('output/summary_stats.tex'))
 

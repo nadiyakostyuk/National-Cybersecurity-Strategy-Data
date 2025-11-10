@@ -15,7 +15,7 @@ lapply(list.of.packages, require, character.only = TRUE)
 
 
 setwd("")
-load('data/inaugural_cybstrategies_2000_2024.RData')
+data= read.csv('data/inaugural_cybstrategies_2000_2024.csv', header = TRUE)
 
 
 ##########################

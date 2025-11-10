@@ -10,7 +10,7 @@ rm(list=ls())
 
 ## Install & load packages (all at once)
 list.of.packages <- c("dplyr","ggplot2",'survival', 'countrycode', 'splines',
-                      'sandwich', 'lmtest', 'glmnet')
+                      'sandwich', 'lmtest', 'glmnet', 'pROC')
 
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]; if(length(new.packages)){install.packages(new.packages,dependencies=TRUE)}
 lapply(list.of.packages, require, character.only = TRUE)
@@ -158,6 +158,8 @@ mod_list_robcheck[[2]] = mod_t5
 # 3. glm + ridge: 
 # Prepare data
 # STEP 1: Drop rows with missing values in relevant variables
+policies_tv = policies_tv %>%
+  mutate(YEAR_glm = tstart + 1999)
 clean_data <- policies_tv %>%
   dplyr::select(ADOPTION, total_cybattacks_1ylag_sc, w_defense_strategy_lag_sc,
                 DEMOCRACY, LOG_INT_USERS_sc, orgs_wcyber_cumulative_1ylag_sc,
@@ -178,6 +180,10 @@ ridge_mod <- glmnet(X, y, family = "binomial", alpha = 0)
 cv_ridge <- cv.glmnet(X, y, family = "binomial", alpha = 0)
 # Extract coefficients that are used in the table
 coef(cv_ridge, s = "lambda.min")
+pred <- predict(cv_ridge, newx = X, s = "lambda.min", type = "response")
+roc_obj <- roc(y, as.vector(pred))
+c_stat <- auc(roc_obj)
+c_stat
 
 
 ######################################
@@ -267,6 +273,26 @@ mod_list_robcheck2[[4]] = mod_oecd4
 
 #saveRDS(mod_list_robcheck2, file = 'output/tab4_rob_checks_oecd.RDS')
 
+###########################
+# Robustness checks:
+# IGO + time trend
+###########################
 
+ggplot(policies_tv, aes(x = YEAR_actual, y = orgs_wcyber_cumulative_1ylag_sc)) + 
+  geom_smooth() + facet_wrap(~region)
+# creating time-detrended version of the IGO variable
+# Fit model of IGO on time using natural splines
+policies_tv <- na.omit(policies_tv)
+igo_time_model <- lm(orgs_wcyber_cumulative_1ylag_sc ~ ns(YEAR_actual, df = 3),
+                     data = policies_tv)
+# Extract residuals — this is your de-trended IGO variable
+policies_tv$igo_detrended <- residuals(igo_time_model)
+
+
+form_igo <- paste0('Surv(tstart,tstop, ADOPTION)~ridge(igo_detrended) + DEMOCRACY + LOG_INT_USERS_sc + as.factor(region) + cluster(ISO_ADOPTING)')
+form_igo
+mod_igo <- coxph(as.formula(form_igo), data=policies_tv, x=TRUE)
+mod_igo
+summary(mod_igo)
 
 

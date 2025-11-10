@@ -157,7 +157,7 @@ library(xtable)
 xtable(tab1)
 
 # saving the model:
-#writeLines(capture.output(xtable(tab1)), paste0('analysis/output/tab1_threatz.tex'))
-#writeLines(capture.output(xtable(tab1)), paste0('analysis/output/tab2_all.tex'))
-#writeLines(capture.output(xtable(tab1)), paste0('analysis/output/tab3_robchecks.tex'))
-#writeLines(capture.output(xtable(tab1)), paste0('analysis/output/tab4_robchecks2.tex'))
+#writeLines(capture.output(xtable(tab1)), paste0('output/tab1_threatz.tex'))
+#writeLines(capture.output(xtable(tab1)), paste0('output/tab2_all.tex'))
+#writeLines(capture.output(xtable(tab1)), paste0('output/tab3_robchecks.tex'))
+#writeLines(capture.output(xtable(tab1)), paste0('output/tab4_robchecks2.tex'))

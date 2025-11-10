@@ -15,7 +15,7 @@ lapply(list.of.packages, require, character.only = TRUE)
 
 
 setwd("")
-load('data/inaugural_cybstrategies_2000_2024.RData')
+data= read.csv('data/inaugural_cybstrategies_2000_2024.csv', header = TRUE)
 data = data %>% 
   filter(Year <= 2020) %>%
   dplyr::select(Countries, Year, cyb_strategy)
@@ -36,6 +36,15 @@ data = data %>%
 # Load world map with ISO3 codes
 world <- ne_countries(scale = "medium", returnclass = "sf") %>%
   filter(name != "Antarctica")
+
+# checking if any ISO3 are missing from this list: 
+iso_list = c(sort(unique(data$Countries)))
+missing_iso <- iso_list[!iso_list %in% world$iso_a3]
+missing_iso
+# Fix missing ISO3 codes for France and Norway
+world$iso_a3[world$name == "France"]  <- "FRA"
+world$iso_a3[world$name == "Norway"]  <- "NOR"
+
 
 # Merge strategy data with world map data
 world_map <- world %>%

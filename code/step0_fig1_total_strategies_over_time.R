@@ -21,7 +21,7 @@ lapply(list.of.packages, require, character.only = TRUE)
 
 # set working directory:
 setwd("")
-load('data/inaugural_cybstrategies_2000_2024.RData')
+data= read.csv('data/inaugural_cybstrategies_2000_2024.csv', header = TRUE)
 
 
 ##########################
@@ -34,8 +34,6 @@ load('data/inaugural_cybstrategies_2000_2024.RData')
 df_clean <- data %>%
   filter(!is.na(Year)) %>%        # Remove rows with missing years
   group_by(Year) %>%
-  # subssetting to 2024 only
-  filter(Year < 2025) %>%
   summarise(yearly_adoptions = sum(cyb_strategy)) %>%
   arrange(Year) %>%
   mutate(cumulative = cumsum(yearly_adoptions)) %>%
