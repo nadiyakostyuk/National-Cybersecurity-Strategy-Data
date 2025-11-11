@@ -1,0 +1,345 @@
+CYBER SECURITY AND
+DEFENSE POLICY OF
+INDONESIA
+
+EXECUTIVE SUMMARY
+
+In 2013, Indonesia topped China and was acknowledged as the country with the highest
+rate of cyber attack traffic, in which with its 1,6 percent share of world Internet users,
+Indonesia contribute 38 percent of the total cyber attack in the world. Furthermore, as
+one of large emerging economic countries, Indonesia will definitely more rely on the
+use of Internet in the future. However, the current cyber security and defense policy of
+Indonesia has not adequately addressed the current cyber threats, so that leave
+vulnerability to its cyber environment. This policy brief identifies five inadequate cyber
+aspects of the contemporary policy and therefore recommends that the policy should
+have a larger strategy that covers all cyber possibilities, yet provide more detail and
+measurable approach. This recommendation contributes to the Indonesian national
+security and defense goals, as well as building regional collaboration, thereby
+supporting global cyber security resilience.
+
+Key Messages:
+
+- Cyber issue must be securitized as the top security policy priority of Indonesia
+Government should provide a holistic legal framework by applying preemptive
+approach
+Besides addressing technical discourse, the policy should cover crime-espionage
+
+and civil-military measure standards
+
+The importance of central cyber commander to lead and coordinate the
+organization and implementation of policy
+
+The significance of involving civilian role to contribute to national cyber security
+and defense governance
+
+Optimizing an active role of Indonesia in the global cyber cooperation
+
+
+
+
+The International Telecommunication Union (ITU) released the Global Cybersecurity
+Index (GCI) in 2014 and placed Indonesia in the 13th rank among 105 countries [1].
+This ranking shows the cyber security readiness of the country, but not its
+vulnerabilities [2]. Within one decade, from 2006 to 2016, according to the Association
+of Internet Service Providers of Indonesia (APJII), there had been more than 400
+percents of increasing number of Internet users in Indonesia from 20 millions to 88
+millions users, with the percentage of penetration from 8.9 to 34.1 [3]. One of the
+primary drivers of this great growing is the significant rising number of smartphone
+that contribute three-quarter to the total Internet users in Indonesia, which rank 3 in
+the Asia Pacific [4].
+
+However, the cyber security mindset and awareness of Indonesian citizen and
+institution have been growing very slow that result in an imbalance towards the
+positive growth of Internet users [5]. As a consequence, there has been much
+vulnerability in Indonesia cyber environment that offer a tremendous opportunity for
+cyber attack. Furthermore, on the top of the findings, as Akamai International reported
+in 2013 that Indonesia with its 1.6 percent share of world Internet users has the highest
+rate of cyber traffic attack in the world, which contribute 38 percent to the total of world
+cyber attack [6].
+
+
+
+The Ministry of Defense of the Republic of Indonesia identifies six attack methods of
+cyber as the threat [7], which are:
+
+1. Advanced Persistent Threats (APT) that includes Distributed Denial of Service
+(DDoS)
+Defacement Attacks
+Malware Attacks
+Cyber Infiltrations that includes fraud and espionage
+
+Spamming and Phishing
+
+AMAR Y Ph
+
+Abuse of Communication Protocol
+
+In 2013, the Daka Advisory
+estimated the total loss of
+Indonesia due to the direct
+and indirect impact of
+cyber crime, was USD 4,2
+billion, which represented
+the amount of 2.1 percent
+of the total Gross Domestic
+Product (GDP) of
+
+Indonesia [5]. In addition
+to this economic impact, the other main aspect that might result in danger due to cyber
+
+attack is the national security of Indonesia that can be seen from the espionage case of
+
+the President of Indonesia by Australia in 2014 [8].
+
+
+
+Policy Discussion:
+
+Under the Government Regulation Number 82, Indonesia government through the
+coordination of the Ministry of Communication and Information (MCI) and Ministry
+of Defense (MoD) introduce the Cyber Security and Defense Policy [9]. The main
+objective of this policy is to ‘maintain and protect the country’s sovereignty, territorial
+integrity and safety of the nation from any potential threats’ [10]. To achieve this
+objective, the policy uses a Holistic approach that involves not only government
+institutions but also all entities of the nation namely citizen, community, business
+
+sector, and education institutions [9]. There are five agendas of the policy.
+
+Part 1, the Government of Indonesia emphasizes the importance of formulating a legal
+framework to provide a law-based foundation in addressing related cyber threats. In
+the contemporary time, the government uses a reactive approach in determining
+
+cyber-related regulations.
+
+Part 2, the policy regulates technical and procedural measures to standardize the
+enhancement of all entities in the field of cyber security. By this policy, the government
+of Indonesia sought to make sure all parts of cyber security methods not only have the
+legal framework but also comply with the national security standard. There are five
+cyber security standards that have been regulated, which are:
+a. The Indonesia National Standard (SNI) that regulates the management system
+of information security.
+b. Health and Safe Internet Program to optimize information security in cyber
+dimension.
+c. Trust+ to sort out negative content.
+d. Perisai to protect and educate Indonesian children in cyberspace.
+
+Nawala Project to protect the connection of Internet from destructive content
+
+Part 3, the Indonesian Government distribute the cyber security and defense
+responsibility into three divisions, which are government agencies, educations
+institutions and communities, and business entities. This policy attempts to enable all
+entities of the country to involve in securing and defending cyberspace vigorously. The
+MCI represents the government agency to coordinate the business, community and
+education entities, and the cyber defense function is led by the MoD.
+
+
+
+
+Part 4, the Government of Indonesia focuses on ensuring and developing an adequate
+cyber capacity of human resources and government agencies. By this policy, the
+government tries to ensure all responsible cyber units have an adequate ability to secure
+and defend their space from cyber threats and attacks. There are two mechanisms of
+this policy, which are:
+a. Indonesia National Work Competence Standards in Information Security
+(SKKNI-SI) that aim to improve the cyber security capacity of human resources.
+b. Information Security Index (KAMI Index) that applies to assess the information
+
+security maturity of all cyber-related agencies.
+
+Part 5, the policy emphasizes the significance of international cooperation as an
+essential effort to support the domestic anticipations. This policy is an effort of the
+government of Indonesia to support the earlier four policies by strengthening its
+international cooperation with other countries, regional and _ international
+
+organizations.
+
+In general, it can be seen that the contemporary cyber security and defense policy of
+Indonesia tend to use the strategy of Fortified Cyber Defense (FCD), which requires the
+
+building of a protective environment [12]. This FCD strategy is the most appropriate
+
+
+
+strategy for the contemporary condition and resources of Indonesia, compare to the
+other two strategies, which are Active Cyber Defense (ACD) that ‘focuses on identifying
+and neutralizing threats and threats agents both inside and outside the defender’s
+networks’ and
+
+Resilience Cyber
+
+Defense (RCD)
+
+that ‘focuses on
+
+ensuring system
+
+continuity’ (See
+
+Info Box 2).
+
+In term of international cooperation and cyber competency of human resources, the
+policy has shown its effectiveness in securing and defending Indonesian cyber
+environment. One of example is the success of Indonesia government in cooperation
+with the government of China to stop the activity of Asia’s cyber crime network by
+arresting 31 Taiwanese, who have been involved and operating their activities in
+Indonesia [13]. However, there are still some weaknesses of the policy, which are
+primarily caused by the fact that the government of Indonesia has not considered the
+cyber security matter as the top priority of security issue that needs an extraordinary
+
+measure.
+
+From legal framework, the policy has not covered some cyber issues that have been
+addressed in other countries such as telemedicine, anti-spam, and economic espionage
+[14, 15, 16]. Furthermore, five cyber security technical and procedural standards that
+have been implemented, have not addressed the other two-cyber threat discourses;
+crime-espionage and military defense (see Info Box 1), which potentially result in the
+inability to secure critical cyber domain of the country that can be seen from the
+espionage activity by Australia towards Indonesian President in 2014 [8]. Moreover,
+the effort of the Indonesian government to enable the active role of all entities in
+securing and defending cyber network is potentially diminished by the
+indistinctiveness of who is authorized to lead the cyber coordination. The late response
+of Indonesia cyber units towards DDoS attack to Indonesia Central Bank in 2016 by
+Anonymous illustrates the consequence of the nonexistent of this central command
+[17]. As a result, if the government of Indonesia does not address these limitations, then
+in the meantime the other two success policies mentioned earlier will not optimally be
+
+effective and gradually will be inefficient.
+
+
+
+Recommendations:
+
+o Theissue of cyber security must
+
+be considered as the top
+priority of government policy
+that needs an extraordinary
+
+action
+
+The government must use a
+preemptive approach to
+providing legal certainty
+framework for the cyber policy
+by reviewing other countries’
+regulations to assess all
+possible cyber threats
+
+comprehensively
+
+The policy must provide the
+national measure standards for
+two other cyber _ security
+discourses, which are crime-
+
+espionage and military defense
+
+The government must
+authorize one of its agency as
+the central commander to lead
+and coordinate the
+implementation and _ the
+organization of all cyber
+
+security and defense policy
+
+o The government must create and build a
+
+dedicated civilian capacity by promoting
+cyber security training and education
+programs to help in ensuring the
+protection of national interest of
+
+Indonesia in cyberspace
+
+The government of Indonesia must play
+an effective role as a member of
+International Telecommunication Union
+(ITU) by boasting the realization of
+multilateral agreements in securing
+global cyber space and by building a
+mutual cooperation with other ITU
+member countries that have better cyber
+
+security resources and capacities
+
+
+
+References for further information:
+
+[1] International Telecommunication Union. 2014. Global Cybersecurity Index &
+Cyberwellness Profiles. ABI Research
+
+[2] Netizen Indonesia Fact. 2016. The State of Cybersecurity in Indonesia. [online]
+Available at: <https://www.slideshare.net/internetsehat/indonesia-netizen-facts-vol-7>
+[accessed 16.04.2017]
+
+[3] Internet World Stats. N.d. Indonesia. [online] Available at:
+<http://www.internetworldstats.com/asia/id.htm> [accessed 16.04.2017]
+
+[4] Indonesia-Investments. 2016. Indonesia Has 100 Million Internet Users, Internet
+Penetration at 40%. [online] Available at: <http://www.indonesia-
+investments.com/news/todays-headlines/indonesia-has-100-million-internet-users-
+internet-penetration-at-40/item6827> [accessed 16.04.2017]
+
+[5] Daka Advisory. 2013. Meeting the cyber security challenge in Indonesia: An analysis of
+threats and responses. British Embassy Jakarta: Jakarta
+
+[6] Akamai International. 2013. Akamai’s State of the Internet. [online] Available at: <
+https://www.akamai.com/us/en/multimedia/documents/state-of-the-internet/akamai-
+q4-2013-state-of-the-internet-connectivity-report.pdf> [accessed 26.03.2017]
+
+[7] Ministry of Defense of the Republic of Indonesia. 2013. A Road Map to Cyber Defense
+National Strategy. The Ministry of Defense of the Republic of Indonesia: Jakarta
+
+[8] Brissenden, M. 2014. Australia spied on Indonesian president Susilo Bambang
+Yudhoyono, leaked Edward Snowden documents reveal. [online] Available at: <
+http://www.abc.net.au/news/2013-11-18/australia-spied-on-indonesian-president,-
+leaked-documents-reveal/5098860> [accessed 16.04.2017]
+
+[9] KOMINFO. 2016. Kebijakan Keamanan dan Pertahanan Siber. [online] Available at: <
+http://aptika.kominfo.go.id/index.php/artikel/86-kebijakan-keamanan-dan-pertahanan-
+siber-2> [accessed 26.03.2017]
+
+[10] Ministry of Defense of the Republic of Indonesia. 2015. Indonesia Defense White
+Paper 2015. Ministry of Defense of the Republic of Indonesia: Jakarta
+
+[11] Dunn-Cavelty, M. 2010. ‘Cyber Security’ in A. Collins, Contemporary Security Studies.
+Oxford: OUP
+
+[12] Dewar, R. 2014. The Tryptych of Cyber Security: A Classification of Active Cyber
+Defense. 64 International Conference on Cyber Security
+
+[13] Focus Taiwan. 2016. 31 Taiwanese arrested in Indonesia in cybercrime crackdown.
+[online] Available at: < http://focustaiwan.tw/news/asoc/201604120022.aspx> [accessed
+16.04.2017]
+
+[14] Cornell University Law School, n.d. 18 U.S. Code 1831 — Economic espionage. [online]
+Available at: <https://www.law.cornell.edu/uscode/text/18/1831> [accessed 16.04.2017]
+[15] International Telecommunication Union, n.d. Estonia. [online] Available at:
+<https://www.itu.int/osg/spu/spam/legislation/legislation_estonia.html> [accessed
+23.04.2017]
+
+[16] MOH, n.d. National Telemedicine Guidelines. [online] Available at:
+<https://www.moh.gov.sg/content/moh_web/home/Publications/guidelines/national-
+telemedicine-guidelines.html> [accessed 23.04.2017]
+
+[17] Murdock, J. 2016. Central banks of South Korea and Indonesia bulk up security
+following DDoS attacks by hacktivists. [online] Available at:
+<http://www.ibtimes.co.uk/central-banks-south-korea-indonesia-bulk-security-
+following-ddos-attacks-by-hacktivists-1566836> [accessed 16.04.2017]
+
+[18] Twitter Account Indonesian Embassy in Washington, USA. [online] Available at:
+<https://twitter.com/KBRIWashDC/status/794605178662060032/photo/1> [accessed
+23.04.2017]
+
+[19] Hakeem Ajijola, A. 2016. Cyber Security in Nigeria. [online] Available at:
+<https://www.linkedin.com/pulse/cyber-security-nigeria-opportunities-abdul-hakeem-
+ajijola> [accessed 23.04.2017]
+
+[20] Setiadi, F., Sucahyo, YG., and Hasibuan, ZA. 2012. An Overview of the Development
+of Indonesia National Cyber Security. International Journal of Information Technology &
+Computer Science, 6, pp. 106-114
+
+
+

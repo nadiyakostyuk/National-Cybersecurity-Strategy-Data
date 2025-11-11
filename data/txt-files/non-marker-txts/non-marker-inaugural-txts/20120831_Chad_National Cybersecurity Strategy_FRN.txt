@@ -1,0 +1,965 @@
+REPUBLIQUE DU TCHAD  Unité-Travail-Progrès
+CONSEIL MILITAIRE DE TRANSITION
+PRESIDENCE DU CONSEIL
+
+—
+Visa : GG. DH"
+
+ORDONNANCE N° 08 /PCMT/2022
+
+Portant sur la Cybersécurité en
+République du Tchad
+
+LE PRESIDENT DU CONSEIL MILITAIRE DE
+TRANSITION,
+PRESIDENT DE LA REPUBLIQUE, CHEF DE
+L'ETAT,
+PRESIDENT DU CONSEIL DES MINISTRES
+
+Vu la Charte de Transition ;
+
+Vu la Loi N°18/PCMT/2022 du 04 juillet
+2022 portant Habilitation du
+Gouvernement à légiférer par voie
+d'Ordonnance pendant la période allant
+du 1° juillet au 31 aout 2022 ;
+
+Le Conseil des Ministres consulté à
+domicile en date du 31 Août 2022
+
+ORDONNE :
+TITRE | : DES DISPOSITIONS GENERALES
+
+CHAPITRE 1 : DE L'OBJET ET DU CHAMP
+D'APPLICATION
+
+Article 1 : Objet de la Loi
+
+La présente loi fixe les règles et les dispositions de
+sécurité applicables aux systèmes d’information des
+administrations de VÉtat, des collectivités
+territoriales, des établissements et entreprises
+publics et toute autre personne morale de droit
+public, les organisations du secteur privé, désignés
+dans la présente loi par « entité » ;
+
+Article 2 : Champ d'application
+
+Sont soumis à la présente loi :
+
+- La politique et stratégie de sécurité des
+informations numériques du pays
+
+
+
+- Toute activité d'audit des systèmes
+d'information de l’État et des organismes
+privés
+
+- Les activités de formation et de
+sensibilisation des membres des
+administrations de l’État, des collectivités
+territoriales, des établissements et
+entreprises publics et toute autre personne
+morale de droit public ou privé, souhaitant
+bénéficier de l'expertise de l’ANSICE
+
+Article 3 : Sont exclues du champ d'application de la
+présente Loi :
+
+- les applications spécifiques en matière de
+défense et de sécurité nationales.
+
+- les moyens de cryptologie utilisés par les
+missions diplomatiques et consulaires visées
+par la Convention de Vienne sur les relations
+diplomatiques.
+
+- la protection numérique des infrastructures
+vitales du pays
+
+CHAPITRE Il : DES DEFINITIONS
+
+Article 4 : Au sens de la présente loi, les termes et
+expressions suivants, s'entendent :
+
+ANSICE : Agence Nationale de Sécurité Informatique
+et de Certification Électronique. Autorité nationale
+administrative indépendante chargée de veiller au
+respect, sur le territoire national, des dispositions de
+la présente loi.
+
+Chiffrement : procédé grâce auquel on transforme à
+l'aide d'une convention secrète appelée clé, des
+informations claires en informations inintelligibles
+par des tiers n'ayant pas la connaissance de la clé.
+
+Clé : dans un système de chiffrement, elle
+correspond à une valeur mathématique, un mot, une
+phrase, qui permet, grâce à l'algorithme de
+chiffrement, de chiffrer ou de déchiffrer un message.
+
+Communication électronique : toute transmission
+au public ou à une catégorie du public, par un
+procédé de communication électronique ou
+magnétique, de signes, de signaux, d'écrits,
+d'images, de sons ou de message de toute nature.
+
+Confidentialité : état de sécurité permettant de
+garantir le secret des informations et ressources
+stockées dans les réseaux et systèmes de
+communication électroniques, systèmes
+d'information ou des équipements terminaux, afin
+
+
+
+de prévenir la divulgation non autorisée
+d'informations à des tiers, par la lecture, l'écoute, la
+copie illicite d'origine intentionnelle ou accidentelle
+durant leur stockage, traitement au transfert.
+
+Cryptographie : ensemble des techniques qui, au
+moyen d'un cade secret appelé clé, visent à rendre
+un message indéchiffrable pour toute autre
+personne que son émetteur ou son destinataire.
+
+Cryptologie : science relative à la protection et à la
+sécurité des informations notamment pour la
+
+confidentialité, l'authentification, l'intégrité et la non
+répudiation.
+
+Cybercriminalité : ensemble des activités criminelles
+pénalement répréhensibles qui se commettent au
+moyen ou sur un réseau de communications
+électroniques ou sur un système d'information par
+d'autres moyens que ceux habituellement mis en
+
+œuvre et de manière complémentaire à le
+criminalité classique.
+
+Cyberespace : ensemble de données numérisées
+constituant un univers d'information et un milieu de
+
+communication, lié à l'interconnexion mondiale des
+ordinateurs.
+
+Cybersécurité : désigne un ensemble des mesures
+de prévention, de protection et de dissuasion
+d'ordre technique, organisationnel, juridique,
+financier, humain, procédural et autres actions
+permettant d'atteindre les objectifs de sécurisation
+des réseaux de communications électroniques, des
+systèmes d'information et pour la protection de la
+vie privée des personnes.
+
+Déchiffrement : Opération faisant écho au
+chiffrement, ayant pour but l'obtention de la version
+originale d'un message précédemment chiffré.
+
+Disponibilité : désigne l'état de sécurité permettant
+de garantir que les informations et ressources des
+réseaux de communications électroniques, des
+systèmes d’information ou des équipements
+
+terminaux soient accessibles et utilisables selon les
+besoins.
+
+Données : représentation de faits, d'informations ou
+de notions sous une forme susceptible d'être traitée
+par un équipement terminal, y compris un
+programme permettant à ce dernier d'exécuter une
+fonction.
+
+Données informatiques : toute représentation de
+faits, d'informations ou de concepts sous une forme
+qui se prête à un traitement informatique, y compris
+un programme de nature à faire en sorte qu'un
+système informatique exécute une fonction.
+
+
+
+Données relatives au trafic : toutes données ayant
+trait à une communication passant par un système
+informatique, produites par ce dernier en tant
+qu'élément de la chaîne de communication,
+indiquant l'origine, la destination, l'itinéraire,
+l'heure, la date, la taille et la durée de la
+communication ou le type de service sous-jacent.
+
+Fournisseur de services : toute personne physique
+ou morale fournissant pour son propre compte ou
+pour le compte d'autrui des services de
+communications électroniques ou de services
+d'information électroniques, y compris la fourniture
+de l'accès à l'utilisation de ces services.
+
+intégrité : désigne l'état de sécurité assurant qu'un
+réseau de communications électroniques, système
+d'information ou équipement terminal demeuré
+intact et que les ressources et informations qui y
+stockées n'ont pas été altérées, modifiées ou
+détruites, d'une façon intentionnelle ou accidentelle,
+de manière à assurer leur exactitude, leur fiabilité et
+leur pérennité.
+
+Mineur : toute personne âgée de moins de dix-huit
+(18) ans au sens de la loi nationale.
+
+Prestataire de service de sécurité : toute personne
+physique ou morale qui exerce des activités liées à la
+sécurité électronique notamment la délivrance et la
+gestion des certificats électroniques ou la fourniture
+d'autres services liés aux signatures électroniques, la
+création des logiciels de sécurité, la surveillance des
+réseaux, la détection d'intrusions, l'audit des réseaux
+et systèmes de sécurité.
+
+Preuve numérique : toute information probante
+stockée ou transmise sous forme numérique.
+
+Pornographie enfantine : toute donnée quels qu'en
+soient la nature, la forme ou le support
+représentant:
+
+- un mineur se livrant à un comportement
+sexuellement explicite ;
+
+- une personne qui apparaît comme un
+mineur se livrant à un comportement
+sexuellement explicite ;
+
+- des images réalistes représentant un mineur
+se livrant à un comportement sexuellement
+explicite.
+
+Réseau de communications électroniques
+
+systèmes de transmission, actif ou passif et, le cas
+échéant, les équipements de commutation et de
+routage et les autres ressources qui permettent
+l'acheminement des signaux par câble, par voie
+
+
+
+hertzienne, par moyen optique ou par d'autres
+moyens électromagnétiques comprenant les réseaux
+satellitaires, les réseaux terrestres fixes (avec
+commutation de circuits ou de paquets, y compris
+l'internet) et mobile, les systèmes utilisant le réseau
+électrique, pour autant qu'ils servent à la
+transmission des signaux, les réseaux utilisés pour la
+radiodiffusion sonore et télévisuelle et les réseaux
+câblés de télévision, quel que soit le type
+d'information transmise.
+
+Sécurité : situation dans laquelle quelqu'un ou
+quelque chose n'est exposé à aucun danger.
+Mécanisme destiné à prévenir un événement
+dommageable ou à en limiter les effets.
+
+Service de communications électroniques
+prestation consistante entièrement ou
+principalement en la fourniture de communications
+électroniques à l'exclusion des contenus des services
+de communication audiovisuelle.
+
+Système informatique : désigne tout dispositif isolé
+ou ensemble de dispositifs interconnectés ou
+apparentés, qui assurent ou dont un ou plusieurs
+éléments assurent, en exécution d'un programme,
+un traitement automatisé de données.
+
+Système d'information : désigne tout dispositif isolé
+ou ensemble de dispositifs interconnectés ou
+apparentés, assurant par lui-même ou par un ou
+plusieurs de ses éléments, conformément à un
+programme, un traitement automatisé de données.
+
+Technologies de l'information et de la
+communication (TIC) : désigne les technologies
+employées pour recueillir, stocker, utiliser et
+envoyer des informations ainsi que celles qui
+impliquent l'utilisation des ordinateurs ou de tout
+système de communication y compris de
+télécommunication.
+
+Article 5 : Pour les termes et expressions qui ne sont
+pas définis dans la présente loi, il convient en tant
+que de besoin, de se référer aux définitions données
+par les conventions, décisions et documents de
+l’Union Internationale des Télécommunications (UIT
+ou à ceux de l'Union Africaine (UA), de la
+Communauté Économique des États de l'Afrique
+Centrale (CEEAC), ou à ceux de la Communauté
+
+Économique et Monétaire de l'Afrique Centrale
+(CEMAC).
+
+TITRE Il : DU DISPOSITIF DE SECURITE
+DES SYSTEMES D'INFORMATION
+
+CHAPITRE I : DE LA PROTECTION DES SYSTEMES
+INFORMATIQUES
+
+
+
+Section première. -De la mission de
+l'État
+
+Article 6: En collaboration avec les parties
+prenantes comprenant, l'industrie et les
+organisations professionnelles, la société civile et les
+citoyens, l'État, à travers le Ministère en charge des
+communications électroniques, élabore et met en
+œuvre une politique nationale de sécurité des
+systèmes d’information en tenant compte de
+l'évolution technologique et des priorités du
+gouvernement dans ce domaine.
+
+A ce titre, l'État, à travers l’ANSICE :
+
+a) assure la promotion de la sécurité des
+réseaux de communications électroniques et
+des systèmes d’information ainsi que le suivi
+de l'évolution des questions liées aux
+activités de sécurité informatique ;
+
+b) coordonne sur le plan national les activités
+concourant à la sécurisation et à la
+protection des réseaux de communications
+électroniques et des systèmes
+d'information ;
+
+c) veille à la mise en place d'un cadre légal et
+règlementaire adéquat pour la sécurité des
+communications électroniques ;
+
+d) assure la représentation de l'État aux
+instances internationales chargées des
+activités liées à la sécurisation et à la
+protection des réseaux de communications
+électroniques et des systèmes d'information.
+
+Article 7: La politique nationale de cybersécurité
+devra intégrer dans ses grandes lignes, la protection
+de l'information dans les réseaux, la sécurité des
+transactions électroniques, la protection de la vie
+privée et des mineurs dans le cyberespace, ainsi que
+la lutte contre la fracture numérique.
+
+Section Il.-Dispositions propres aux
+entités
+
+Article 8: Chaque entité doit veiller à ce que ses
+systèmes d’information soient conformes aux
+directives, règles, règlements, référentiels ou
+recommandations, édictés par l’ANSICE.
+
+Article 9 : Chaque entité doit élaborer et mettre en
+œuvre une politique de sécurité de ses systèmes
+d’information qui soit conforme aux directives de
+l’ANSICE.
+
+
+
+Chaque entité est tenue d'identifier les risques qui
+menacent la sécurité de ses systèmes d’information
+et de prendre des mesures techniques et
+organisationnelles nécessaires pour gérer ces
+risques, éviter les incidents de nature à porter
+atteinte aux systèmes d’information ainsi que pour
+en réduire au minimum l'impact.
+
+Tout système d’information d’une entité offrant des
+services numériques à des tiers doit, avant sa mise
+en exploitation, faire l’objet d’un audit de sa sécurité
+par l’ANSICE.
+
+Chaque entité doit, régulièrement, auditer ses
+systèmes d’information.
+
+Article 10 : Chaque entité doit classifier ses actifs
+informationnels et systèmes d’information selon leur
+niveau de sensibilité en termes de confidentialité,
+d'intégrité et de disponibilité. Les mesures de
+protection des actifs informationnels et systèmes
+d’information doivent être proportionnés au niveau
+de classification attribué.
+
+Chaque entité doit arrêter des procédures
+d’habilitation des personnes pouvant accéder aux
+informations classifiées et des conditions d'échange,
+de conservation ou de transport de ces informations.
+
+Le référentiel de classification des actifs
+informationnels et des systèmes d’information est
+fixé par l’ANSICE.
+
+Article 11: Chaque entité doit désigner un
+responsable de la sécurité des systèmes
+d’information qui veille à l'application de la politique
+de sécurité des systèmes d’information.
+
+Le responsable de la sécurité des systèmes
+d’information est l'interlocuteur de l'ANSICE et doit
+jouir de l'indépendance requise dans l’exercice de sa
+mission.
+
+Article 12 : Chaque entité met en place des moyens
+appropriés de supervision et de détection des
+évènements susceptibles d’affecter la sécurité de ses
+systèmes d’information et d’avoir un impact
+significatif sur la continuité des services qu’elle
+assure.
+
+Les données techniques générées par les moyens
+précités ne peuvent être exploitées par l'ANSICE
+qu'aux seules fins de caractériser et traiter la
+menace affectant la sécurité des systèmes
+d’information de l'entité concernée.
+
+
+
+Article 13: Chaque entité doit, dès qu'elle prend
+connaissance d’un incident affectant la sécurité ou le
+fonctionnement de ses systèmes d’information, le
+déclarer à l’'ANSICE.
+
+A la demande de l'ANSICE, chaque entité lui
+communique, sans délai, les informations
+complémentaires relatives aux incidents affectant la
+
+sécurité ou le fonctionnement de ses systèmes
+d’information.
+
+L'ANSICE précise les données techniques et les
+informations relatives aux incidents qui doivent être
+
+communiquées ainsi que les modalités de leur
+transmission.
+
+Elle adresse à l’entité concernée une synthèse des
+mesures et recommandations relatives au
+traitement de l'incident.
+
+Article 14: Chaque entité prépare un plan de
+continuité ou de reprise d'activités intégrant
+l'ensemble des solutions de secours pour neutraliser
+les interruptions des activités, protéger les processus
+métier cruciaux des effets causés par les principales
+défaillances des systèmes d’information ou par des
+sinistres et garantir une reprise de ces processus
+dans les meilleurs délais.
+
+Le plan de continuité ou de reprise d'activités doit
+être testé régulièrement afin de le mettre à jour en
+fonction des évolutions propres de l'entité et de
+l’évolution des menaces.
+
+Article 15 : L'ANSICE fixe les règles et le référentiel
+technique régissant la sécurité relative à
+l’externalisation des systèmes d’information.
+
+Section III. — De l'obligation d'audit
+
+Article 16: Les réseaux de communications
+électroniques et les systèmes d'information des
+opérateurs, des Autorités de certification et des
+fournisseurs de services de communications
+électroniques sont soumis à l'audit de sécurité
+obligatoire et périodique par l'Agence Nationale de
+Sécurité Informatique et de Certification
+Électronique (ANSICE) ou par un prestataire d'audit
+qualifié par L'ANSICE.
+
+L'audit de sécurité et les mesures d'impact de
+gravité sont effectués chaque année ou lorsque les
+circonstances l'exigent.
+
+Les rapports d'audit sont confidentiels et adressés
+au Directeur Général de l’ANSICE.
+
+Scanné avec CamScanner
+
+
+
+Les conditions d'évaluation des menaces, des
+vulnérabilités des systèmes d’information et l'impact
+de potentielles attaques sur ces systèmes
+d’information, ainsi que les conditions et les
+modalités de l'audit de sécurité seront fixées par
+voie règlementaire par l’ANSICE.
+
+Article 17 : Le personnel de l'ANSICE et les experts
+commis en vue d'accomplir des opérations d'audit
+sont astreints au secret professionnel.
+
+Section IV. — De la cryptologie
+
+Article 18 : L'utilisation des moyens et prestations
+de cryptologie est libre.
+
+Toutefois, lorsque les moyens ou des prestations de
+cryptologie permettent d'assurer des fonctions de
+confidentialité, le principe de libre utilisation ne
+s'applique que conformément à la présente loi.
+
+La fourniture, l'importation et l'exportation des
+moyens de cryptologie assurant exclusivement des
+fonctions  d’authentification ou de contrôle
+d’intégrité sont également libres.
+
+Article 19: Nonobstant les dispositions de la
+présente loi, les modalités d'utilisation de la taille de
+certaines clés sont fixées par décret.
+
+Article 20: La fourniture ou l'importation d’un
+moyen de cryptologie n’assurant pas exclusivement
+des fonctions d’authentification ou de contrôle
+d’intégrité est soumise à une déclaration préalable
+auprès de l’ANSICE.
+
+Le prestataire ou la personne procédant à la
+fourniture ou à l'importation d’un service de
+cryptologie tient à la disposition de l'ANSICE une
+description des caractéristiques techniques de ce
+moyen de cryptologie. Les prestataires de services
+de  cryptologie sont assujettis au secret
+professionnel.
+
+Un décret définit les conditions dans lesquelles est
+effectuée la déclaration visée à l'alinéa premier du
+présent article,
+
+Article 21 : Sauf dispositions contraires, l'exportation
+d'un moyen de cryptologie n’assurant pas
+exclusivement des fonctions d’authentification ou de
+contrôle d'intégrité est soumise à autorisation de
+l'ANSICE.
+
+Article 22: Les conditions de délivrance de
+l'agrément aux organismes exerçant des prestations
+de cryptologie ainsi que leurs obligations sont
+définies par décret.
+
+
+
+Article 23 : Les organismes exerçant des prestations
+de cryptologie doivent être agréés par l'ANSICE.
+
+Article 24: Les conditions de délivrance de
+l'agrément aux organismes exerçant des prestations
+de cryptologie ainsi que leurs obligations sont
+définies par décret.
+
+CHAPITRE Il : DES DROITS, OBLIGATIONS
+ET MESURES DE SECURITE
+ELECTRONIQUE
+
+Section | : Des droits et obligations
+relatives à la vie privée
+
+Article 25 : Les opérateurs et exploitants des réseaux
+de communications électroniques et des systèmes
+d'information sont tenus d'assurer la confidentialité
+des communications acheminées à travers les
+réseaux de communications électroniques et les
+systèmes d'information, y compris les données
+relatives au trafic.
+
+Article 26: Le fournisseur de contenus est
+responsable des contenus véhiculés par son système
+d'information, notamment lorsque ces contenus
+portent atteinte à la dignité humaine, à l'honneur et
+à la vie privée.
+
+Article 27 : Il est interdit à toute personne physique
+ou morale d'écouter, d'intercepter, de stocker les
+communications et les données relatives au trafic y
+afférent, ou de les soumettre à tout autre moyen
+d'interception ou de surveillance, sans le
+consentement des utilisateurs concernés, sauf
+lorsque cette personne y est légalement autorisée.
+
+Toutefois, le stockage technique préalable à
+l'acheminement de toute communication est
+autorisé aux opérateurs et exploitants des réseaux
+de communications électroniques, sans préjudice du
+principe de confidentialité.
+
+Article 28 : L'enregistrement des communications et
+des données de trafic y afférentes, effectué dans le
+cadre professionnel en vue de fournir la preuve
+
+numérique d'une communication électronique est
+autorisé.
+
+Article 29 : les fournisseurs de contenus des réseaux
+de communications électroniques et systèmes
+d'information, sont tenus de conserver les contenus
+ainsi que les données stockées dans leurs
+
+installations pendant une durée de dix (10) ans
+maximum.
+
+
+
+Les fournisseurs de contenus des réseaux de
+communications électroniques et systèmes
+d'information, ont l'obligation de mettre en place
+des dispositifs nécessaires pour faire face aux
+atteintes préjudiciables aux données personnelles et
+à la vie privée des utilisateurs.
+
+Article _30: l'utilisation des réseaux de
+communications électroniques et des systèmes
+d'information aux fins de stocker les informations ou
+d'accéder à des informations stockées dans un
+équipement terminal d'une personne physique ou
+morale, ne peut se faire qu'avec son consentement
+préalable ou à la demande des autorités judiciaires.
+
+Article 31 : L'émission des messages électroniques à
+des fins de prospection en dissimulant l'identité de
+l'émetteur au nom duquel la communication est
+faite, ou sans indiquer une adresse valide à laquelle
+le destinataire peut transmettre une demande visant
+à obtenir l'arrêt de ces informations est interdite.
+
+Article 32: L'émission des messages électroniques
+en usurpant l'identité d'autrui est interdite.
+
+Article 33 : les personnes dont l'activité est d'offrir
+un accès à des services de communications
+électroniques, sont tenus d'informer leurs abonnés
+de l'existence de moyens techniques permettant de
+restreindre l'accès à certains services ou de les
+sélectionner et leur proposer au moins un de ces
+moyens.
+
+Article 34: La responsabilité des personnes qui
+assurent, même à titre gratuit le stockage des
+signaux, d'écrits, d'images, de sons ou de messages
+de toute nature fournis aux destinataires de ces
+services, peut être engagée.
+
+Toutefois, la responsabilité prévue à l'alinéa 1 ci-
+dessus n'est point engagée dans les cas suivants :
+
+a) siles personnes n'avaient pas effectivement
+connaissance de leur caractère illicite ou de
+faits et circonstances faisant apparaitre ce
+caractère;
+
+b) si, dès le moment où elles ont eu
+connaissance des faits, elles ont agi
+
+promptement pour retirer ces données au en
+rendre l'accès impossible.
+
+Article 35 : Les personnes mentionnées aux articles
+33 et 34 ci-dessus, sont tenues de conserver,
+pendant une durée de dix (10) ans, les données
+permettant l'identification de toute personne ayant
+contribué à la création du contenu des services dont
+elles sont prestataires.
+
+
+
+L'autorité judiciaire peut requérir communication
+des données prévues à l'alinéa 1 ci-dessus auprès
+des prestataires mentionnés aux articles 33 et 34.
+
+Article 36: la juridiction compétente saisie doit
+statuer dans un délai maximum de trois (3) mois sur
+toutes mesures propres à prévenir un dommage ou
+à faire cesser un dommage occasionné par le
+
+contenu d'un service de communication
+électronique.
+
+Article 37: Toute personne victime d'une
+diffamation au moyen d'un service de
+communications électroniques, dispose d'un droit de
+réponse et peut en exiger la rectification suivant les
+conditions prévues par les textes en vigueur.
+
+En cas de refus ou de non publication de son droit de
+réponse, la personne victime d'une diffamation peut
+user des voies de droit prévues par les textes en
+vigueur pour obtenir réparation du préjudice subi.
+
+Article 38 : Toute personne assurant une activité de
+transmission de contenus sur un réseau de
+communications électroniques ou de fourniture
+d'accès à un réseau de communications
+électroniques ne peut voir sa responsabilité engagée
+que lorsqu'elle :
+
+a) est à l'origine de la demande de
+transmission litigieuse;
+
+b) sélectionne ou modifie les contenus faisant
+l'objet de la transmission.
+
+Article 39 : Toute personne assurant dans le seul but
+de rendre plus efficace leur transmission ultérieure,
+une activité de stockage automatique, intermédiaire
+et temporaire des contenus qu'un prestataire
+transmet ne peut voir sa responsabilité civile ou
+pénale engagée en raison de ces contenus que dans
+le cas où elle :
+
+a) a modifié ces contenus ;
+b) ne s'est pas conformée à leurs conditions
+
+d'accès et aux règles usuelles concernant
+leur mise à jour; ou
+c) a entravé l'utilisation licite et usuelle de la
+
+technologie utilisée pour obtenir les
+données.
+
+Section Il : De l'obligation de protection
+des réseaux de communications
+électroniques
+
+Article 40: Les opérateurs des réseaux de
+communications électroniques et les fournisseurs de
+services de communications électroniques sont
+
+t
+
+
+
+tenus de prendre toutes les mesures techniques et
+administratives nécessaires pour garantir la sécurité
+
+des services offerts. À cet effet, ils sont tenus
+d'informer les usagers :
+
+a) du danger encouru en cas d'utilisation de
+leurs réseaux:
+
+b) des risques particuliers de violation de la
+sécurité notamment les dénis de service
+distribués, le reroutage anormal, les pointes
+de trafic, le trafic et les ports inhabituels, les
+écoutes passives et actives, les intrusions et
+tout autre risque :
+
+c) de l'existence de moyens techniques
+permettant d'assurer la sécurité de leurs
+communications.
+
+Article 41: Les opérateurs de réseaux et les
+fournisseurs de services de communications
+électroniques ont l'obligation de conserver les
+données de connexion et de trafic pendant une
+période de dix (10) ans.
+
+Les opérateurs de réseaux et les fournisseurs de
+services de communications électroniques sont
+tenus d'installer des mécanismes de surveillance de
+trafic des données de leurs réseaux. Ces données
+peuvent être accessibles lors des investigations
+judiciaires.
+
+La responsabilité des opérateurs de réseaux et celles
+des fournisseurs de services de communications
+électroniques est engagée si l'utilisation des
+données prévue à l'alinéa 2 ci-dessus porte atteinte
+aux libertés individuelles des usagers.
+
+Section II! : De l'obligation de protection
+des systèmes d'information
+
+Article 42: Les exploitants des systèmes
+d'information sont tenus de prendre toutes les
+mesures techniques et administratives afin de
+garantir la sécurité des services offerts. À cet effet,
+ils doivent se doter de systèmes normalisés leur
+permettant d'identifier, d'évaluer, de traiter et de
+gérer de manière continue les risques liés à la
+sécurité des systèmes d'information dans le cadre
+des services offerts directement ou indirectement.
+
+Les exploitants des systèmes d'information doivent
+mettre en place des mécanismes techniques pour
+faire face aux atteintes préjudiciables à la
+disponibilité permanente des systèmes, à leur
+intégrité, à leur authentification, à leur non
+répudiation par des utilisateurs tiers, à la
+confidentialité des données et à la sécurité physique.
+
+
+
+Les mécanismes prévus à l'alinéa 2 ci-dessus, doivent
+faire l'objet d'approbation par l'ANSICE.
+
+Les plates-formes des systèmes d'information
+doivent faire l'objet de protection contre d'éventuels
+rayonnements et des intrusions qui pourraient
+compromettre l'intégrité des données transmises et
+contre toute autre attaque externe notamment par
+un système de détection d'intrusions.
+
+Article 43 : les personnes morales dont l'activité est
+
+d'offrir un accès à des systèmes d'information sont
+tenues d'informer les usagers :
+
+a) du danger encouru dans l'utilisation des
+systèmes d'information non sécurisés
+notamment pour les particuliers ;
+
+b) de la nécessité d'installer des dispositifs de
+contrôle parental ;
+
+c) des risques particuliers de violation de
+sécurité, notamment la famille générique des
+virus ;
+
+d) de l'existence de moyens techniques
+permettant de restreindre l’accès à certains
+services et de leur proposer au moins l'un de
+ces moyens, notamment l'utilisation des
+systèmes d'exploitation les plus récents, les
+outils antivirus et contre les logiciels espions
+et trompeurs, l'activation des pare-feu
+personnels, de systèmes de détection
+d'intrusions et l'activation des mises à jour
+automatiques.
+
+Article 44: Les exploitants des systèmes
+d'information sont tenus d'informer les utilisateurs
+de l'interdiction faite d'utiliser le réseau de
+communications électroniques pour diffuser des
+contenus illicites ou tout autre acte qui peut
+entamer la sécurité des réseaux ou des systèmes
+d'information, ou attenter à la vie privée des
+individus.
+
+L'interdiction porte également sur la conception de
+logiciel trompeur, de logiciel espion, de logiciel
+potentiellement indésirable ou de tout autre outil
+conduisant à un comportement frauduleux.
+
+Article 45: Les exploitants des systèmes
+d'information ont l'obligation de conserver les
+données de connexion et de trafic de leurs systèmes
+d'information pendant une période de dix (10) ans.
+
+Les exploitants des systèmes d'information sont
+tenus d'installer des mécanismes de surveillance et
+de contrôle d'accès aux données de leurs systèmes
+d’information, les données conservées doivent être
+accessibles lors des investigations judiciaires.
+
+
+
+Les installations des exploitants des systèmes
+d'information peuvent faire l'objet de perquisition
+ou de saisie sur ordre d'une autorité judiciaire dans
+
+les conditions prévues par les lois et règlements en
+vigueur.
+
+Article 46: les exploitants des systèmes
+d'information doivent évaluer et réviser
+périodiquement leurs systèmes de sécurité et
+introduire en cas de nécessité les modifications
+appropriées dans leurs pratiques, mesures et
+techniques de sécurité en fonction de l'évolution des
+technologies.
+
+Les exploitants des systèmes d'information et leurs
+utilisateurs peuvent coopérer entre eux pour
+l'élaboration et la mise en œuvre des pratiques,
+
+mesures et techniques de sécurité de leurs
+systèmes.
+
+Article 47 : Les fournisseurs de contenus des réseaux
+de communications électroniques et systèmes
+d'information sont tenus d'assurer la disponibilité
+
+des contenus, ainsi que celle des données stockées
+dans leurs installations.
+
+Ils ont l'obligation de mettre en place des filtres pour
+faire face aux atteintes préjudiciables aux données
+personnelles et à la vie privée des utilisateurs.
+
+CHAPITRE Il : DE LA REGULATION ET DU SUIVI
+DES ACTIVITES DE SECURITE DES SYSTEMES
+INFORMATIQUES ET DE LA PROTECTION DES
+DONNEES A CARACTERE PERSONNEL
+
+Article 48 : La régulation des activités de sécurité
+des systèmes d’information, la sécurité des
+transactions électronique, la protection des données
+à caractère personnel, la protection de la vie privée
+dans le cyberespace, la protection des mineurs en
+ligne, les audits de sécurité, les agréments des
+prestataires de service d'audit de sécurité et de
+cryptologie, l’homologation des équipements de
+cryptographie sur l'ensemble du territoire national
+et la mise en œuvre des dispositions de la présente
+loi, de la loi portant protection des données à
+caractère personnel et de celle portant sur les
+transactions électroniques de la République du
+Tchad sont assurées par l'Agence Nationale de
+Sécurité informatique et de Certification
+Électronique (ANSICE).
+
+CHAPITRE III : DE LA FORMATION, DE LA
+SENSIBILIBATION ET DE LA COOPERATION
+
+Article 49 : L’ANSICE organise, en collaboration avec
+les acteurs et professionnels de la sécurité des
+
+
+
+systèmes d'information, des cycles de formation et
+des exercices au profit du personnel et renforcer les
+capacités nationales en la matière.
+
+Article 50 : L'ANSICE définit et met en œuvre des
+programmes de sensibilisation sur la cyberéthique et
+sur les enjeux liés aux menaces et risques de
+cybersécurité au profit du personnel de l'Etat et du
+secteur privé et des particuliers.
+
+Des conseils et recommandations d'hygiène en
+sécurité informatique au profit du personnel des de
+l'Etat et du secteur privé et des particuliers sont
+régulièrement publiés sur le site web de l’ANSICE.
+
+Article 51: L'ANSICE contribue aux programmes
+initiés par les organes compétents de l'Etat pour le
+renforcement de la confiance numérique, le
+développement de la digitalisation des services et la
+protection des données à caractère personnel.
+
+Article 52 : L'ANSICE développe et coordonne, en
+concertation avec les administrations concernées,
+les relations de coopération avec les organismes
+nationaux et étrangers dans le domaine de la
+sécurité des systèmes d’information.
+
+CHAPITRE IV : DES DISPOSITIONS
+TRANSITOIRES ET FINALES
+
+Article 53: En tant que de besoin, les conditions
+d'application de la présente loi seront précisées par
+voie réglementaire.
+
+Article 54 : La présente Ordonnance abroge toutes
+dispositions antérieures contraires, sera enregistrée
+et publiée au Journal Officiel de la République et
+exécutée comme Loi de l'Etat.
+
+
+
