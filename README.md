@@ -3,9 +3,9 @@
 
 ## The Paper
 
-<a href= "https://github.com/nadiyakostyuk/National-Cybersecurity-Strategy-Data/blob/main/draft/manuscript_final.pdf">Main Manuscript </a>
+<a href= "https://github.com/nadiyakostyuk/National-Cybersecurity-Strategy-Data/blob/main/draft/strategy_main.pdf">Main Manuscript </a>
 
-<a href= "https://github.com/nadiyakostyuk/National-Cybersecurity-Strategy-Data/blob/main/draft/online_appendix_final.pdf"> Online Appendix </a>
+<a href= "https://github.com/nadiyakostyuk/National-Cybersecurity-Strategy-Data/blob/main/draft/strategy_online_appendix.pdf"> Online Appendix </a>
 
 ## Replication Code and Analysis
 The [/data](https://github.com/nadiyakostyuk/National-Cybersecurity-Strategy-Data/tree/main/data) folder contains the data used for the analysis.
