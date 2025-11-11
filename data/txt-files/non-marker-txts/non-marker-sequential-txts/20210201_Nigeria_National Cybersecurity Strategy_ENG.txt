@@ -1,0 +1,4471 @@
+h
+1] o, REPUBLIC OF NIGERIA
+
+NATIONAL CYBERSECURITY
+POLICY AND STRATEGY
+
+FEBRUARY 2021
+
+
+
+NATIONAL CYBERSECURITY POLICY
+AND STRATEGY
+
+FEDERAL REPUBLIC OF NIGERIA
+FEBRUARY 2021
+
+
+
+FOREWORD
+
+At the start of the second term of my administration in 2019, we laid out
+clear national objectives and affirmed our commitment to address some of
+the most critical issues facing the country. To this end, we set our focus
+and priority on tackling insecurity, strengthening our economy and
+fighting corruption, as the pathway for progressive and sustainable
+national development. An integral part of our approach to confronting
+these issues has been to hinge on the opportunities offered by the current
+technological and digital revolution. This approach stems from the
+recognition that our country is blessed with a large, young and
+entrepreneurial population, which offers us the unique opportunity to fully
+exploit the benefits of Information and Communications Technology (ICT)
+and the current digital environment. Our course of action is also premised
+on our understanding that the digital environment is central and
+indispensable to our national and economic security. Based on this, over
+the last couple of years, we focused our efforts on several ICT-driven
+initiatives to propel the country towards the attainment of our national
+objectives.
+
+In March 2020, we launched the National Broadband Plan (NBP) 2020 -
+2025 to increase Internet and broadband penetration across the country
+as part of our Economic Recovery and Growth Plan (ERGP). We also
+released an Economic Sustainability Plan 2020 targeted at mitigating the
+effects of a deep recession and ensuring social stability and addressing
+long-standing economic vulnerabilities as envisaged in the ERGP.
+Furthermore, we spearheaded the implementation of several ICT-driven
+schemes such as the Treasury Single Account (TSA) and Bank Verification
+Number (BVN) to enhance accountability and improve delivery of
+commercial and financial services across the country. We also hinged on
+ICT to drive the implementation of our National Identity Program, Data
+Privacy and Protection Framework and several other national initiatives
+designed to encourage and increase the conduct of transactions and
+interactions as well as government functions over the Internet and cyber
+domain. The series of platforms provided by the cyber domain also serve as
+enabler for tackling some of the myriad of security challenges facing our
+country. Specifically, the cyber domain creates the nexus for synchronising
+the efforts of our security and law enforcement agencies towards curbing
+crime, irregular migration, human trafficking and arms proliferation
+amongst others, while improving road safety and border security as well as
+
+
+
+enhancing ongoing anti-banditry, anti-militancy and counter-insurgency
+operations. Furthermore, the cyber domain provides us with the platform
+to enhance accountability and transparency thereby supporting our
+unwavering resolve to combat corruption in the country.
+
+Despite these notable achievements, our ability to effectively harness and
+fully exploit the benefits of the cyber domain is threatened by several
+inherent challenges. The recent expansive nature of the Internet has
+increased the proliferation and diversification of the threats in cyberspace.
+Similar to other countries, our cyberspace is faced with dangers posed by
+criminals constantly striving to perpetuate various forms of cyber attacks
+and crimes such as fraud, identity and intellectual property theft as well as
+elections interference and destruction of our critical infrastructure. We are
+also witnessing an increasing use of the Internet for propagation of
+seditious messages, fake news and hate speech. Moreover, the cyber
+domain now hosts an increasing pool of illicit actors including foreign and
+domestic groups, state and non-state elements, as well as lone wolves. The
+wide playing field offered by cyberspace has also attracted the attention of
+terrorists and other subversive elements who constantly strive to exploit
+cyberspace for indoctrination or propaganda and to undermine the
+government and cause apprehension towards the people. The criticality of
+the threats affecting our cyber domain has been further exacerbated by
+recent developments on the global stage. The outbreak of COVID-19
+pandemic resulted in massive migration of the populace to cyberspace. The
+advent of 5G and emergence of other new technologies such as Artificial
+Intelligence, blockchain technology, cloud computing and Internet of
+Things have further widened the scope and threat landscape of our
+cyberspace.
+
+Nonetheless, these challenges are not insurmountable. Beyond these
+multifaceted threats lie opportunities for us to mobilise as a nation, and
+develop our human resources and capacity across government and our
+private sector, to build a strong, resilient and secure national cyberspace.
+Our approach to national cybersecurity is the development of a robust and
+adaptive digital ecosystem based on mutual collaboration and synergy of
+the triad of government, academia and industry, reinforced by strong
+regional and international alliances. It is for this reason that our national
+cybersecurity is conceptualised as an integral and indispensable pillar of
+our national and economic security. We have already demonstrated our
+resolve and commitment to fully articulate our efforts towards enhancing
+
+ii
+
+
+
+our national cybersecurity. Our Cybercrimes (Prohibition, Prevention, Etc)
+Act 2015 empowers us with the legal framework for addressing cybercrime
+and enhancing our national cybersecurity. In 2014, we developed our
+maiden National Cybersecurity Policy and Strategy which set the direction
+for coordination of our engagements in cyberspace over the past 6 years.
+The cybersecurity programs, institutions and initiatives implemented over
+these past 6 years have helped to establish us as a formidable global and
+regional player in the digital domain.
+
+Therefore, the rationale for review of the National Cybersecurity Policy and
+Strategy 2014 is to continue on this path of progress and build on previous
+achievements. The objective is also to realign our cybersecurity efforts to
+effectively confront the dynamic and emergent nature of threats in our
+cyberspace while hinging us closer to the attainment of our national
+security objectives. However, our quest for attainment of national security
+objectives goes beyond reaction to cyber threats. We must continue to
+coordinate and effectively harness the cybersecurity efforts of our private
+sector, academia, industry and civil society towards progressive national
+development. We must also synergise to develop the necessary human and
+technological capacity to harness the benefits of the digital space to
+accelerate positive economic transformation. The global disposition of the
+cyber domain also gives us the platform to renew our commitment to
+regional and international cooperation. These aforementioned aspirations
+are the basis for the development of this policy document.
+
+The National Cybersecurity Policy and Strategy 2021 signifies the renewal
+of my promise and commitment to Nigeria's national security and economic
+prosperity and it ensures that our National Cybersecurity Program is
+prioritised among other national exigencies in my administration.
+
+I therefore endorse the document as the overarching policy and strategy
+framework for driving Nigeria's cybersecurity efforts towards the
+attainment of our national objectives.
+
+»
+MUHAMMADU BUHARI
+President, Commander-in-Chief of the Armed Forces
+Federal Republic of Nigeria
+
+1ii
+
+
+
+PREFACE
+
+Nigeria, like several other countries across the globe, is currently
+witnessing a surge in digital transformation. Many activities are now
+migrating to the Internet especially with the advent of the COVID-19
+pandemic and the emergence of new technologies. Consequently, Nigeria's
+cyberspace has become a centre stage for new business innovations,
+government functions and social interactions. This trend has created an
+opportunity for the country to realign its priorities and articulate efforts
+towards the attainment of stipulated national objectives. The current
+attributes of cyberspace also pave the requisite path for the adoption of
+new technologies, dismantling of barriers to commerce, reinforcement of
+economic posture and enhancement of seamless communication across
+borders. The opportunities offered by the cyberspace revolution also create
+a platform for the enhancement and effective synchronisation of the efforts
+of our intelligence, security and defence community towards addressing
+the myriads of security challenges confronting the country.
+
+However, the increased dependence on cyberspace comes with risks that
+have significant national security and economic implications. The dynamic
+nature of cyber threats and the constantly evolving tactics of perpetrators
+of cybercrime pose serious risks to business, commercial and financial
+activities which are all now extensively reliant on cyberspace. These cyber
+threats also constitute hazards to everyday users of cyberspace which cut
+across government establishments, private sector and the general
+populace. Furthermore, these threats have the potential to compromise
+critical networks and systems leading to disruption of essential services. In
+most cases, these disruptions are perpetrated by individuals or groups
+using arrays of malicious activities and attacks motivated by financial
+gains, anti-government or terrorist related activities thus challenging the
+confidentiality, integrity and availability of data in the Nigerian cyberspace.
+
+In a bid to address these multifaceted cyber threats and embolden the
+country for efficient and progressive use of the cyber domain, the Federal
+Government of Nigeria (FGN), through the Office of the National Security
+Adviser (ONSA), undertook several proactive steps to draw the necessary
+cybersecurity roadmap for Nigeria. In this light, the National Cybersecurity
+Policy and Strategy 2014 was developed to provide direction for
+mainstreaming Nigeria's National Cybersecurity Program and set the path
+for effective coordination of the activities of all relevant stakeholders across
+
+iv
+
+
+
+government, academia and the private sector to handle the dynamism of
+security threats in the cyber domain. The Cybercrimes (Prohibition,
+Prevention, Etc) Act 2015 was also developed and signed into law as the
+legal and regulatory framework for the implementation and governance of
+national cybersecurity in the country. However, in view of the emergent
+nature of cyber threats as well as the constantly evolving technological and
+socio-economic imperatives that depend on the cyber domain, provisions
+were made for the review of the national cybersecurity policy and strategy
+every 5 years, in line with global best practices. The focus was also to
+hinge on the significant progress in cybersecurity made by the country
+between 2014 and 2021 while also realigning efforts with the objectives of
+Nigeria's National Security Strategy 2019.
+
+Against this backdrop, and on behalf of His Excellency, President
+Muhammadu Buhari GCFR, ONSA convened a  multi-stakeholder
+committee comprising representatives from all spheres of the Nigerian
+cybersecurity ecosystem, to develop a comprehensive National
+Cybersecurity Policy and Strategy 2021 for the common good of the
+country. The document is an all-inclusive policy and strategy framework
+which  focuses on;  strengthening  cybersecurity governance and
+coordination, fostering protection of critical national information
+infrastructure, enhancing incident response, strengthening legal and
+regulatory framework, developing cyber defence capability, promoting the
+digital economy, improving assurance monitoring and fostering regional
+and international cooperation. The document is the output of an equitable
+collaborative effort which captures the shared responsibility for articulating
+Nigeria's engagements in cyberspace. It will serve as a strategic roadmap
+for all stakeholders in the country to come together and drive the
+attainment of the national cybersecurity objectives. In furtherance of this,
+the focus will move to the monitoring and evaluation of the implementation
+of the proffered initiatives. To this end, ONSA will continue to coordinate
+efforts of stakeholders and pave way for the use of the cyber domain to
+
+foster the realisation of Nigeria's national objectives.
+»
+RADONe
+
+vaa
+BABAGAN. GUNO
+
+Major General (Retired)
+National Security Adviser to the President
+Federal Republic of Nigeria
+
+
+
+ACIS
+ATCON
+AU
+CAC
+CAM
+CEMS
+CERT
+CIIMP
+
+CIPR
+
+CIPMA
+
+CNI
+CNIUPP
+
+CPA
+CSEAN
+CSIRT
+DSA
+ECOWAS
+ERGP
+FGN
+FMCDE
+EMITI
+FMoE
+FMoF
+FMoJ
+FMST
+FMWASD
+ICT
+
+IP
+
+ISP
+ISPAN
+IXP
+LEAs
+MFA
+
+ACRONYMS
+
+Auto Cyber Indicator Sharing
+
+Association of Telecommunications Companies of Nigeria
+African Union
+
+Cybercrime Advisory Council
+
+Child Abuse Materials
+
+Cyber Emergency Monitoring System
+
+Computer Emergency Response Team
+
+Critical Information Infrastructure Measurable
+
+Program
+Critical Information Infrastructure Protection and
+Resilience
+
+Critical Infrastructure Program for Modelling and
+Analysis
+Critical National Information Infrastructure
+
+Critical National Information Infrastructure
+
+Protection Plan
+
+Cybercrimes (Prohibition, Prevention, Etc) Act
+
+Cyber Security Experts Association of Nigeria
+
+Computer Security Incident Response Team
+
+Defence Space Administration
+
+Economic Community of West African States
+
+Economic Recovery and Growth Plan
+
+Federal Government of Nigeria
+
+Federal Ministry of Communications and Digital Economy
+Federal Ministry of Industry Trade and Investment
+Federal Ministry of Education
+
+Federal Ministry of Finance
+
+Federal Ministry of Justice
+
+Federal Ministry of Science and Technology
+
+Federal Ministry of Women Affairs and Social Development
+Information and Communications Technology
+
+Internet Protocol
+
+Internet Service Provider
+
+Internet Service Providers Association of Nigeria
+
+Internet Exchange Point
+
+Law Enforcement Agencies
+
+Ministry of Foreign Affairs
+
+vi
+
+
+
+MOD
+NACWC
+NAN
+NASS
+NBC
+NCAM
+Ncc
+NCcce
+NCDP
+NCF
+NCPS
+NCTI
+NEMA
+ngCERT
+NGO
+NIIA
+NIMC
+NIRA
+NITDA
+NITDEF
+NNBP
+NOA
+NOTAP
+NSA
+NTWG
+NVA
+OCWAR-C
+
+ONSA
+OSGF
+PoC
+PPP
+soc
+TETFund
+TISN
+TSA
+UAVs
+UNGA
+USPF
+
+Ministry of Defence
+
+Nigerian Army Cyber Warfare Command
+
+News Agency of Nigeria
+
+National Assembly
+
+National Broadcasting Commission
+
+National Cybersecurity Awareness Month
+
+Nigerian Communications Commission
+
+National Cybersecurity Coordination Centre
+National Cyber Defence Plan
+
+National Cybersecurity Fund
+
+National Cybersecurity Policy and Strategy
+
+National Cybersecurity Training Institute
+
+National Emergency Management Agency
+
+Nigeria Computer Emergency Response Team
+Non-Governmental Organisation
+
+Nigerian Institute of International Affairs
+
+National Identity Management Commission
+
+Nigeria Internet Registration Association
+
+National Information Technology Development Agency
+National Information Technology Development Fund
+Nigerian National Broadband Plan
+
+National Orientation Agency
+
+National Office for Technology Acquisition and Promotion
+National Security Adviser
+
+National Technical Working Group
+
+National Vulnerability Assessment
+
+Organised Crime: West African Response on
+Cybersecurity and Fight against Cybercrime
+
+Office of the National Security Adviser
+
+Office of the Secretary to the Government of the Federation
+Point of Contact
+
+Public Private Partnership
+
+Security Operations Centre
+
+Tertiary Education Trust Fund
+
+Trusted Information Sharing Network
+
+Treasury Single Account
+
+Unmanned Aerial Vehicles
+
+United Nations General Assembly
+
+Universal Service Provision Fund
+
+vii
+
+
+
+TABLE OF CONTENTS
+
+FOREWORD..occcooocccnoccnonoccnnocnnnoncnonorcnonarnnn aran rr rn nar nononc nono n enn norennnaronorannnrrononcnnnnnrnnocnonocaronaneno i
+PREFACE occcoocccnnoccnncoconoconnnorron oro r non r nro rro non r Ono r IR nn RIO nar nn Ir rn no rn nn nro non rrnnorrnnnoronnrrnnrroncnnnnnonos iv
+ACRONYMAS eocconcucconocuconononcnonorcacconenacnnsnaconecnoc raro cononocrnorancnon ona rraronacnorarcnoroneconoranccononercnacane|os vi
+VISION AND MISSION ..oocooocccnocononoccnonoccnocacononoconarnnnoncno nn rnn no rnnn na rononononarnononrnnncncnnncnonoananonanos xi
+EXECUTIVE SUMMARY cooccooocccncoccnnonnncncnonnoncnnrncnnnrnnno rn non rro nono nnnnr nn nrnnnorrnnnnrnnnrrrnnnrroncnannnoos xii
+CHAPTER Jlenocccnncnnnnconnnnconncnononcncnoncnrnnnorrnn nono n nn cnn rrn non rn nn nr nro rnnnnoronnnnrnncrrnnnaranncnrnnnss ..2
+OVERVIEW OF NIGERIA'S CYBERSECURITY ENVIRONMENT ... ..2
+
+1.1 GLOBAL CONTEX To ooccccccnononoccnnnnnnonononancnnnnnnnnnnnnrnnnnnnnnnnnnnnrnnnnnnnnnnnnnncrnnnnnnnnnninranes 2
+
+1.2 NIGERIA'S CYBERSECURITY LANDSCAPE cooooooccccccnnncnnnnocccccnnnnnononnnconnnnonnnnecononos 3
+
+1.3 NIGERIA'S CYBER THREAT PROFILE ..occccccnnnnnnocccccnnnnnnnnnncnncnonononnnnncncnncnnnnnnininccs 3
+
+1.4 WEAKNESSES AND VULNERABILITIES ...oooocccccccccconnnoccccncnnnnnonanccnncnononnnnnccnnnnnnnos 6
+
+1.5 OUR STRENGTÉES oocccccccnnnnnoocncncnnnnnnnnnnnncnnnnnonnnnnoncrnnnnnnnnnnnrrrnnnnnnnnnnnnnnnnnnrnnnneronnnos 7
+CHAPTER DZoocccccncncnncoconocononocnnnconnnnonrnn rro non nono rr rn nn rro nor nn rn rn nono ner nono nrnnnnrnnnnornnnnrrnnnrrancnanonoss 10
+NATIONAL CYBERSECURITY POLICY DIRECTION ...oooccoconccononcnonnnonarononanecanacconanononanonananenano 10
+
+2.1 NATIONAL PRIORITIES..
+
+2.2 STRATEGIC AREAS OF FOCUS
+
+2.3 RISK-BASED APPROACH TO NATIONAL CYBERSECURITY cocccccnnnoccccccnncnnnonincncs 2
+
+2.4 NATIONAL SECURITY IMPERATIVES .ooccccccccnnnnoocccnnnnnononnncconcconanonnnonccnnnononnninonos 2
+
+2.5 NATIONAL CYBERSPACE DOCTRINES ccccccccnnnnoocccncnnnnnonononcnanonnnonnnanncnnncnnnnnninons 3
+CHAPTER DBeooccconcnnnncoconococonocnnnnnnnnnorrn corro non ron rr rn nrrr nn rr n nn rn nn nono nrnnonrnnnnrroncaronnnrrnncrnancnannnoos 16
+STRENGTHENING CYBERSECURITY GOVERNANCE AND COORDINATION ..occoocccconccononononaro 16
+
+3.1 ESTABLISHMENT OF NATIONAL CYBERSECURITY COORDINATION CENTRE ..16
+
+3.2 RESPONSIBILITIES OF CYBERSECURITY STAKEHOLDERS ...
+CHAPTER 4eooccconcccnncacconononononononanonanononarononannnnnnnnonnnononnnonanononanenanannnanannnanrnnnnnonanenonanenananenase 19
+FOSTERING PROTECTION OF CRITICAL NATIONAL INFORMATION INFRASTRUCTURE ....19
+
+4.1 CRITICAL INFORMATION INFRASTRUCTURE PROTECTION AND RESILIENCE .20
+
+4.2 CRITICAL INFORMATION INFRASTRUCTURE SECTORS oocccccccnnnnooocccccncnnnnaninonos 20
+
+4.3 STRATEGIC INITIATIVES ..ooooccccccnnnnnnnoncncnnnnnnnnninnnccnnnnononnninnnncnnnnnnnnnnccnnnononeninincs 21
+
+4.4 COORDINATION OF CRITICAL INFORMATION INFRASTRUCTURE PROTECTION23
+
+4.5 CRITICAL NATIONAL INFORMATION INFRASTRUCTURE PROTECTION PLAN ...23
+CHAPTER 5...
+
+ENHANCING CYBERSECURITY INCIDENT MANAGEMENT..cooocccocncococonocanocnoncnonanononanenananonano 26
+5.1 COORDINATION OF NATIONAL CYBERSECURITY INCIDENT MANAGEMENT....26
+5.2 RESPONSIBILITIES OF NGCERT ccccooooccccccconononoconcnnnnnonnnoncccnncnnnnnnnnnccnnnanananenonos 27
+5.3 ESTABLISHMENT OF SECTORAL AND OTHER CSIRTS ..0oocccccccnnnnnoncccccnnnnnnanininós 27
+5.4 NATIONAL CYBERSECURITY CRISIS RESPONSE PLAN ...ooccccccccnonoocccccnncnononinnnos 28
+
+viii
+
+
+
+5.5 INITIATIVES FOR MANAGING CYBERSECURITY INCIDENTS ccocoooccccccccnonnnooconnns 28
+5.6 MECHANISM FOR CYBER INCIDENT REPORTING AND INFORMATION SHARING29
+
+5.7 CAPACITY DEVELOPMENT TO ENHANCE INCIDENT MANAGEMENT ..ccoonooccccccs 29
+
+5.8 COLLABORATIVE PARTNERSHIP FOR INCIDENT MANAGEMENT ooocccccccnnnooccnnns 30
+CHAPTER ÓOoooccccccnnnocononoconononononoconnrrnnnr nono rn nr rr nn rro nor ron nr rn nnrnn nono nnorrnnnrrnnnnrrnncrrnnnsnrnncarannnos 33
+STRENGTHENING LEGAL AND REGULATORY FRAMEWORK ..ccoooncccccccnoncnononononanononaninananonas 33
+
+6.1 AMENDMENT OF CYBERCRIME LEGISLATION ..cooooccccccccnnnononanccnnnconononinicannncnos 33
+
+6.2 ENACTMENT AND HARMONISATION OF NEW AND EXISTING LEGISLATIONS..34
+
+6.3 INTERNET SAFETY AND CHILD ONLINE PROTECTION ..oocccccnnnnnnnoccccnnnnonunininicós 35
+
+6.4 GENDER RIGHTS ONLINE ...occcccccncnnonoccnnnonononononnccnnnonnnnnnonnncnnnnononanancnaconnnaninanens 37
+
+6.5 CAPACITY DEVELOPMENT FOR LAW ENFORCEMENT AND JUDICIARY ........... 38
+
+6.6 NATIONAL DIGITAL FORENSICS LABORATORY cocccccccnonocccccncnnnonononcconancnnnnnoonnnos 38
+
+6.7 MUTUAL LEGAL ASSISTANCE FOR COMBATING CYBERCRIME .ooccccccccononoocccnns 39
+CHAPTER Teocccncccncnoncnonorononarononaconananonarnnnonr nono rn nena nena na reno nr nnnnrnnnnnn roca nnno arenosa nonananonarenacacinanes 41
+ENHANCING CYBER DEFENCE CAPABILITY c..oocccoocncnocononocnnnnocnnncaconornnncocnonoccnoncrnnnccrnnncacnnos 41
+
+7.1 NATIONAL CYBER DEFENCE COORDINATION oocccccccnononoccnccnnnnnnononcccnnanonannoocnons 41
+
+7.2 NATIONAL CYBER DEFENCE PLAN ..0oocccccnnnnnonioccccnnnononeninnncnnnnnonaninacccnnnnnunnniniocs 42
+
+7.3 CYBER DEFENCE CAPACITY DEVELOPMENT cocccccccnnnnnnccnnncnnnnnnonanicnncnnnnnnninanens 42
+CHAPTER B oooooccnnocnonocononcccnononcnnnoconorrrnnnrrrnr rn nor rn nr ro nn nc nono rr rro rro nn rn nncnrnnnrroncnrnnnrrnncnrnnncannnos 45
+PROMOTING A THRIVING DIGITAL ECONOMY occcoocncnoncnonacononacocnnnnonannnnoncnoncnnnonarononaninananenas 45
+
+8.1 SAFE AND TRUSTED ONLINE ENVIRONMENT. ..oocccccccncccnnnocccnnccnnnnnnnannncnnnnnnnnins 45
+
+8.2 ROBUST CYBERSECURITY WORKFORCE occoooccccccncncnnnonocccccnnnnnnnnnncccnnnnananacinenos 48
+
+8.3 INDIGENOUS CYBERSECURITY TECHNOLOGY coccccccnnnonoccccnnnnnonononcncnnnnnnnnnonocons 50
+
+8.4 RAISING AWARENESS .cooooooccccccncnonononcccnnnnnnnnnnonncnnnnnonnnnnnnncnnnnnnnnnnnncnnnnronnnnenicons 50
+
+8.5 VIRTUAL ASSETS cccconoooccccccnnncnononanccncnnnnnnnnnonncnnnnonnnnnnnnnnnnnnnonnnnnnnnnnnnnnnoninicncnnnons 51
+CHAPTER 9Qoonocccnnocnonocononocononocnnnncconorrnnnn crono cnn or r nn crono nr r ono rr rro nr nono rn noc rrnnnrrnnncrnnncrnnnsrnnncannnos 53
+ASSURANCE MONITORING AND EVALUATION cocoocncnoccnonocononononccoconnoncnoncnononnnononnnonanencnananonos 53
+
+9.1 STANDARDS AND GOOD PRACTICES.... .53
+
+9.2 QUALITY CONTROL AND SECURITY PROCESSES . 54
+CHAPTER 10... .57
+ENHANCING INTERNATIONAL COOPERATION..... 2.57
+
+10.1  COORDINATION FRAMEWORK FOR INTERNATIONAL ENGAGEMENT .0coonooccccccs 57
+
+10.2 REGIONAL CYBERSECURITY DEVELOPMENT ooccccccccnnnnoccccncnnnnnnnnonccnnnnononaninonnns 58
+
+10.3. INTERNATIONAL COOPERATION .ccooooccccccccnonoooncncnnnnnononononcnnnnnnnnnnnnncnnnnnnnnnnnenenons 58
+CHAPTER ll occooonncncncncnocononanonocanocananonarcnncnrno nono nonanennnaronnnnnnarnnnnar no nano nonarenananonananenanenananinanes 61
+FUNDING AND SUSTAINABILTT Y ....oooncccocccononcnonarononanenonanonarononarnnnnnnnonanononaronananonananonaranacaconos 61
+
+11.1  FUNDING AND SUSTAINABILITY IMPERATIVES ..cccccononoccccnccnnnonononcconacononaniconons 61
+
+11.2 MULTILATERAL FUNDING AND GRANTS .ocoocoooccccnnnccnnnnoccnnccnnnonononnccnnnnnnnnnnrrncnns 62
+
+
+
+CHAPTER 12....
+CONCLUSION ...
+
+APPENDIX coocooccoconoconoconononcnononarnonrnoroncrnnrnonrna nena rnnn na rennr na rnnronrnnnrnonrnaronarnnrnanenaronarnnroncanacnanenns 1
+
+IMPLEMENTATION PLAN ...ooocconoccccnoccnononononanonarononacnnnacnonnnnnonrno nana nonarenonanonananonarannonanonananonos 1-1
+¡III 1-1
+MONITORING AND EVALUATION cooocccccccnnnonooccccnnnnnnnnnncrnccnnnnonnnnnrrrnnnononnnnnnrcnnnnonananironnnns 1-1
+ACTION PLAN FOR STRATEGY IMPLEMENTATION cccoconoccccnncncnnnnnnnncncnnnnnononinianaccnnnonnnnnnos 1-3
+
+NATIONAL CYBERSCURITY POLICY AND STRATEGY 2021 SUMMARY ..oooncoooccoconcncanencncnnnno 2-1
+
+
+
+VISION AND MISSION
+
+VISION
+
+A safe and secure digital community that provides opportunities for its
+citizenry and promotes peaceful and proactive engagements in cyberspace
+for enhanced national prosperity
+
+MISSION
+
+To foster a trusted cyber environment that optimises Nigeria's
+cybersecurity readiness and coordination capacities towards addressing
+the nation's cyber risk exposure
+
+xi
+
+
+
+EXECUTIVE SUMMARY
+
+Technological advancements have resulted in a variety of breakthroughs, a
+preponderance of which has been evident over the past decades by the
+growth of Information and Communications Technology (ICT) and the
+evolution of the Internet. These ICT and Internet-driven developments are
+actualised in almost all facets of life and the ensuing transformations have
+resulted in heavy dependence on the cyber domain. In Nigeria, the
+evolution, growth and adoption of ICT and the Internet has been at an
+accelerated pace since the turn of the 21st Century. The country has
+predominantly embraced ICT and the Internet to drive new initiatives and
+reach new milestones. A reflection of this is apparent in the high rate of
+adoption of new technologies, the proliferation of foreign-based technology
+conglomerates in the Nigerian market as well as the rising number of
+indigenous technology firms across the country. These new dependencies
+have transformed Nigeria's cyber domain to a potent game changer in the
+affairs of peace, security and economic progression. Essentially, the
+Nigerian economy, government functions and the provision of essential
+services now rely on the integrity of cyberspace. This new digital era
+presents significant opportunities to enhance Nigeria's readiness for global
+economic competitiveness and repositioning for national development.
+
+However, there are several downsides attributed to the widespread use of
+the cyber domain. Some of these downsides, which are also reflected on
+the global scale, have profound implications for the nation's security and
+economic wellbeing. From the threats posed by cybercrime and cyber
+terrorism, to the dangers emanating from cyber espionage and the use of
+Internet social media for propagation of hate speech and seditious
+messages, as well as the risks of breaches to sensitive personal and
+government data, it is almost impossible to overstate the challenges. In the
+light of these dynamic challenges and threats, it is crucial for the Nigerian
+cyber ecosystem to undergo major periodic reforms to better position the
+nation to effectively harness the benefits of the digital revolution.
+
+Therefore, it is not coincidental that the Federal Government of Nigeria
+(FGN) developed a national framework for cybersecurity following the
+approach of several other countries and in line with the exigent national
+priorities and realities of the country. This national framework, codified as
+the National Cybersecurity Policy and Strategy, set the clear direction for
+coordination of Nigeria's cybersecurity engagements in recognition of
+
+xii
+
+
+
+cyberspace as the fifth domain, and as part of efforts to protect the
+national interests and sovereignty of the country. Furthermore, with due
+cognisance of the dynamic nature of threats in cyberspace, provisions were
+made for review and update of the National Cybersecurity Policy and
+Strategy, every 5 years in line with global best practices.
+
+Against this backdrop, the National Cybersecurity Policy and Strategy
+2014 was reviewed based on a whole-of-government and multi-stakeholder
+approach. This culminated in the development of the National
+Cybersecurity Policy and Strategy 2021 as a purposeful and living
+document to facilitate the attainment of a secure and resilient Nigerian
+cyberspace. The document is a confluence of ends, ways and means which
+emplaces our National Cybersecurity Programme on 8 critical pillars,
+namely:
+
++ Strengthening Cybersecurity Governance and Coordination
+
+e Fostering Protection of Critical National Information Infrastructure
++ Enhancing Cybersecurity Incident Management
+
++ Strengthening Legal and Regulatory Framework
+
++ Enhancing Cyber Defence Capability
+
++ Promoting a Thriving Digital Economy
+
++ Assurance Monitoring and Evaluation
+
+e Enhancing International Cooperation
+
+To this end, we shall establish a national structure to enhance the
+coordination and cohesion of all our cybersecurity activities and multi-
+stakeholder efforts. We will also align our direction for ensuring the
+security and resilience of our critical infrastructure, through collaborative
+partnership and development of a robust protection plan. Furthermore, we
+will strengthen our incident response capability through improved
+information sharing, enhanced crisis management and comprehensive
+technical training of incident response teams. Additionally, we will build
+our cyber defence capability through extensive training programmes for
+our military and other security agencies. Also, we will enhance our
+capacity to tackle cybercrime by amending our existing legislation and
+building the capacity of our law enforcement and judiciary. In the area of
+the economy, we will promote a thriving digital environment by fostering a
+trusted Internet, launching widespread awareness programmes and
+engendering extensive development of our human resources. We will also
+embrace indigenous technological innovations as well as research and
+
+xiii
+
+
+
+development to better empower us to tackle the new and emerging threats
+in cyberspace. Considering that cybercrimes can occur across international
+jurisdictions, government will exploit both regional and global collaborative
+mechanisms to address the use of cyberspace for activities detrimental to
+our national security. Our country will also continue the promotion of
+regional and global cooperation in cybersecurity towards strengthening
+international security, peace and prosperity.
+
+xiv
+
+
+
+Nigeria is one
+of the leading
+digitally connected
+nations in the African -
+region and indeed the -
+rest of the world
+
+y online
+77, child
+abuse
+
+/
+
+cybercrime
+
+cyber-
+terrorism
+
+7 major cyber
+
+threats are of
+concern to Nigeria elections
+online these include interference
+gender
+explotation
+¿ other
+pandemic-
+p cyber
+induced
+threats
+cyber
+threats
+
+Y
+
+A significant
+percentage of
+Nigeria's over 193m
+population are
+active Internet
+users
+
+Outbreak
+of COVID-19
+pandemic, advent
+of 5G technology
+and Climate Change,
+amongst others,
+have a profound
+impact on global
+cybersecurity
+
+
+
+
+CHAPTER 1
+
+OVERVIEW OF NIGERIA'S CYBERSECURITY ENVIRONMENT
+
+This overview provides substantial information on the current state of
+cybersecurity in Nigeria. It reflects on the predominant cybersecurity
+trends on the global stage as the prerequisite for underscoring the
+current cybersecurity posture of the country. Thereafter, it gives a
+highlight of Nigeria's current cybersecurity landscape and a summary
+of the nation's cyber threat profile. This is followed by a brief
+examination of the country's existing cybersecurity weaknesses and
+strengths in a bid to identify gaps and spell out the rationale for the
+institution of this National Cybersecurity Policy and Strategy 2021.
+
+1.1 GLOBAL CONTEXT
+
+Over the last decade, the digital environment across the globe has
+witnessed exponential growth and intensive adoption of information
+and communication technologies (ICT). It is intuitive that active
+Internet users now encompass a significant proportion of the global
+population. This trend is driven by the rapid increase in the use of
+mobile devices worldwide and the surge in the social media. The
+current global digital revolution has birthed the emergence of new
+technologies including artificial intelligence, cloud computing,
+blockchain technology and Internet of Things, amongst others. As a
+result of this digital revolution, cybersecurity is no longer viewed as a
+mere technical issue. Rather, cybersecurity is now approached as a
+multi-faceted global concern. This multivariate nature of cybersecurity
+has informed the different yet convergent approaches by nations of the
+world in dealing with cyber threats.
+
+Other recent developments across the globe have impacted on
+cybersecurity. The outbreak of COVID-19 pandemic informed a rise in
+remote working and widespread adoption of online collaboration,
+increase in cloud services and rise in electronic transactions, with
+attendant increase in the potential impacts of cyber threats. The
+challenges of global security posed by state and non-state actors also
+have a significant impact on cybersecurity. The use of cyber
+operations by actors to achieve strategic objectives or economic
+influence is becoming more common and intense. Similarly, other
+
+issues such as the advent of 5G technology and climate change may
+2
+
+
+
+have a profound impact on the global digital landscape. Cybersecurity
+is therefore an extensive challenge, which requires enhanced
+international cooperation to successfully attain an acceptable level of
+confidence and trust at national and global levels.
+
+1.2 NIGERIA'S CYBERSECURITY LANDSCAPE
+
+Nigeria is at a centre stage in the current cyberspace revolution. In the
+area of ICT, Nigeria is one of the leading digitally connected nations in
+the African region and indeed the rest of the world. This is evident
+from the widespread adoption of ICT across the country. The high
+number of technology conglomerates and rising rate of indigenous ICT
+firms in the Nigerian market also point to the current and future
+potentials of the Nigerian cyberspace. With a population of over 193
+million people, according to 2016 estimates by the Nigerian Population
+Commission, a significant percentage of the Nigerian populace are
+active Internet users.
+
+In recognition of the potentials offered by the cyber domain, Nigeria
+has launched several initiatives to capitalise on the available
+opportunities. Nigeria's National Digital Economy Policy and Strategy
+2020 - 2030 and the Economic Sustainability Plan (ESP) 2020 - 2030
+envisage an economy driven by ICT. Nigeria also formulated the
+National Broadband Plan 2020 - 2025 in line with the Economic
+Recovery and Growth Plan (ERGP) and the Presidential initiative to
+boost broadband penetration across the country. Furthermore, the
+Nigeria Data Protection Regulation 2019 was launched to provide
+guidelines for electronic data exchange while the Data Protection Bill
+2020 is soon expected to be signed into law to facilitate enhanced
+security and privacy of personal data. The Nigerian private sector has
+also hinged on the benefits offered by the cyber domain. Commercial
+and business processes across Nigeria are now constantly migrating to
+new forms of cyber based technologies. Ultimately, Nigeria fully
+recognises the centrality and indispensability of the cyber domain to
+the attainment of national security and socio-economic prosperity.
+
+1.3 NIGERIA'S CYBER THREAT PROFILE
+
+The Nigerian cyberspace is faced with significant threats which result
+in huge financial losses corresponding to a substantial percentage of
+the country's Gross Domestic Product (GDP). Equally, a high number
+of organisations in Nigeria fall victim of cyber attacks, making the
+
+3
+
+
+
+country a high target by perpetrators of cybercrime. Similarly, reports
+from the Nigerian Communications Commission (NCC) suggest that
+cyber attacks are one of the biggest threats to the country's
+telecommunications sector. The scale and multiplicity of these threats
+reinforce the need for us to adopt a whole-of-society approach to
+cybersecurity.
+
+In line with the current trends in the global digital environment, the
+main targets of cyber attacks in the Nigerian cyberspace include
+cloud-based systems, mobile devices, Internet of Things, data centres
+and networks of corporate establishments, amongst others.
+Organisations in the financial sector are expected to face the highest
+cyber risks as reports from the Nigerian Interbank Settlement System
+(NIBSS) suggest that mobile fraud cases could likely rise.
+Furthermore, the expansion of cyber threats beyond computer
+systems and networks to  cyber-physical systems such as
+transportation technologies, air traffic control systems, smart devices
+and hydropower grids, is another new reality that the country needs to
+cope with. The current appetite for social media is also prompting new
+methods of cyber attacks. In view of the foregoing, we have
+identified 7 major cyber threats of concern, the details are as follows:
+
+1.3.1 Cybercrime
+
+The common forms of cybercrime that feature in the Nigerian cyber
+domain include Phishing, Business Email Compromise (BEC),
+ransomware and malwares as well as credentials theft, intellectual
+property rights violation and online scam amongst others. Nigeria is
+also mindful of emerging cyber threats such as Machine Learning
+Poisoning, Deep Fakes, Cloud Hijacking, Artificial Intelligence Fuzzing
+and Crypto Currency Hacking, amongst others. The expanding pool of
+data in the Nigerian cyberspace is also indicative of a potential rise in
+the number of targeted data breaches. Also, the wanton drive for high
+value currencies by individual or organised cyber criminals has
+resulted in a predominant rise in international fraud and scams with
+attendant impact on the country's national image.
+
+1.3.2 Cyber Terrorism and Terrorists Use of the Internet
+
+The current thriving nature of the Nigerian cyberspace has drawn the
+attention of domestic and transnational terrorist groups. There is now
+an increasing likelihood for cyber terrorists to use cyberspace to inflict
+violence through the targeting of critical assets including, financial
+
+4
+
+
+
+systems, military networks, transportation infrastructure,
+telecommunications systems and government services, amongst
+others. Terrorists and other organised illicit groups have also mastered
+the use of cyberspace to enhance their operations or cause
+apprehension through spreading of fake news and hate speech. In
+addition, the use of social media by terrorists for recruitment and
+propaganda is a featuring threat in the Nigerian cyberspace. The
+typical overall objective of these wanton actors is to use cyberspace to
+undermine the government and instil a sense of fear or siege on the
+populace.
+
+1.3.3 Online Child Abuse and Exploitation
+
+Nigeria recognises the importance of the protection and safety of the
+younger generation and their vulnerabilities in cyberspace. In this
+light, the country stands against online child abuse and exploitation.
+Activities classified under this unwholesome practice take place on the
+Internet or through the use of information systems such as mobile
+devices. Perpetrators of online abuse of children are also leveraging
+social media and emerging cyberspace technologies to carry out
+cyberbullying, online harassment and sexual molestation of children
+and other vulnerable individuals amongst others.
+
+1.3.4 Online Gender Exploitation
+
+We recognise that abuse and gender violence takes place in
+cyberspace. We are therefore committed to combating these illicit
+activities. As Nigerians of all gender are getting increasingly connected
+to the Internet and getting more involved in cyber related activities,
+there is a rise in cases of gender violence, online sexual harassment,
+cyber-stalking, Internet-induced kidnapping, rape, black mailing and
+cyberbullying amongst others. Increasingly, several Nigerians
+irrespective of gender across all spheres of society are falling victim to
+predominant cyber threats such as online defamation, public shaming
+and identity theft, amongst others. These unwholesome acts have the
+potentials to result in psychological or mental health challenges for
+victims.
+
+1.3.5 Elections Interference
+
+Elections are foundational to the liberal democracy entrenched in our
+national endeavours to ensure the wellbeing and stability of the
+nation. Hence, Nigeria must be prepared to contend with the major
+
+5
+
+
+
+threats of the use of cyberspace for perpetrating elections interference
+or violence. As society incrementally embraces digitisation and as the
+election process itself becomes more dependent on digital
+technologies, domestic, external, state and non-state actors have the
+potential to leverage cyberspace and interfere with the electoral
+process. These threats could range from direct physical attack on
+elections critical infrastructure or the conduct of cyber operations to
+disrupt systems or influence the electorate.
+
+1.3.6 Pandemic-Induced Cyber Threats
+
+The COVID-19 pandemic forced organisations and people across
+Nigeria to move their activities to cyberspace. The pandemic also
+resulted in acute changes and innovations in governance and
+business processes which are more likely to remain in the long-term.
+Pandemic-induced migration into cyberspace has also changed the
+nature of threats and increased the risks and potential impacts of
+cyber attacks. Essentially, the attack playing field for cybercriminals
+has now widened. There is now a rise in cases of email scam or
+compromise of global and regional health palliative programmes
+including several reports of cybercriminals masquerading as legitimate
+agencies to perpetrate fraud and ilegalities. Data theft, cloud
+compromise and teleconference hijacking are also major challenges
+associated with the pandemic-era.
+
+1.3.7 Other Cyber Threats
+
+Nigeria is also conscious of the myriad of other predominant and
+emerging security threats emanating from cyber space such as
+fragmentation of technology, Advanced Persistent Threats (APTs),
+cyber conflict, as well as cyber threats posed by climate change and
+Unmanned Aerial Vehicles (UAVs) amongst others, which could be
+perpetrated by nation states or non-state actors with the objective of
+compromising our critical services and undermining our economy and
+national security. These rapidly changing strategic cyber threats, by a
+foreign actor or actors, could make our infrastructure susceptible to
+eaves dropping, military or industrial espionage or other malicious
+activities.
+
+1.4 WEAKNESSES AND VULNERABILITIES
+
+As a principle of risk management and resilience, it is crucial to
+
+identify the major weaknesses and vulnerabilities in the Nigerian
+
+cybersecurity ecosystem. The World Bank Digital Economy Diagnostic
+6
+
+
+
+Report 2019 noted that shortfalls in human resources capacity
+development and accessibility to digital technologies are factors
+limiting  cybersecurity development in Nigeria. Similarly, the
+International Telecommunication Union Global Cybersecurity Index
+2018, which surveyed the cybersecurity readiness of member states
+based on legal, technical, organisational, cooperation and capacity
+development, ranked Nigeria 57th position out of the 155 countries
+surveyed across the globe. Moreover, Nigeria currently relies largely on
+foreign ICT and cybersecurity solutions and technologies.
+
+Human resource capacity, research and development, and awareness
+on cybersecurity are still relatively low in Nigeria cutting across
+government, private sector and society in general. This shortfall has
+been responsible for diminished cybersecurity consciousness at the
+organisational and individual levels. Consequently, the level of
+attention and commitment of resources towards cybersecurity is
+unable to keep pace with the requirements of current ICT and the
+predominance of evolving cyber threats.
+
+1.5 OUR STRENGTHS
+
+Despite the current cyber threat profile, Nigeria has a strong
+commitment to defend her citizens, safeguard operations of critical
+infrastructure and ensure continuity of services. The Federal
+Government of Nigeria is also conscious of the benefits of the cyber
+domain and its potential for enhancing the country's economic
+prosperity. Hence, there is concerted mobilisation of national multi-
+stakeholder efforts to ensure that the opportunities are exploited and
+the challenges are effectively mitigated. The programmes, initiatives
+and frameworks spearheaded by Government, such as the National
+Cybersecurity Policy and Strategy 2014, the Cybercrimes (Prohibition,
+Prevention, Etc) (CPA) Act 2015, the Nigerian Data Protection
+Regulation 2019, National Broadband Plan 2020 - 2025 and National
+Digital Economic Policy and Strategy 2020 - 2030, amongst several
+others, have engendered significant improvements to cybersecurity in
+Nigeria.
+
+Nigeria is also blessed with a proactive and informed private sector
+that is well placed to play a leading role in the regional and indeed
+global cybersecurity solutions market. The year 2019 saw an increase
+in uptake of cybersecurity monitoring capabilities to keep pace and
+protect operations and infrastructure from cyber attacks. The
+
+7
+
+
+
+country's multi-stakeholder National Cybercrime Advisory Council
+(CAC), has spearheaded several efforts to provide strategic direction for
+cybersecurity in Nigeria. On the regional and international arena,
+Nigeria collaborates with partners such as the ECOWAS Commission
+and Organised Crime: West African Response on Cybersecurity and
+Fight against Cybercrime (OCWAR-C), amongst others, to further
+enhance cybersecurity. In 2018, the country in collaboration with
+other international partners, conducted a Cybersecurity Capacity
+Review for Nigeria.
+
+
+
+national
+for the Nigerian
+
+Strengthening Fighting
+Development
+
+vrity is a critical
+xr of economic
+er! progression and development
+
+pr domain A
+
+S
+Pos
+
+Technology
+is critical to the al
+of Nigeria's national
+
+
+
+
+CHAPTER 2
+
+NATIONAL CYBERSECURITY POLICY DIRECTION
+
+This policy direction outlines Nigeria's national priorities, national
+security imperatives and cyberspace doctrines which cumulatively
+inform the country's cybersecurity policy initiatives and strategic
+actions.
+
+2.1 NATIONAL PRIORITIES
+
+Our approach to cybersecurity is anchored on enduring national
+values, interests and objectives which define who we are as a people
+and our collective behaviour and commitment to the advancement of
+nationhood. These factors also guide the formulation of our national
+cybersecurity policy and strategy while strengthening our commitment
+to the delivery of the promises of peace, security, freedom, democracy,
+equality, justice, preservation of human rights, promotion of women
+rights, safeguarding of individual liberties and respect for the rule of
+law. Furthermore, our national cybersecurity objectives, policy
+initiatives and strategic actions are formulated to retain and renew
+Nigeria's commitment to the preservation of the nation's sovereignty,
+territorial integrity, human security, prosperity and wellbeing of the
+people. This approach to cybersecurity is also closely aligned with our
+commitment to uphold regional and international peace, and security
+cooperation while embracing the norms and conventions of
+international law.
+
+2.1.1 National Cybersecurity Policy Considerations
+
+In 2019, the Federal Government of Nigeria outlined 3 cardinal and
+existential national objectives for the Nigerian people. These include:
+Protecting National Security; Strengthening Economic Development;
+and Fighting Corruption. The National Cybersecurity Policy and
+Strategy therefore supports these national objectives through 4
+fundamental national cybersecurity policy considerations as follows:
+
+e The security and wellbeing of the Nigerian people is as important
+in the cyber domain as it is in the physical domain.
+
+e Cybersecurity is a critical enabler of economic progression and
+development.
+
+10
+
+
+
+e Technology development is critical to the attainment of Nigeria's
+national priorities.
+
+e Regional and international collaboration is central and crucial to
+cybersecurity.
+
+Therefore, we recognise that each of these policy considerations
+requires a set of focused and coordinated strategic actions. This will
+provide the necessary platform for sound planning and performance
+tracking towards the execution of our national cybersecurity strategy,
+thereby enabling all stakeholders to stay focused on delivering the
+required collective mandate.
+
+2.2 STRATEGIC AREAS OF FOCUS
+
+The overall purpose of the national cybersecurity policy is to set a
+unified agenda and new direction for our national cybersecurity
+programme through prioritisation of national requirements. Our
+strategic areas of focus are based on 8 pillars which form the support
+for our national cybersecurity programme.
+
+Strengthening Cybersecurity a S Enhuncing Cyber
+Governance and Coordination ' Defence Capability
+
+Fostering Protection of Critical PS 8 Pillars 19 Prometing a Thriving
+Mational Information Infrastructure or to form the Wi cserr Digital Economy
+Fo support lor our F
+
+H national 'F
+Enhancing Cyhersecurity MAA... A a Aseurance Manitaring
+Fo an
+Strengthening Legal and á y Enhaucing International
+Regulatory Framework Cooperation
+
+These pillars create the foundation for the delivery of our national
+objectives and align the direction of all key stakeholders that have a
+role to play in the enhancement of the progressive use of the Nigerian
+cyberspace.
+
+11
+
+
+
+2.3 RISK-BASED APPROACH TO NATIONAL CYBERSECURITY
+
+Our cybersecurity policy acknowledges that, rather than forego the
+benefits of cyberspace in the interest of security, it is more productive
+for us to accept the likelihood of cyber attacks, while proactively
+emplacing measures to protect the integrity of cyber infrastructure.
+On this premise, a sector-based approach to risk management will be
+adopted to balance security measures with potential benefits in
+recognition of the differences of each sectors risk profile and
+consequences of cyber-attack. Furthermore, the focus of the
+cybersecurity strategy is to prepare stakeholders, in the public and
+private sector, for the adoption of the risk-based mindset to
+cybersecurity through promotion of resilient disaster recovery,
+business continuity, access control and crisis management measures,
+amongst others. Additionally, we will ensure that our resiliency and
+recovery plans are adequately designed to address the envisaged cyber
+risks.
+
+2.4 NATIONAL SECURITY IMPERATIVES
+
+Our National Security Strategy 2019 identifies several issues that are
+likely to influence the country's security priorities over the next 5
+years. The ones which have a direct bearing on the Nigerian
+cyberspace include cybercrime, technological challenges, socio-
+political threats, hate speeches, fake news, terrorism, violent
+extremism, economic challenges, as well as regional and global
+security issues. In this light, the National Security Strategy recognises
+that cyberspace is critical to our quest to address these national
+security issues. However, the strategy also acknowledges that the
+Nigerian cyberspace is vulnerable to some major forms of cyber-attack,
+namely, cybercrime, cyber espionage, cyber conflict, cyber terrorism,
+interference and destruction of critical national infrastructure and
+influence operations. Therefore, the National Security Strategy
+proposes the increased deployment of cybersecurity measures to
+facilitate the protection of systems and structures against all forms of
+cyber attacks. The Strategy also emphasises the need for government-
+led approach as well as coordinated efforts across all sectors at
+various levels to secure our cyberspace.
+
+12
+
+
+
+2.4.1 Nigeria's National Security Objectives
+
+Our National Cybersecurity Policy and Strategy draws its strength
+from the National Security Strategy. It is therefore developed to
+support the pillars of the National Security Strategy. Furthermore, the
+national cybersecurity objectives are formulated according to the
+national objectives spelt out in the National Security Strategy, which
+include:
+
+e Protecting the Nigerian People and Territory
+
+e Promoting Economic Prosperity and Sustainable Development
+e Promoting National Unity and Peaceful Co-existence
+
++. Enhancing Regional and International Interests
+
+Government stakeholders will therefore collaborate with the private
+sector, academia and industry to hinge on cybersecurity and facilitate
+the realisation of these objectives.
+
+2.5 NATIONAL CYBERSPACE DOCTRINES
+
+Nigeria shall continue to make the interests of its citizens the priority
+of her national cybersecurity strategy. Safeguarding the Nation's
+information infrastructure is vital to fulfilling this objective. Nigeria
+will therefore put in place the mandatory framework to facilitate
+necessary multi-stakeholders collaborative and coordinated actions to
+safeguard and secure its critical infrastructure, within its jurisdiction.
+Nigeria will also emplace robust processes and functional world-class
+systems to promote trust and confidence in the use of its cyberspace.
+
+We will enhance our preparedness to combat emerging cyber threats
+by investing in People, Process and Technology to develop critical skill
+sets and assets to identify and repel any threats to our sovereignty
+and national security. Nigeria shall also continue to collaborate with
+local and international stakeholders to put in place infrastructure that
+will ensure national preparedness for global economic competitiveness
+in cyberspace.
+
+Furthermore, Nigeria shall promote the economic benefits of
+cyberspace by sustaining the balance between citizens” expectations
+on freedom of information and privacy as well as government
+responsibilities on  cybersecurity. We also  recognise the
+transformational capability of emerging technologies. Therefore, our
+approach is to mainstream a cybersecurity regulatory framework that
+
+13
+
+
+
+aligns with our national interests as well as international commitment
+to e-governance and e-business. In addition, Nigeria is interconnected
+with other countries in the cyber domain and hence not insulated
+against irresponsible actions in cyberspace. Therefore, we will
+mainstream voluntary non-binding norms of responsible state
+behaviour in cyberspace through enhanced international awareness
+and engagement. We will also continue to enhance our cyber defence
+capability by investing in our military through skills and technological
+assets acquisition to facilitate effective monitoring, identification,
+prevention and repulsion of any cyber threats to our sovereignty and
+national security.
+
+14
+
+
+
+Government
+
+will lead by example, securiog
+lis own networks and ensuring
+that the provision of e-scrvices to ita
+citizena is safe and secure, 1t will work
+dosoly with tho operaors of Critical
+National Infrastructure to protect the
+delivery of these vital services. 1 will
+ld to protect Nigeran
+businesses and citiaens from oyber
+
+also actas a shi
+
+iburesatas.
+
+International
+Partners
+
+sure effective
+
+Citizens
+
+will take responsibility for
+—> accessing cyber services in a
+a socure manner and for the
+
+protection of their own personal
+data
+
+To
+
+implementation of this strategy
+we shall decpen our relationstiip S.A
+with regional and global partners
+
+dedicated to combating
+eybercrime and addressing
+
+eybersecurity whilst promoting
+Nigeria's regional influence
+and eybersecurity
+
+interests
+
+Businesses
+
+will recognise the cybersecurity
+responsibility they have lo their
+customers, supplicra and employecs.
+Thoir business will bo conducted in
+such as wey cas do exar lbherenos lo
+ey bersecurity guidance provided by
+the Government
+
+
+
+CHAPTER 3
+
+STRENGTHENING CYBERSECURITY GOVERNANCE AND
+COORDINATION
+
+Nigeria recognises that an effective governance model and coordination
+mechanism is fundamental to the enhancement of national
+cybersecurity. To this end, a national structure is required to
+coordinate and facilitate the necessary national cohesion at the
+strategic, operational and tactical levels.
+
+3.1 ESTABLISHMENT OF NATIONAL CYBERSECURITY
+COORDINATION CENTRE
+
+In line with the provisions of Section 41 of the Cybercrimes
+(Prohibition, Prevention, Etc) Act 2015 (The Act) which empowers the
+Office of the National Security Adviser to be the coordinating body for
+national cybersecurity, the National Security Adviser (NSA) shall
+establish the National Cybersecurity Coordination Centre (NCCC) to
+ensure the implementation of Nigeria's national cybersecurity
+programme in accordance with the provisions of relevant laws and
+international principles. The NCCC shall be the local and international
+focal point for cybersecurity in Nigeria. Accordingly, a strategic
+structural model shall be adopted for the organisation, composition,
+operation and functioning of the NCCC consistent with the roles and
+responsibilities of the Office of the National Security Adviser, the
+National Cybercrime Advisory Council and other functional
+frameworks as encapsulated in The Act.
+
+In accordance with Section 41 of The Act, a National Coordinator shall
+be appointed for the administration and running of the day to day
+functionalities of the NCCC. The NCCC shall be effectively organised,
+staffed and resourced to coordinate the activities of all stakeholders
+and ensure that cybersecurity in Nigeria is facilitated as a holistic
+whole-of-society effort that impacts the public and private sector,
+academia, industries, cybersecurity associations and advocacy groups
+as well as the international community.
+
+16
+
+
+
+3.2 RESPONSIBILITIES OF CYBERSECURITY STAKEHOLDERS
+
+All stakeholders in the country's cyber ecosystem have specific and
+collective roles to play in ensuring the progressive use of the Nigerian
+cyberspace. Therefore, stakeholders must be aware of their
+responsibilities as catalyst for action, participation and seamless
+coordination of national cybersecurity. In accordance with the
+mandate of each stakeholder, NCCC in conjunction with all key
+players in the Nigerian cyberspace, shall identify and map out specific
+responsibilities for stakeholders to engender defined, convergent and
+unified efforts towards enhancing national cybersecurity. As a
+pathway to ensure alignment and synergy of efforts, we shall establish
+a Cybersecurity Dialogue Platform to enable stakeholders across
+Nigeria's cybersecurity ecosystem engage in the necessary discourse
+towards effective articulation of roles and responsibilities. Ultimately,
+the sustainability and critical success factor of our national
+cybersecurity programme is anchored on public-private partnership
+and multi-stakeholder engagement.
+
+17
+
+
+
+MINES POWER
+AND STEEL AND ENERGY
+
+INDUSTRIAL AND
+
+MANUFACTURING WATER
+
+E INFORMATION,
+SAFETY COMMUNICATIONS
+
+AND EMERGENCY SCIENCE AND
+
+SERVICES TECHNOLOGY
+
+FOOD AND
+AGRICULTURE
+
+BANKING/FINANCE
+AND INSURANCE
+
+TRANSPORT HEALTH
+
+DEFENCE
+AND SECURITY
+
+PUBLIC
+ADMINISTRATION
+
+EDUCATION
+
+
+
+
+CHAPTER 4
+
+FOSTERING PROTECTION OF CRITICAL NATIONAL
+INFORMATION INFRASTRUCTURE
+
+The nation depends on the functioning of certain information and
+communications technology systems, networks and infrastructure to
+drive vital national imperatives such as economic development,
+commerce and financial transactions, social interactions, public
+safety, power and water supply, medical and health, government
+operations, national security and defence. These systems, networks
+and infrastructure underpin our national life and ensure our existence
+and survival as a country. Any disruption, destruction or interference
+to the operation of these assets has the potential to undermine
+government operations, social wellbeing, economic prosperity and
+national security.
+
+Therefore, the Federal Government of Nigeria is committed to the
+development of necessary cohesive measures and strategic actions
+towards assuring the security and protection of these systems,
+networks and infrastructure. The Government therefore deems it
+crucial to designate such systems, networks and infrastructure as
+Critical National Information Infrastructure (CNI), as part of efforts to
+protect their integrity and assure their continued operation. To this
+end, Government has identified sectors across the Nigerian economy
+where critical ICT assets are domiciled, in order to pave a path for
+their designation as CNII. However, a key aspect of this process is the
+registration of CNI assets by the various owners and operators. For
+this purpose, Government created an online portal
+(publisher.cert.gov.ng) to enable stakeholders that own and operate
+these critical assets, to register the details of their infrastructure, as a
+pathway towards joint development of modalities for their protection.
+
+This Strategy therefore presents the Government's approach to CNII
+protection. The strategy acknowledges that CNII protection is a shared
+responsibility across government, private sector (the owners and
+operators of critical information infrastructure) and the entire
+populace. It is therefore our cardinal responsibility as a nation to
+complement Government efforts towards ensuring the protection and
+continuous operation of our CNII.
+
+19
+
+
+
+4.1 CRITICAL INFORMATION INFRASTRUCTURE PROTECTION
+AND RESILIENCE
+
+The strategy articulates the various activities to be undertaken by
+Government and other stakeholders towards CNII protection. To this
+end, Nigeria will ensure a comprehensive approach to Critical
+Information Infrastructure Protection and Resilience (CIIPR) through
+the collective participation of stakeholders in the public and private
+sector, including owners and operators of CNIl and the entire
+cybersecurity community. We will assess risks to CNII through an
+intelligent and information-led, risk management approach and secure
+CNI against physical, human and cyber threats through collective and
+sustainable efforts. Government will enhance CNII resilience by
+reducing impact of unforeseen and unexpected incidents through
+advanced planning and mitigation efforts, as well as effective
+responses aimed at saving lives and ensuring rapid recovery of
+essential services. We will also share relevant information across the
+CNII community to build awareness and enable coordinated risk-
+based decision making, while promoting learning and adaptation.
+
+Nigeria will also ensure multi-stakeholder collaboration to set specific
+national priorities considering resource availability, progress already
+made, known capability gaps, and emerging trends and cybersecurity
+risks. These will drive implementation and will be supplemented by
+sectoral priorities. Performance measures will be set based on the
+goals and priorities of each sector. We will continue to develop
+appropriate categorisation of CNII in accordance with their priority for
+protection based on their vulnerability and impact assessment.
+Accordingly, we shall continue to update the comprehensive list of
+CNI that require protection priorities and disseminate the CNIT list to
+all relevant stakeholders while developing CNII protection plan in line
+with this categorisation.
+
+4.2 CRITICAL INFORMATION INFRASTRUCTURE SECTORS
+A preliminary requirement for CIPR is the identification of the sectors.
+
+Accordingly, this strategy  identifies 13 critical information
+infrastructure sectors across the Nigerian economy.
+
+20
+
+
+
+4.2.1 Identified Sectors for CNII Protection
+
+e Power and Energy
+
+e. Water
+
+e Information, Communications, Science and Technology
+e Banking/Finance and Insurance
+e Health
+
+e Public Administration
+
+e Education
+
+e Defence and Security
+
+e Transport
+
+e Food and Agriculture
+
+e Safety and Emergency Services
+
+e Industrial and Manufacturing
+
+e Mines and Steel
+
+4.3 STRATEGIC INITIATIVES
+
+4.3.1 Establish Effective Collaborative Partnership with CNII
+Owners and Operators.
+
+A significant proportion of the nation's critical infrastructure is
+privately owned or operated on a commercial basis. Therefore,
+partnership and collaboration will be engendered to help build
+confidence and reliability for the continued operation of CNII. To this
+end, a Trusted Information Sharing Network (TISN) shall be
+established under the NCCC as a forum in which the owners and
+operators of critical infrastructure would synergise and share
+information on threats and vulnerabilities as well as develop strategies
+and solutions to mitigate risks to the nation's CNI. The TISN shall
+comprise owners and operators of CNII as well as stakeholders from
+departments and agencies of government.
+
+Stakeholders who own and operate CNII have a major undertaking
+and collective responsibility to ensure the security of their systems.
+Therefore, the NCCC shall promote a culture of risk awareness and
+shared responsibility across stakeholders for CNII protection. This
+culture shall be cascaded down to all individuals within the CNII
+protection community through a hybrid top-down and bottom-up
+approach. This will allow stakeholders across the sectors take
+
+21
+
+
+
+ownership and develop specific and tailored approach to CNII
+protection in their various sectors.
+
+4.3.2 Identify and  Evaluate Potential Critical National
+Information Infrastructure
+
+Government will work with owners and operators of critical
+infrastructure to ensure periodic and continuous identification of
+critical information infrastructure in the advent of emerging
+technologies. Government will also conduct periodic audit and
+evaluation to estimate the risk levels of the identified CNII. We will also
+adopt a risk-based approach in the identification and prioritisation for
+CNII protection.
+
+4.3.3 Identify and Manage Cross-Sectoral Dependencies
+
+Nigeria will continue to identify cyber risks that cut across more than
+one sector of the economy, or threats that affect multiple sectors of the
+economy simultaneously. This approach will assist CNI risk
+management decision-making and help to inform Government's
+actions on CIIPR. This approach also increases the potential for
+effective sharing of risks to cope with certain incidents. The Critical
+Infrastructure Program for Modelling and Analysis (CIPMA) is
+proposed as a suitable solution to enhance the protection and
+resilience of CNII in Nigeria.
+
+Our strategy is to ensure that all sectors develop robust cyber risk
+management procedures and capabilities that are sector-specific and
+adaptive to emerging cyber threats in collaboration with other sectors
+and in conjunction with guidelines from NCCC. Nigeria shall establish
+a mechanism, through the TISN, for continuous information sharing
+between all CNIl owners and operators as well as government
+stakeholders.
+
+4.3.4 Redundancy Mechanism for CNII and Essential Services
+
+Nigeria shall continue to promote the incorporation of redundancy
+mechanisms to enhance CNI] protection. To this end, we shall ensure
+that backup mechanisms are developed to cater for communications
+disruption along any node in the emergency response network. We
+shall also continue to allocate resources to business continuity and
+disaster recovery mechanisms. Moreover, Nigeria shall ensure that
+
+22
+
+
+
+communications redundancy measures are regularly tested to include
+provision of fail over or backup sites and availability of redundancy
+modes of connection, amongst others. We shall also promote the
+establishment of sustainable cost effective and resilient mechanisms
+designed to prevent reliance on single points of failure.
+
+4.4 COORDINATION OF CRITICAL INFORMATION
+INFRASTRUCTURE PROTECTION
+
+Nigeria shall effectively coordinate the execution of its CNII protection.
+To this end, the country shall develop criteria and best practices for
+each CNII sector, including sector-level performance objectives as well
+as establishment of feedback mechanism to NCCC and the regulatory
+agency of government charged with the responsibility of managing the
+sector. A National Critical Information Infrastructure Measurable
+Program (CIIMP) shall also be developed in order to engender progress
+monitoring and evaluation. On this premise, CNIl owners and
+operators will take responsibility for safeguarding their systems and
+networks in adherence to guidelines and standards stipulated by
+NCCC. CNII owners, operators and Sector regulators would also be
+obligated to participate in cybersecurity crisis response exercises and
+drills to enhance preparedness for collective response to cyber
+incidents. Additionally, government shall continue to collaborate with
+relevant stakeholders towards building capacity and developing
+professional skills for effective CNII protection.
+
+4.5 CRITICAL NATIONAL INFORMATION INFRASTRUCTURE
+PROTECTION PLAN
+
+Nigeria shall continue to strengthen its plan for protection of the
+country's CNI. This Critical National Information Infrastructure
+Protection Plan (CNIIPP) will be robust enough to ensure the security
+and resilience of CNI. The plan will also incorporate clear risk
+management procedures and mitigation mechanisms. The plan must
+also engender the participation of all relevant stakeholders in the
+protection of CNII. Furthermore, the plan must incorporate emergency
+readiness and response mechanisms to facilitate disaster recovery and
+business continuity. It must also ensure that standard operating
+procedures and personnel vetting mechanisms are developed and
+adhered to as guide for action by all stakeholders.
+
+23
+
+
+
+4.5.1 Objectives of the Critical National Information
+Infrastructure Protection Plan
+
+e Predict, identify, protect, detect, respond and facilitate the
+recovery of CNII from cyber attacks and unintentional disruption
+or damage including natural disasters.
+
+e Share important and actionable information among the CNII
+community in order to build awareness and provide risk-
+informed decision-making.
+
+e Promote cyber-drills and active incorporation of lessons learnt
+into the CNII protection process.
+
+4.5.2 National Vulnerability Management
+
+National vulnerability assessment (NVA) shall be  periodically
+conducted and integrated into the CNIIPP. NCCC in collaboration with
+the sectoral CSIRTs shall coordinate the NVA with a view to
+determining weaknesses in the nation's CNI. To this end, the NVA
+Shall:
+
+e Identify, analyse and assess threats to CNII to facilitate effective
+risk management and mitigation.
+
+e Assist Government in appreciating the level of preparedness, the
+need to safeguard huge investments in information systems and
+communications infrastructure, as well as commitment made to
+global partners national ICT developmental goals.
+
+e Set the path for the adoption of Security by Design practices as
+an approach to build security measures into CNI.
+
+e Pave a path for the documentation and archiving of all
+vulnerabilities. A national record to this effect shall be
+maintained for review purposes.
+
+24
+
+
+
+Sectoral
+CSIRTs
+
+(Government) )
+
+(Private Sector) ]
+
+
+
+CHAPTER 5
+
+ENHANCING CYBERSECURITY INCIDENT MANAGEMENT
+
+The ability to pre-empt, respond and expeditiously mitigate the
+potential consequences of cyber attacks while minimising the impact,
+is crucial for sustainable governance, national security and socio-
+economic wellbeing of the people. Accordingly, Nigeria recognises the
+importance of a comprehensive framework for preparedness against
+cyber attacks. Therefore, we will ensure robust, adaptive and reliable
+response to cybersecurity incidents. This shall be achieved through
+effective coordination of our national cybersecurity incident response
+mechanism, strengthening of our cybersecurity incident response
+teams and the development of a National Cybersecurity Crisis
+Response Plan.
+
+5.1 COORDINATION OF NATIONAL CYBERSECURITY INCIDENT
+MANAGEMENT
+
+The National Computer Emergency Response Team, known as the
+Nigeria Computer Emergency Response Team (ngCERT), is the focal
+point for our national cyber incident management. To this end,
+ngCERT shall be domiciled under the NCCC to coordinate the
+activities of sectoral Computer Security Incident Response Teams
+(CSIRTs) and other relevant CSIRTs in the private sector.
+
+Accordingly, ngCERT shall work closely with the sectoral CSIRTs, CNI
+operators, government stakeholders and the entire cybersecurity
+community to respond to cyber attacks. In the event of a national
+cyber crisis, ngCERT shall coordinate the operational responses of the
+Sectoral CSIRTs to engender a unified response to the threat.
+Furthermore, NCCC shall support ngCERT by encouraging and
+ensuring the:
+
+e Establishment of CSIRTs across all relevant sectors of the
+Nigerian economy, and through ngCERT, mobilise CSIRTs to
+lend support to sectors or CNII operators, in the event of
+exigencies or escalating cyber incidents.
+
+e Promotion of international, multinational and bilateral
+collaboration towards cybersecurity incident response and
+management.
+
+26
+
+
+
+e Development of a framework for information sharing on
+cybersecurity incidents as well as promotion of trust and culture
+of collective and shared responsibility on incident management
+across Sectoral CSIRTs and the entire cyber community.
+
+e Establishment of processes, protocols and timelines for reporting
+and escalation of cybersecurity incidents across all levels from
+individual users, sectoral CSIRTs and CNII operators to ngCERT.
+
+5.2 RESPONSIBILITIES OF NGCERT
+
+ngCERT is established vide Section 41 (c) of the Cybercrimes
+(Prohibition, Prevention, Etc) Act 2015 to ensure effective national
+response to cybersecurity incidents occurring within or emanating
+from the Nigerian cyberspace. To this end, ngCERT shall propose the
+mobilisation of human resources from industry and academia where
+necessary to complement the capacity of CSIRTs to deal with
+escalating cyber attacks. ngCERT shall also plan and coordinate the
+conduct of national cybersecurity crisis response drills and simulation
+exercises to enable sectoral CSIRTs and other stakeholders better
+understand their roles and responsibilities during cyber incidents
+while providing a platform for  capability assessment and
+enhancement. In addition, ngCERT shall establish, operate and
+continually update a National Register of Cybersecurity Incidents in
+conjunction with sectoral CSIRTs and other stakeholders.
+
+5.3 ESTABLISHMENT OF SECTORAL AND OTHER CSIRTs
+
+Sectoral and other CSIRTs shall be set up by the regulatory body or
+
+any other coordinating body within a particular sector of the economy.
+
+Key stakeholders on national cybersecurity within government
+
+departments and agencies shall be listed to have a centralised,
+
+harmonised and  unified approach to  cybersecurity incident
+management. Sectoral CSIRTs shall:
+
+e Serve as the single point of contact (POC) for each of the specific
+sectors and coordinate incident response activities within the
+sector.
+
+e Promote trust and confidence among stakeholders in their
+respective sectors.
+
+e Facilitate information sharing with ngCERT and other relevant
+stakeholders.
+
+27
+
+
+
+e Facilitate provision of criteria, measures, standards, guidelines
+and best practices for the sector in line with national
+cybersecurity measures prescribed by ngCERT.
+
+e Undertake  cybersecurity  readiness, capacity building,
+information security assurance and compliance administration
+for their respective sectors.
+
+5.4 NATIONAL CYBERSECURITY CRISIS RESPONSE PLAN
+
+The National Cybersecurity Crisis Response Plan shall outline the
+protocols governing the response of ngCERT, sectoral CSIRTs, CNI
+owners and operators, government stakeholders and other members of
+the cybersecurity community in the event of cyber-attack. The plan
+will incorporate simulations and drills that can prepare stakeholders
+for a whole-of-nation response to cyber attacks while also serving as a
+platform for capability assessment and improvement. As part of
+arrangements to strengthen the national crisis response plan, NCCC
+shall, through ngCERT, design, plan, conduct and evaluate national
+cybersecurity crisis response exercises and drills, on a periodic basis.
+
+5.5 INITIATIVES FOR MANAGING CYBERSECURITY INCIDENTS
+
+The initiatives for managing cybersecurity incidents shall be as
+follows:
+
+5.5.1 Cyber Emergency Monitoring System
+
+We shall operate a Cyber Emergency Monitoring System (CEMS) for
+effective detection, identification and interception of cyber threats. The
+CEMS will be established under the coordination of ngCERT to identify
+indicators for potential threats to the nation's cyberspace. Based on
+the potential threat identified by the CEMS, alerts and warnings will
+be issued by ngCERT to various Sectoral CSIRTs, agencies and entities
+for rapid response. Internet service providers and internet exchanges
+shall also interface with ngCERT for effective utilization of a unified
+national alert and warning system to be established and maintained
+by NCCC.
+
+5.5.2 Detection and Response
+
+The deployment of CEMS will ensure that all detected cyber incidents
+
+are promptly communicated by ngCERT and relative sectoral CSIRTs
+
+to affected persons, businesses, organisations or government
+
+establishments. In scenarios where there is no local expertise to
+28
+
+
+
+respond to cyber incidents, details of such incidents shall be escalated
+to ngCERT or the relative sectoral CSIRT. Such incidents shall then be
+recorded, reviewed and resolved following an established incident
+management process.
+
+5.6 MECHANISM FOR CYBER INCIDENT REPORTING AND
+INFORMATION SHARING
+
+The global dimension of cyber threat requires policy action and
+strategic measures on Cyber Incidents Reporting and Information
+Sharing, both at the national and international level. At the national
+level, ngCERT shall develop an Auto Cyber-Indicator Sharing (ACIS)
+System as a national free-to-join system by government, private sector
+and non-government entities to facilitate real time exchange of
+information on cybersecurity related incidents. The strategic scope of
+information sharing on cyber incident shall include threat indicators,
+malicious Internet Protocol addresses, intrusion attempts, and
+phishing emails, amongst others. This scope shall be expanded to the
+global scale in collaboration with stakeholders in the international
+community.
+
+5.7 CAPACITY DEVELOPMENT TO ENHANCE  INCIDENT
+MANAGEMENT
+
+Government shall promote the development of human resources for
+enhancement of incident prevention and response. Efforts shall focus
+on improving the capacity of incident response teams to utilize
+emerging technologies to manage cyber threats, such as the use of
+Artificial Intelligence and Machine Learning concepts to analyse data
+and identify potential cyber risks. To this end, Government effort shall
+be geared towards promoting ¡incident management Capacity
+development across public and private sector organisations in the
+country. We shall also strengthen incentives for public and private
+sector organisations and institutions to encourage capacity
+development of their CSIRTs. Efforts shall also focus on encouraging
+stakeholders to deploy and sustain effective operation of state-of-the-
+art technologies for Security Operations Centres (SOCs) across the
+country.
+
+29
+
+
+
+5.8 COLLABORATIVE PARTNERSHIP FOR INCIDENT
+MANAGEMENT
+
+The Nigerian government recognises that shared and collective
+responsibility is crucial to the attainment of effective incident
+management. Therefore, Government has taken proactive steps to re-
+invigorate measures to address the rising cyber threats through the
+adoption of collaborative partnership model which is based on a
+hybrid combination of public-private partnership (PPP) and multi-
+stakeholder partnership (MSP). This approach stems from the
+understanding that businesses across the private sector have a
+significant share of the responsibility to protect the nation's systems
+and networks from cyber threats. Therefore, a collaborative
+partnership model is needed to build the requisite synergy of
+government, industry, businesses, academia and international
+stakeholders, amongst others, towards enhanced incident response.
+
+5.8.1 Establishment of Collaborative Partnership Model
+
+A National Technical Working Group  (NTWG)  comprising
+representatives from the private sector, government organizations and
+representatives of international multi-stakeholder partners shall be
+established and coordinated by the NCCC to:
+
++  —Collaborate with other countries, industry, academia, civil society
+and other stakeholders towards advancing support for incident
+management technology development, digital safety training, and
+software and hardware systems security enhancement.
+
++ Interface with stakeholders in Government, private sector and the
+international community to jointly develop and implement a
+Collaborative Partnership Cybersecure Framework that assures the
+security of the nation's digital infrastructure.
+
++ Promote the establishment of a Collaborative Partnership-driven
+Research and Development Centre of Excellence to cater for the
+shortage of cybersecurity skills as well as a vehicle to propel local
+development of cybersecurity products and services.
+
+5.8.2 Objectives of Collaborative Partnership Model
+
++ To develop and implement a hybrid PPP and MSP action plan to
+support cybersecurity incident management.
+
+30
+
+
+
++ To provide and nurture a sustainable trusted platform for national
+cooperation, understanding and interactions among all stakeholders,
+while managing all the build-up processes that will lead to the
+harmonised agreements on national  cybersecurity incident
+management.
+
++ To create and nurture trusted forums to address common
+cybersecurity challenges, national discourse and dialogue that will
+enhance cooperation and understanding among various groups on
+national cybersecurity effort.
+
++ To facilitate the development of policies to ensure that
+cybersecurity considerations are prioritised in the domestic
+development of software and infrastructure components.
+
++ To support the development of policies to govern the cybersecurity
+marketplace and consider certification for both imported and local
+cybersecurity products and services.
+
++ To promote discussion between the public and private sectors on
+cyber-insurance coverage, to identify whether there is a need for
+cyber-insurance products or services based on perceived cyber
+threats.
+
+31
+
+
+
+
+
+
+CHAPTER 6
+
+STRENGTHENING LEGAL AND REGULATORY FRAMEWORK
+
+Cyber threats have become more dynamic, pervasive and detrimental
+to  societal safety and  wellbeing.  Individuals, businesses,
+organisations, government functions, essential services and critical
+infrastructure across the country are now faced with sophisticated
+risks emanating from  cyberspace. Moreover, perpetrators of
+cybercrime and other malicious cyber activities have demonstrated the
+ability to conduct attacks across the entire spectrum of cyberspace
+with attendant dire consequences on victims. This brings to fore the
+need for robust legal and regulatory framework to facilitate a proactive
+approach to confront and curtail these threats.
+
+The Government is responsible for improving and updating federal and
+state laws to combat cybercrime and enhance the capacity of the
+nation to address cyber incidents and protect the Nigerian
+Cyberspace. To this end, this strategy shall support the amendment of
+our existing Cybercrimes (Prohibition, Prevention, Etc) Act, 2015. The
+strategy shall also ensure the harmonisation of provisions in other
+legislations relating to e-business, online consumer protection and
+criminal database amongst others. Furthermore, it will boost efforts to
+promote online child and gender protection while developing the
+capacity of the judiciary and law enforcement to enhance their
+effectiveness to address cybercrime.
+
+6.1 AMENDMENT OF CYBERCRIME LEGISLATION
+
+The foremost legal framework on cybersecurity in Nigeria is the
+Cybercrimes (Prohibition, Prevention, Etc) Act 2015, (hereafter the
+Act). The Act is well developed and addresses several aspects of
+cybercrime and other cybersecurity issues. However, in line with the
+dynamic and emergent nature of cybersecurity, the focus of this
+strategy is to review and amend the Act in order to address new
+aspects not included in the current legislation. The Cybercrime
+Advisory Council is charged with driving the process of amendment of
+the Act in consultation and collaboration with relevant stakeholders
+across Nigeria's cyber ecosystem. The amendment of the Act is
+expected to consider, amongst others, the following areas:
+
+33
+
+
+
+e Penalties for breaches or disruption to CNII
+
+e Timelines for cyber incident reporting
+
+e Regulation of cybersecurity service providers
+
+e Allotment of powers to NCCC to  coordinate national
+cybersecurity and anchor investigation of cyber breaches
+
+e Identity theft
+
+e Enhanced enforcement of cybersecurity legislation
+
+e Lawful interception
+
+e Child and gender online protection
+
+e Review of penalties
+
+6.2 ENACTMENT AND  HARMONISATION OF NEW AND
+EXISTING LEGISLATIONS
+
+Government will ensure the enactment and harmonisation of new and
+existing legislations. Currently, there is no primary legislation on data
+protection and privacy in Nigeria. This informs the need for a national
+legislation providing for an independent regulator for data protection.
+Recent migration of businesses and interactions to the digital domain
+also makes it imperative to develop a unified national legislation for
+data protection.
+
+We will focus on strengthening National Data Governance and
+Protection of Digital Intellectual Property. We will also focus on
+strengthening public service delivery, research, economic promotion,
+and security and development through National Data Governance
+which will ensure the safeguard of Nigeria's digital economy. The
+strategy will further ensure the protection and safeguard of the
+nation's digital content through regulations and guidelines regardless
+of the medium it is held on.
+
+Additionally, the need for integration of digital identity framework as
+an element of national cybersecurity is also expedient. In this regard,
+Nigeria will adopt the following strategy options:
+
+e Strengthen legislative, technical and policy initiatives to fulfil the
+goals of national cybersecurity programmes.
+
+e National Data Governance and Protection of Digital Intellectual
+Property.
+
+e Ensure harmonisation of e-business laws in line with global best
+practices.
+
+e Development and enactment of Data Protection and Privacy law.
+
+34
+
+
+
+e Provision of legal protection for entities and individuals who
+disclose vulnerabilities.
+
+e Provision of a legislative framework for child and gender online
+protection.
+
+e Provision of a legislative framework for online consumer
+protection.
+
+e Provision of a legislative framework for bug bounty.
+
+e Integration of digital identity framework as an element of
+national cybersecurity strategy.
+
+e Reduce reliance on foreign-hosted cloud services for storing
+personal data of Nigerian Citizens.
+
+6.3 INTERNET SAFETY AND CHILD ONLINE PROTECTION
+
+Increasingly, children are embracing the use of cyber resources
+facilitated through the availability of Internet in homes, schools and
+other locations. While this availability of the Internet has significant
+advantages for children, there are harmful social media contents and
+illicit materials, being distributed within cyberspace, which can exploit
+the innocence of minors thereby posing a risk to their well-being.
+
+Such exposure of children to the Internet can trigger cyber abuse and
+online exploitation with consequences that are inimical to our national
+dignity. Therefore, this strategy establishes that any act against a
+child which is illegal in the physical environment is equally illegal
+online. The focus of government is to protect children from exposure to
+adverse online materials. To this end, our focus is the development of
+control mechanisms to prevent accessibility and distribution of
+malicious online materials, launching of a national child online safety
+awareness agenda, creation of a national register of convicted online
+child abuse offenders and establishment of channels for reporting
+incidents on child online abuse.
+
+6.3.1 Mechanisms to Prevent Distribution of Illicit Content
+Online
+
+Nigeria is committed to the detection, identification, removal as well as
+prevention of the distribution of illicit or malicious content on the
+Internet. We shall therefore engender the necessary synergy between
+service providers, law enforcement and the judiciary to combat the
+
+35
+
+
+
+distribution, availability and accessibility of illicit content online. To
+this end:
+
+e NCCC shall interface with service providers and relevant
+government agencies to promote the development of control
+measures to combat the distribution of malicious digital contents
+and materials targeted at the young population.
+
+e Regulatory agencies shall ensure that service providers and
+owners of online platforms take proactive measures to prevent
+accessibility to malicious content that are targeted at children as
+well as integration of parental control measures on websites and
+applications on mobile devices. This shall be driven through the
+constitution of a Task Force on Child Online Protection.
+
+e Stakeholders shall also ensure that all Child Abuse Materials
+(CAM) online are channelled into a centralised national resource.
+Actions shall entail outlawing any form of remote enticement of
+minors into inappropriate sexual contact or sexual activity,
+possession, production and distribution of CAM, irrespective of
+the intent to distribute. This will include taking additional
+responsive steps to disrupt the trafficking of CAM and creating
+awareness about the illegality of being in possession of CAM for
+any purpose.
+
+e Nigeria shall engage in bilateral and multilateral collaboration
+and information exchanges with relevant law enforcement
+authorities and investigative bodies in other countries.
+
+e We shall also develop evaluation mechanism to promote zero
+tolerance of online child abuse and  exploitation while
+spearheading the development of Child Online Abuse and
+Exploitation Combating Strategy (COAECS).
+
+6.3.2 National Child Online Safety Awareness Campaign
+
+Nigeria is dedicated to promoting education and awareness about the
+issues of child online safety as a prerequisite for enhancing Internet
+safety for children. Accordingly:
+
+e National Orientation Agency (NOA) shall interface with other
+relevant agencies for the development of programmes to promote
+awareness on child online safety. Efforts shall be directed at
+
+36
+
+
+
+ensuring that child online protection awareness agenda is
+enshrined in all aspects of our national orientation programmes.
+
+e We shall also develop platforms for stakeholders to partner in
+educating children on the need to speak out against any form of
+sexual harassments or molestations online.
+
+e Government agencies and actors in the private sector shall
+collaborate to promote the provision of appropriate long term
+support for victims of online child abuse.
+
+6.3.3 National Register of Convicted Offenders
+
+Federal Ministry of Justice (FMOJ) shall interface with NCCC to
+develop a register for convicted child online abuse offenders. The
+register shall serve as a watch list and online database that will be
+accessible to relevant stakeholders that host the list of convicted sex
+offenders in the country.
+
+6.3.4 Incident Reporting and Investigation
+
+NCCC shall through ngCERT and sectoral CSIRTs develop and sustain
+channels for reporting incidents of child online abuse. Efforts shall
+focus on creating platforms to receive reports from entities around the
+globe on illegal behaviour or content. NCCC shall also enhance the
+capacity of the National Digital Forensics Laboratory to obtain details
+of reported incidents, and process and interpret forensic evidences
+from digital devices relating to online crimes against children.
+
+6.4 GENDER RIGHTS ONLINE
+
+We recognise the rights and importance of the active involvement of
+women in the use of cyberspace. We are also committed to promoting
+the inclusiveness and active participation of women in the complete
+lifecycle of activities in our cyber ecosystem. Nigeria is also up to date
+on the global and domestic digital gender gap and the country is
+dedicated to breaking the barriers hindering accessibility for women.
+Furthermore, combating online violence against women is a crucial
+priority for the Nigerian Government. We are therefore committed to
+the development of mechanisms to create a safe cyberspace and
+protect women online presence.
+
+37
+
+
+
+Against this backdrop, our approach is to prioritise the promotion of
+online safety awareness and education for women. We shall spearhead
+the development of a multi-stakeholder forum to drive the
+development of online gender protection and participation initiatives.
+Furthermore, we shall provide the necessary support for organisations
+anchoring gender promotion initiatives to strengthen advocacy. We
+shall also develop mechanisms to empower women with the requisite
+capacity while also creating opportunities in the cybersecurity
+ecosystem across government, industry and academia. In the area of
+online safety, NCCC in conjunction with regulatory agencies shall
+interface with Internet service providers and owners of online
+platforms towards enhancing security and privacy of women online.
+We shall also establish and promote mechanisms for reporting online
+violence against women.
+
+6.5 CAPACITY DEVELOPMENT FOR LAW ENFORCEMENT AND
+JUDICIARY
+
+A major focus of this strategy is to enhance the capacity of the law
+enforcement community to investigate cybercrime and handle digital
+evidences, and training of the judiciary to prosecute and adjudicate on
+cybercrime. This will be driven through a continuous, comprehensive
+and specialised training program developed to educate lawyers,
+judges, prosecutors, law enforcement officials, forensics investigators
+and other specialists. For this purpose, relevant government bodies
+shall collaborate with NCCC, academia and industry towards capacity
+development to address cybercrime.
+
+We shall also promote requisite capacity building through specialised
+training courses, curricular development and skills acquisition
+championed by universities and professional training institutions.
+Furthermore, we shall promote synergy between relevant stakeholders
+to build the capacity of law enforcement and judiciary to investigate
+and prosecute Internet related crimes against children and other
+vulnerable groups, and enhance the ability of the Courts to handle
+digital forensic evidence and preside over cybercrime cases.
+
+6.6 NATIONAL DIGITAL FORENSICS LABORATORY
+
+The National Digital Forensics Laboratory (NDFL) shall be established
+
+under the NCCC to provide the requisite facilities for digital forensics
+
+investigation and intelligence gathering on cyber related issues. The
+38
+
+
+
+NCCC shall boost the capacity of the NDFL through deployment of
+adequate human resources and technology solutions to automate and
+facilitate rapid surfing, processing and extraction of digital information
+from devices which would be used as evidence for effective
+prosecution. NDFL shall also, where necessary, collaborate with
+industry and academia to provide a platform for training on
+cybercrime investigation skills-based courses such as malware
+analysis, cyber intelligence gathering and digital forensics, amongst
+others. Efforts shall also focus on certification, support and regulatory
+oversight functions to foster collaboration and development of digital
+forensics laboratories across the country.
+
+6.7 MUTUAL LEGAL ASSISTANCE FOR COMBATING
+CYBERCRIME
+
+As part of efforts to ensure our commitment to the protection of
+society from transnational cybercrime, the strategy engenders
+development of effective multilateral and bilateral coordination
+mechanisms. This includes establishment of frameworks and
+channels for mutual legal assistance, facilitating cross border
+investigation, prosecution and transfer of digital evidence as well as
+related cross-border processing of cybercriminals. To this end,
+stakeholders shall collaborate and share relevant information with
+global partners as well as international and multilateral organisations.
+We shall also promote sustainable cooperation and partnership
+amongst stakeholders to prosecute and combat transnational
+cybercrime.
+
+39
+
+
+
+
+
+
+CHAPTER 7
+
+ENHANCING CYBER DEFENCE CAPABILITY
+
+The development of our cyber defence posture and capability is crucial
+to national cybersecurity. The need for an enhanced cyber defence
+capability is even more pronounced with the increased use of
+cyberspace by domestic, foreign and transnational state and non-state
+actors to perpetrate cyber terrorism, cyber espionage and other forms
+of organised cyber attacks. Therefore, our strategy shall develop the
+capability of our military and defence establishments to identify,
+detect and effectively deter any form of organised cyber-attack
+launched on the nation. To this end, our Defence Space
+Administration (DSA) shall interface with NCCC for effective
+coordination of activities of relevant stakeholders in the armed forces,
+development of an effective cyber defence plan and training of our
+military to protect the Nigerian cyberspace.
+
+7.1 NATIONAL CYBER DEFENCE COORDINATION
+
+In consonance with the provisions of extant domestic and
+international laws, DSA shall mobilise its capabilities for cyber
+operations to complement Nigeria's diplomatic, information, military
+and economic elements of national power. Our focus is therefore to
+develop the necessary capabilities to effectively defend our military
+networks and systems, government ICT assets and the country's CNI
+domiciled with the private sector, against national cyber attacks. Our
+efforts shall also extend to the collective development of cyber
+capabilities to support the mandate and operations of our armed
+forces towards the protection of our territorial integrity. Therefore, we
+recognise that effective development of our cyber defence capability
+relies on close collaboration across government, private sector and our
+international partners.
+
+Against this backdrop, DSA in line with its mandate to provide
+resilient and affordable space and cyberspace capabilities for the
+Nigerian military, will work closely with the NCCC, agencies of
+government and think tanks from industry and academia to
+implement our national cyber defence strategy. To this end, the DSA
+shall assign roles to and coordinate the activities of the cyber
+
+41
+
+
+
+establishments of the armed forces to ensure readiness to defend the
+nation against cyber attacks.
+
+The Defence CSIRT and Defence Security Operations Centre (SOC)
+shall be set up under the DSA. Similar to other sectoral CSIRTs across
+the country, the activities of the Defence CSIRT shall be coordinated
+by ngCERT in the areas of information sharing, protection of CNII,
+cyber incident management, technology and skills transfer, and
+conduct of cyber drills and exercises. NCCC shall also support DSA by
+promoting the maintenance of necessary communication channels and
+coordination arrangements to ensure that all stakeholders across
+government and the private sector mobilise in unison to protect the
+nation from any national cyber-attack.
+
+7.2 NATIONAL CYBER DEFENCE PLAN
+
+DSA shall work closely with NCCC to develop a National Cyber
+Defence Plan (NCDP) for the nation. The plan shall identify the
+relevant stakeholders and delineate their roles in the event of cyber-
+attack against the country. The plan shall also outline arrangements
+for protection of CNII and protocols for rendering or requesting for
+assistance from ngCERT and the Sectoral CSIRTs. Furthermore, the
+plan shall engender collaboration with regional and international
+defence CSIRTs and multinational organisations for addressing cross-
+border cyber attacks while embracing the requisite restraints obligated
+under international law.
+
+7.3 CYBER DEFENCE CAPACITY DEVELOPMENT
+
+As a pathway for ensuring effective implementation of our NCDP, our
+efforts shall focus on maintaining an operations-ready Defence CSIRT.
+We shall also ensure that the necessary synergy is developed between
+our Defence CSIRT and other sectoral CSIRTs for effective cyber
+operations and protection of CNII across all sectors of the economy.
+We therefore recognise that the implementation of our NCDP relies on
+the availability of personnel with high standard of cybersecurity
+training supported with state of the art technological capabilities.
+
+On this premise, DSA shall ensure that all the components of the
+cyber defence structure are empowered with the relevant knowledge
+
+42
+
+
+
+and technical capacity to defend the country against cyber attacks.
+Based on this, the DSA shall interface with NCCC, security and law
+enforcement agencies, academia and industry to ensure focused
+arrangements for professional training and technical skills acquisition
+for personnel. Capacity development shall focus on training to
+familiarise personnel with cyber law as it affects cross-border
+operations. DSA shall also make necessary arrangements to
+continually empower the Defence CSIRT with relevant and up-to-date
+technological capabilities to enhance cyber operations.
+
+43
+
+
+
+
+
+
+CHAPTER 8
+
+PROMOTING A THRIVING DIGITAL ECONOMY
+
+Nigeria recognises the role that cyberspace plays in the propagation of
+an ICT-driven economy for the country. Cyberspace, especially the
+Internet and social media, provides the platform for connectivity,
+interaction and innovation, which opens up a plethora of new
+opportunities for businesses and commercial activities to flourish.
+These opportunities offered by cyberspace, if effectively harnessed,
+have the potential to project our economy and accelerate the country's
+pace towards achieving the broader socio-economic objectives.
+
+Our focus is therefore to use cybersecurity as a catalyst to promote
+the use of the Internet and social media for increased commercial,
+financial and related government activities, thereby facilitating a
+thriving digital economy for Nigeria. We shall build trust and
+confidence in the Nigerian cyberspace, nurture a safe and resilient
+online environment, develop a robust cybersecurity workforce, develop
+and promote indigenous cybersecurity technology products, and drive
+a high level of awareness on cyber threats and cybersecurity practices
+to mitigate risks.
+
+8.1 SAFE AND TRUSTED ONLINE ENVIRONMENT
+
+We strive to create an online environment that is safe, resilient and
+trusted by society and businesses within and outside Nigeria. We
+envisage a transformation of our cyber ecosystem to a user-friendly
+digital environment where the security of personal and sensitive
+information is assured, safety of online activities is guaranteed, and
+the rights of users, businesses and service providers are protected.
+
+Our approach is to develop processes and set actions in motion that
+will support and promote the use of e-business, e-transactions, and e-
+government platforms in the Nigerian cyberspace. Such drive requires
+the emplacement of mechanisms that ensure that Internet users,
+businesses and commercial services including facilitators of online
+government services, develop a responsible cybersecurity culture and
+behaviour and foster the security and resilience of services hosted on
+the Internet.
+
+45
+
+
+
+8.1.1 Responsible Cybersecurity Culture and Behaviour
+
+Government will lead by example through the institution of
+responsible cybersecurity culture and behaviour. This shall be
+driven by NCCC, in collaboration with heads of government
+departments and agencies. To this end, NCCC in conjunction
+with heads of government bodies, shall prioritise the
+development of periodic training programmes for government
+employees to improve understanding of responsible
+cybersecurity culture and encourage the  adoption of
+cybersecurity best practices when carrying out day-to-day
+activities online.
+
+Heads of ministries, departments and agencies shall be
+responsible for developing, institutionalising and promoting the
+adoption of practices that ensure responsible cybersecurity
+behaviour in their respective jurisdictions, especially when
+handling government functions online.
+
+At the private sector level, the responsibility to drive good
+behaviour online shall be entrusted to companies and
+businesses under the supervision of regulatory agencies across
+all sectors of the Nigerian economy. By this, NCCC shall prompt
+regulatory agencies to encourage service providers and operators
+of online digital services to introduce mechanisms that protect
+platforms and foster cybersecurity best practices by employees.
+Regulatory agencies are also charged with ensuring that private
+sector executives prioritise the adoption of these cybersecurity
+work practices in their organisations.
+
+For users of the Internet among the general public, a whole-of-
+society approach would be adopted by promoting practices such
+as incident and cybercrime reporting and other activities to
+make the public proactive in ensuring their safety online. To this
+end, NCCC, regulatory agencies, Sectoral CSIRTs, academia and
+industry stakeholders shall promote incident reporting through
+regular provision of publicly available materials to prompt users
+to take collective responsibility of protecting the online
+community as well as their own personal presence on the
+Internet.
+
+46
+
+
+
+We are conscious of the role that legislation will play in the
+enhancement of personal information protection online.
+Therefore, Government shall prioritise promulgation of Nigeria's
+Data Protection Act as a catalyst for privacy and protection of
+user and corporate information on the Internet.
+
+8.1.2 Secure and Resilient Online Services
+
+Our priority is to improve the level of trust and confidence that
+our people and the international community have on online
+activities and services in the Nigerian cyberspace, especially
+digital financial transactions, e-government and e-business
+platforms. We are also conscious of a rising number of other new
+activities moving to the cyber domain, in the areas of e-health
+and online educational services, amongst others.
+
+As way of ensuring security, resilience and trust in e-government
+platforms and other public sector services hosted online, NCCC
+shall interface with relevant government stakeholders across the
+sectors of the Nigerian economy to drive adoption of digital
+standards that ensure security, transparency and accountability
+of services hosted online. This will encourage the use of
+platforms that provide end-to-end encryption, display indicators
+of authenticity on websites and applications, incorporate
+channels for user reviews and feedback, and adopt user privacy
+policies, amongst others.
+
+Regulatory agencies shall also tow the path of government to
+encourage operators of online services in the private sector to
+adopt similar measures to secure their Internet-based platforms
+and promote user trust. Stakeholders are also entrusted to
+make requisite effort to continually leverage social media,
+mainstream media and other platforms for advertisement, to
+promote trust, confidence and utilisation of e-government, e-
+business and e-transactions services.
+
+We shall promote the deployment of mechanisms to prevent
+unauthorised electronic transmission of data from
+establishments of stakeholders across the public and private
+sector. Our focus is to protect information from being stolen or
+compromised or disseminated illicitly across cyberspace. This
+shall be achieved by encouraging stakeholders to deploy
+
+47
+
+
+
+templates, checklists, tools and processes to detect and prevent
+unauthorised access or misuse of sensitive data, in line with
+extant laws governing data in transit, data in use and data at
+rest.
+
+e As a whole-of-government approach, NCCC shall lead the way in
+establishing the channel for Nigeria to work with global partners,
+international businesses and multinational organisations to
+facilitate secure cross-border data flows and online transactions
+built on transparency, accountability, mutual trust and
+confidence.
+
+8.2 ROBUST CYBERSECURITY WORKFORCE
+
+Cybersecurity human resources development and skills acquisition is
+instrumental to the creation of the enabling digital environment for
+online economic activities to strive. The role of Government is to set
+the platform for capacity development and skills acquisition in
+cybersecurity as a pathway for the generation of the cyber workforce
+required for the Nigerian cyberspace. This can only be achieved
+through the creation of opportunities for the Nigerian people to take
+up interest and amass the education, knowledge and professional
+skills required to meet the high demand for cybersecurity experts in
+the digital market. Our focus is therefore to enhance availability,
+uptake and quality of education in cybersecurity, encourage
+cybersecurity skills acquisition and professional development and
+promote attainment of knowledge in cybersecurity through research
+and development.
+
+8.2.1 Cybersecurity Education
+
+e Federal Ministry of Education (FMoE) shall interface with
+regulatory bodies in the education sector to promote uptake of
+cybersecurity courses and curricular at undergraduate and
+postgraduate levels in Nigerian universities. FMoE and
+regulatory bodies in the education sector shall also be entrusted
+with efforts to promote the uptake of cybersecurity courses and
+programmes by schools and institutions of learning across
+Nigeria.
+
+e FMOE shall interface with regulatory agencies in the education
+sector and other stakeholders to map out actions to enhance
+
+48
+
+
+
+cybersecurity education. Stakeholders shall also collaborate to
+ensure that national investments in education meet the
+demands of the cybersecurity environment across all sectors of
+the Nigerian economy. This approach is envisaged to pave way
+for provision of adequately trained cybersecurity academic
+teachers, training materials and other resources.
+
+8.2.2 Skills Acquisition and Professional Development
+
+Our approach is to encourage individuals to take up professional
+skills acquisition in the field of cybersecurity. To this end, our
+strategy prioritises the establishment of a National Cybersecurity
+Training Institute (NCTI), under the organisational structure of
+NCCC, to spearhead skills acquisition and professional
+development through multiple streams of  standardised
+cybersecurity certification courses, career tracks and
+programmes. NCCC is entrusted with the responsibility of
+driving this initiative as a pathway to build the necessary talent
+pool required for the cybersecurity market in the public and
+private sectors.
+
+NCCC shall provide the relevant guidelines for the establishment
+of cybersecurity training centres across the country.
+Furthermore, it shall promote the creation of forums where
+cybersecurity stakeholders from academia, industry,
+cybersecurity societies and associations, advocacy groups and
+experts can interact towards proposing initiatives to accelerate
+the pace of cybersecurity skills acquisition and professional
+development in Nigeria.
+
+8.2.3 Research, Development and Innovation
+
+e
+
+The attainment of knowledge and expertise in cybersecurity shall
+also be driven through promotion of research and development.
+This approach will encourage cybersecurity professionals and
+businesses to enhance their levels of expertise to improve service
+delivery while also promoting close partnership between
+academia and industry.
+
+FMOoE shall interface with regulatory bodies in the education
+sector, stakeholders in academia and key players in industry to
+
+49
+
+
+
+draw up roadmaps to encourage and harness cybersecurity
+research and development efforts in Nigeria.
+
+8.3 INDIGENOUS CYBERSECURITY TECHNOLOGY
+
+Our digital market comprises a combination of cybersecurity
+technologies developed indigenously as well as those imported or
+procured from outside Nigeria. Currently, most of the cybersecurity
+products and solutions used in our systems and networks across the
+public and private sector, as well as those in the market, are
+developed or manufactured overseas. We acknowledge the benefits of
+these imported systems and software solutions to the enhancement of
+our cybersecurity posture. However, we also recognise the criticality of
+developing and expanding our own indigenous  cybersecurity
+technology systems and products market. Our focus is therefore to
+enhance the development and availability of competitive indigenous
+cybersecurity products and services. This requires the collaborative
+effort of stakeholders in industry and academia especially in the area
+of research and development.
+
+Government efforts to this effect shall be anchored by NCCC in
+collaboration with relevant stakeholders, and it shall focus on creating
+the platforms for cybersecurity technology incubation in Nigeria. By
+this, relevant stakeholders shall promote the establishment of
+cybersecurity technology innovation centres and laboratories in
+institutions of higher learning and in the ICT industry across Nigeria.
+NCCC shall also drive initiatives to provide support and incentives for
+projects that uplift the indigenous cybersecurity technology market in
+Nigeria. Furthermore, we shall encourage and promote the growth of
+cyber insurance products and services.
+
+8.4 RAISING AWARENESS
+
+National efforts for raising awareness on cybersecurity shall follow a
+whole-of-society approach. National Orientation Agency (NOA) shall
+drive a coordinated national effort, in conjunction with all relevant
+stakeholders in the public and private sector, to continually sensitise
+the general public, businesses, organisations and government
+establishments on various pertinent cybersecurity issues. Essentially,
+awareness programmes shall be structured to address the various
+areas of interest, including, cyber threats and risks online,
+proliferation of cybercrime and fake news, highlight of education,
+training and employment opportunities available in the field of
+50
+
+
+
+cybersecurity, and ongoing research and development as well as
+international and regional engagements. NOA shall also interface with
+NCCC and other relevant stakeholders to complement existing
+national and international awareness raising initiatives such as the
+National Cybersecurity Awareness Month (NCAM), amongst others.
+
+Our national efforts shall include the targeted training of personnel
+who shall anchor the delivery of awareness activities and programs.
+Stakeholders shall also leverage social media and mainstream media
+to raise awareness and initiate public discussion. Furthermore,
+relevant government agencies and businesses shall interface with
+mass media providers to create awareness on prevailing cybersecurity
+issues in their sectors. As part of this, stakeholders shall take steps to
+provide training for media providers to improve their understanding of
+cybersecurity issues affecting the country.
+
+8.5 VIRTUAL ASSETS
+
+We recognise the potential impact of virtual assets and Financial
+Technology (FINTECH) on our financial industry and by implication
+our economic security. However, considering that virtual assets create
+platforms for anonymity or concealment of financial transactions
+which could facilitate Money Laundering (ML) and Terrorist Financing
+(TF) amongst other illicit activities, we deem it expedient to apply risk-
+based approach to mitigating the threats associated with virtual assets
+and the activities of Virtual Assets Service Providers (VASP).
+Government is also aware that virtual currencies are fast becoming a
+currency of choice in cyber-related criminal activities across the globe.
+
+Our approach is therefore for relevant government agencies to
+collaborate and advocate adoption of mechanisms to drive progressive
+use of virtual currency while addressing the associated risks. To this
+end, we shall focus on strengthening existing legal frameworks and
+sensitisation of stakeholders across government and the private
+sector. We will also leverage regional and global cooperation for
+mitigating the risks associated with cross-border movement of virtual
+assets.
+
+51
+
+
+
+Deployment of
+quality controls
+and security
+processes
+
+Deployment
+of robust and
+high-quality
+cybersecurity
+
+solutions
+
+Agile,
+
+Y Adaptive and (7)
+| Responsive
+
+Digital
+Landscape
+
+Emplacement
+of good practices
+and standards for
+
+cybersecurity
+
+technologies
+
+
+
+CHAPTER 9
+
+ASSURANCE MONITORING AND EVALUATION
+
+Nigeria's cyber domain is dominated by a myriad of ICT systems and
+related infrastructure and thus requires robust Assurance Monitoring
+and Evaluation (AME). These ICT assets are the bedrock of the digital
+environment and by implication catalysts for national development.
+They facilitate the operation and interconnectivity of systems in
+cyberspace and play a critical role in ensuring cybersecurity. With the
+current proliferation of cyber threats, the role of these ICT systems in
+ensuring cybersecurity is now more crucial. The pervasive nature of
+cyber threats now requires ICT systems that are agile, adaptive and
+responsive.
+
+We recognise the role of these ICT systems in strengthening the
+security posture of our digital landscape. Hence, we envisage the
+widespread deployment of robust and high-quality cybersecurity
+technology to safeguard our presence in cyberspace. Our approach is
+therefore to engender the emplacement of good practices and
+standards for our cybersecurity technologies and the deployment of
+quality controls and security processes.
+
+9.1 STANDARDS AND GOOD PRACTICES
+
+Our focus is to strengthen ongoing efforts in the public and private
+sector to ensure the security of data transmission and processing
+systems and platforms against unauthorised access and cybersecurity
+threats. Therefore, our efforts shall concentrate on enhancing the
+design and adoption of standards and good practices related to the
+procurement, development,  utilisation and deployment of
+cybersecurity hardware and software technology systems.
+Stakeholders in government and industry shall jointly develop and
+promote the adoption of ICT and cybersecurity standards across
+government departments and agencies and the private sector, in line
+with international good practices. NITDA shall interface with NCCC
+and other relevant stakeholders to champion this drive through
+promotion of guidelines as well as compliance arrangements.
+Accordingly, government departments and agencies have a role to
+ensure adherence to stipulated guidelines and standards.
+
+53
+
+
+
+Furthermore, NCCC shall provide oversight through the periodic audit
+of CNIT and any other entity as may be determined. For the private
+sector, companies and businesses shall take the lead in promoting
+and ensuring adherence to laid out standards under the guidance of
+relative regulatory agencies. These efforts shall be complemented by
+capacity building of cybersecurity compliance officers and CNII
+auditors to maintain necessary oversight. Additionally, we shall
+promote efforts to interface with global partners to ensure continuous
+alignment with international standards and good practices. Our efforts
+shall also focus on gathering adequate cyber threat intelligence to
+protect our digital economic infrastructure. This shall be driven
+through effective identification of financial technology
+systems/products and development of mechanisms to enhance their
+resilience to mitigate financial crime.
+
+9.2 QUALITY CONTROL AND SECURITY PROCESSES
+
+We shall continue to support ongoing efforts in the public and private
+sector to enhance the quality of cybersecurity hardware and software
+systems deployed to support government operations, businesses and
+commercial and financial services in cyberspace. Our focus shall be
+the emplacement of oversight on  procurement, development,
+deployment and operation of technology systems through guidelines
+and coordinated audit and clearance arrangements. Government shall
+drive the process of ensuring that businesses and organisations
+abstain from the use of pirated or sub-standard software and
+hardware systems through guidelines and adequate compliance
+mechanisms.
+
+Our efforts shall also entail promoting the deployment of standardised
+technical security and cryptographic controls, ranging from antivirus,
+firewalls and intrusion detection systems, to end-to-end encryption
+and multi-factor authentication, amongst others, for security and data
+protection across government and private sector systems, especially
+those handling sensitive information. Efforts to promote uptake of
+security controls amongst general Internet users shall be driven
+through regular awareness campaigns, especially the promotion of
+security controls for mobile devices.
+
+We are also dedicated to facilitating confidential and trusted data flow
+across stakeholders in government as well as the private sector. We
+shall therefore continue to encourage appropriate adoption of Public
+
+Key Infrastructure (PKI) to ensure the security of data flow across
+54
+
+
+
+networks and online activities and services, such as e-government, e-
+business and financial transactions. We shall coordinate effective use
+and expansion of PKI through robust vetting mechanisms. We shall
+also promote mechanisms that assure the integrity of PKI elements
+such as certificate authorities, registration authorities, certificate
+databases and certificate procedures, amongst others.
+
+Furthermore, we shall develop the necessary mechanism for annual
+licensing and registration of cybersecurity training centres and
+institutions, Managed Security Service Providers (MSSPs) and cyber
+cafes amongst other related services, in line with global best practices.
+Our approach is to ensure that all MSSPs, cyber cafes and other
+relevant cybersecurity vendors and practitioners are duly registered
+and licensed by NCCC to operate in Nigeria. In furtherance to this,
+NCCC shall be the sole body to license cybersecurity professionals in
+the country.
+
+55
+
+
+
+Alignment of
+efforts of domestic
+
+
+
+
+CHAPTER 10
+
+ENHANCING INTERNATIONAL COOPERATION
+
+Noting the borderless nature of cyberspace, Nigeria would seek
+collaboration with other countries to ensure effective implementation
+of this strategy. To this end, the country will deepen its relationship
+with regional and global partners, set conditions for favourable
+outcomes in bilateral and multilateral relations, while also promoting
+her regional influence and cybersecurity interests. Combating cyber
+terrorism and other forms of cybercrime is important to our national
+interest. We recognise that this can be effectively achieved through
+bilateral and multilateral collaboration.
+
+Therefore, we will continue to participate in international forums
+dedicated to combating cybercrime and addressing cybersecurity. The
+NCCC shall serve as our national point of contact for cybersecurity
+issues that require urgent assistance from other countries. We
+anticipate that our commitment to international partnerships will give
+us the best chances of preventing or addressing cyber attacks.
+Additionally, we recognise that the security and resilience of our
+regional and other international partners is vital to ensuring our
+national security and prosperity. Against this backdrop, our strategy
+will focus on  coordinating the  responsibilities of domestic
+cybersecurity stakeholders within the country to enhance
+international engagement, strengthening cybersecurity consensus and
+influence on the regional stage and providing support for international
+mechanisms that promote cybersecurity.
+
+10.1 COORDINATION FRAMEWORK FOR INTERNATIONAL
+ENGAGEMENT
+
+We will align the responsibilities of all stakeholders in government and
+the private sector including academia towards  enhancing
+cybersecurity collaboration on the international stage. To this end, we
+will focus on the development of requisite organisational structures
+and protocols for international engagement. This effort shall emanate
+from the NCCC as the international focal point and cascade down to
+all stakeholders across our cyber ecosystem.
+
+57
+
+
+
+This will enable us to clearly harmonise the focus of all key
+stakeholders for international cooperation and for cybersecurity
+dialogue on the international arena. It will also pave way for
+synchronisation of our legal framework with the priorities of the
+international community. As part of efforts to support our
+coordination framework, we shall facilitate capacity development and
+skills acquisition for personnel in the areas of international cyber law
+and cyber diplomacy. This effort will also support our drive to promote
+mutual trust, confidence, transparency and joint establishment as
+well as adoption of international cybersecurity norms. Furthermore, it
+will promote multilateral and bilateral partnerships in the areas of
+incident response, cybercrime prevention, child online safety, cyber
+defence and best practices, amongst others.
+
+10.2 REGIONAL CYBERSECURITY DEVELOPMENT
+
+We shall increase our involvement and influence on cybersecurity
+developmental issues in Africa and the West African sub-region. By
+this, we will spearhead the creation of new initiatives, forums and
+mechanisms to enhance regional cooperation in cybersecurity while
+strengthening existing Economic Community of West African States
+(ECOWAS) and African Union (AU) arrangements and instruments.
+
+We shall also promote capacity development to improve cross-border
+law enforcement, judicial and other mechanism of cooperation to
+combat cybercrime, promote cross-border knowledge and technology
+transfer, support the establishment of regional coordination
+frameworks, enhance information sharing on cyber threats and drive
+regional cybersecurity market growth. We recognise that these actions
+are reliant on our continuous interfacing with relevant regional and
+sub-regional cybersecurity establishments.
+
+10.3 INTERNATIONAL COOPERATION
+
+Nigeria is committed to strong international cooperation in
+cybersecurity as part of our shared responsibility to promote global
+economic development and international security. To this end, our
+priority is to work closely with other countries and multinational
+organisations such as the Global Forum on Cyber Expertise (GFCE) to
+garner consensus in cyber law enforcement, threat intelligence
+
+sharing, adoption of collective cyber norms and cybersecurity best
+58
+
+
+
+practices, policy and strategy formulation and implementation,
+technology exchange and capacity development, including cyber
+defence.
+
+We will accelerate our efforts to cooperate and combat transnational
+cyber threats and cybercrime. We will also further our participation
+and influence through dialogue on the global forum, promoting
+ratification of  cybersecurity  conventions and  engendering
+embracement of the tenets of international cyber laws. Furthermore,
+we shall strengthen information sharing with our global partners
+through established regional and international arrangements and
+mechanisms.
+
+59
+
+
+
+Multilateral
+Funds and
+Grants
+
+NITDEF /
+
+Private
+ELA ha
+Sustainable
+Multi-Channel
+Funding for
+Implementation
+al ”
+National Direct
+Cybersecurity Federal and
+
+Fand State Support
+
+
+
+CHAPTER 11
+
+FUNDING AND SUSTAINABILITY
+
+We recognise the importance of availability of substantial financial
+resources to facilitate the actualisation of our national cybersecurity
+programme. Our focus is therefore to identify potential sources of
+funding relevant to the development of  Nigeria's national
+cybersecurity. We also recognise the criticality of assessing the
+funding requirement of our proffered cybersecurity activities,
+initiatives and programmes while prescribing mechanisms to ensure
+availability and sustainability of identified funding streams.
+
+11.1 FUNDING AND SUSTAINABILITY IMPERATIVES
+
+We will adopt a multi-channel funding approach for sustaining and
+improving our national cybersecurity program by avoiding over-
+reliance on funding from government programs. Therefore, we will
+harness relevant financial incentives, fiscal policy, economic and other
+funding options that will enhance successful commitment to our
+national cybersecurity program. Nigeria shall also continue to sustain
+efforts in cybersecurity through the National Cybersecurity Fund
+(NCF) mechanism as stipulated in extant laws and regulations, in
+addition to other appropriate funding mechanisms. Furthermore, we
+shall enhance existing provisions for national cybersecurity funding,
+through the following options:
+
+e Provision of institutional fund for the establishment of NCCC
+
+e Provision and prioritisation of national cybersecurity budget
+framework
+
+e Reformation and alignment of cybersecurity budget with
+implementation assessment
+
+e Empowerment of NCCC to employ appropriate collaborative
+funding mechanisms including the remittance of 0.005 levy on
+charges of all electronic transaction in line with extant laws
+
+11.1.1 Financial Incentives
+
+We shall develop procedures to incentivise investment in indigenous
+cybersecurity related activities such as tax holidays. We shall also set
+up Cybersecurity Innovation Grants through public-private sector
+equity funding to encourage investment in cybersecurity research,
+
+61
+
+
+
+innovation and development of new technologies. Furthermore, we
+shall encourage funding for broad base multi-sectoral capacity
+development.
+
+11.1.2 Fiscal Policy Initiatives
+
+We shall focus on identifying and selecting targeted cybersecurity
+solutions for time-based competition by different categories of
+innovators and with support fund to encourage innovation and
+development of new technologies. We shall also promote the grant of
+pioneer status (tax holidays) to interested cybersecurity investors for
+the development and production of cybersecurity related products,
+applications and equipment. We will also encourage fiscal policy that
+supports development of cybersecurity. To this end, Government shall
+explore the following funding options, amongst others:
+
+e National Cybersecurity Program Research, Innovation and
+Development will access extra-budgetary funding sources and
+leverage extant institutional funds such as NCF, National
+Information Technology Development Fund (NITDEF), Universal
+Service Provision Fund (USPF) and Tertiary Education Trust
+Fund (TETFund)
+
+e Direct federal and state budgetary allocation for cybersecurity
+funding — with emphasis on local content solutions
+
+e Facilitation of requisite financial sustainability for NCCC by an
+Act of the National Assembly for annual government budgetary
+allocation to cater for core capital and recurrent expenditure
+
++ Encourage private sector organisations to fund the protection of
+(people/ecosystem) network endpoints particularly individual
+customer endpoints as they enhance the integrity of the core
+national network infrastructure.
+
+11.2 MULTILATERAL FUNDING AND GRANTS
+
+We recognise the role of multi-lateral funding for enhancing our
+
+national cybersecurity development. We shall therefore ensure
+
+adequate coordination of the channels and protocols through which
+
+states, organisations and establishments amongst others make
+
+financial and other resources available to Nigeria for implementation
+
+and fulfilment of our national cybersecurity commitments. To this
+62
+
+
+
+end, NCCC shall be responsible for developing necessary protocols to
+guide how stakeholders in the Nigerian cybersecurity ecosystem can
+engage with funding bodies, donors and other relative arrangements,
+for the acquisition of multilateral funds and grants. Government shall
+also continue to facilitate cooperation of state and local governments,
+in the area of national cybersecurity funding aspirations, to ensure
+adequate harmonisation of efforts of all stakeholders.
+
+63
+
+
+
+
+
+
+CHAPTER 12
+
+CONCLUSION
+
+The National Cybersecurity Policy and Strategy shall have 5 years life
+span with annual performance reporting. Throughout the period, there
+shall be continuous policy guidance, monitoring and review of the
+implementation plan. The responsibility for effective implementation of
+the initiatives lies with every stakeholder across the entire cyber
+ecosystem.
+
+Achieving a national cyber security program requires strong
+commitment from Government to galvanise the much-needed Specific,
+Measurable, Achievable, Realistic and Timely (SMART) implementation
+of proffered strategic actions. Stakeholders across the private sector
+must also exhibit necessary commitment by working closely with
+Government within the proffered scope. We recognise that there are
+multiple competing considerations within each stakeholder's approach
+to addressing cybersecurity. Nonetheless, the responsibility lies on all
+stakeholders to ensure concerted, shared and unified efforts towards
+realistic implementation of the initiatives proffered in this national
+document.
+
+As the country sets out to implement the strategic measures and
+unlock national potentials for ensuring progressive use of the nation's
+cyberspace, all stakeholders have a mandate to make conscious effort
+to balance the security, social and economic imperatives of cyberspace
+with the cybersecurity needs of Government, industry, academia and
+the international community.
+
+65
+
+
+
+APPENDIX
+
+IMPLEMENTATION PLAN
+
+PREAMBLE
+
+We recognise the need to develop a plan for the implementation of our
+proffered initiatives, programs and activities, amongst others. Our
+implementation plan therefore outlines the details of our express and
+implied tasks, deliverables, implementation requirements, timelines
+and key performance indicators (KPls) amongst others. It is the
+roadmap for driving success, measuring progress and transforming
+our prescribed strategic actions into reality.
+
+MONITORING AND EVALUATION
+
+The policy shall mainstream frameworks for measuring accountability
+and performance of outlined national cybersecurity initiatives and
+programmes. The objective is to ensure continuous monitoring of the
+implementation program and to provide assurance that the program
+continues to meet stakeholders” expectations within the cybersecurity
+ecosystem.
+
+Appropriate mechanisms shall be emplaced for accountability and
+performance measurement of the strategy implementation. To this
+end, the Cybercrime Advisory Council (CAC) shall establish a National
+Steering Committee on Performance Monitoring and Evaluation (NSC-
+PME), as a multi-stakeholder steering committee which shall monitor
+overall progress and performance and report to the CAC. An annual
+performance report on Nigeria's national cybersecurity, in line with the
+direction and provisions of the National Cybersecurity Policy and
+Strategy shall be submitted to the CAC by the NSC-PME.
+Furthermore, the overall policy direction, relevant approvals and
+accountability of all subsequent activities, including the strategy
+implementation shall be anchored by the CAC.
+
+Our efforts shall also entail the monitoring and review of cybersecurity
+capabilities and level of preparedness of stakeholders at the national,
+state, sectoral and private sector levels to ensure continuous
+improvement and development of relevant capabilities, skills and
+proficiencies. Additionally, we shall continue to conduct information
+security audits and process audits for government entities while also
+
+1-1
+
+
+
+coordinating and validating security audits and process audits of self-
+assessment entities. Our focus will also be directed to the development
+of benchmarks for regular statistical data and situational reports on
+Nigeria's cybersecurity status.
+
+ACTION PLAN FOR STRATEGY IMPLEMENTATION
+
+The objective of the Action Plan for implementing our national
+cybersecurity strategy is to articulate our priorities and outline the
+direction through which they will be effectively implemented. The
+Action Plan outlines our priority activities and highlights the
+stakeholders that are entrusted with driving the process towards their
+actualisation. All stakeholders are therefore enjoined to utilise the
+action plan as a compass to align, focus and consolidate their efforts
+towards progressive and successful implementation of our national
+cybersecurity strategy.
+
+1-2
+
+
+
+ACTION PLAN FOR STRATEGY IMPLEMENTATION
+
+PILLAR 1: STRENGTHENING CYBERSECURITY GOVERNANCE AND COORDINATION
+
+Ser | Reference Express/Implied Further Actions Responsible Implementation | Estimated | Timeframe? Performance Metrics
+Task Required Agency Requirements Budget Rational KPI
+tm) Outcomes
+(a) (b) (c) (d) (e) (£) (8) (h) (i) ()
+1. | Chapter Establishment and | Development and ONSA (CAC) | Approval of Short Term | Framework for NCCC operational
+3.1 Operationalisation | approval of framework framework for establishment of
+of the National for the establishment of establishment of NCCC developed Enhanced
+Cybersecurity NCCC NCCC and approved governance and
+Coordination Physical structure coordination of
+Centre (NCCC) Allocation/development | ONSA (CAC) | Funding for Short Term | for NCCC available | Cybersecurity in
+of physical structure upgrade of existing Nigeria
+and facilities for NCCC infrastructure or Adequate
+construction of manpower from Improvement in
+Generation of Relevant new facility for relevant agencies — | inclusiveness of all
+manpower for NCCC Agencies NCCC Short Term | Jeployed or relevant
+seconded to NCCC | stakeholders
+Allocation of ONSA (CAC) | Human resources
+operational budget for | FMoF and inter-agency Budgetary Stipulated
+day-to-day running of engagements for Short Term | Allocation for day- | mandates of NCCC
+NCCC NCCC manpower to-day running of | effectively
+generation NCCC approved delivered
+2. | Chapter Establishment of Design and installation ONSA Funding for design, Short Term | Cybersecurity Improved synergy
+3.2 National of a platform for (NCCC) commissioning Dialogue Platform | and enhanced
+Cybersecurity secured dialogue and and installation of established information
+Dialogue Platform | information sharing FMOCDE the Dialogue sharing across
+between all relevant (NITDA Platform across stakeholders
+cyber stakeholders NCC) terminals of all
+
+stakeholders
+
+1-3
+
+
+
+
+PILLAR 2: FOSTERING PROTECTION OF CRITICAL NATIONAL INFORMATION INFRASTRUCTURE
+
+Ser | Reference Express/Implied Further Actions Responsible Implementation | Estimated | Timeframe? Performance Metrics
+Task Required Agency Requirements Budget Rational KPI
+(6) Outcomes
+(a) (b) (c) (d) (e) (£) (8) (h) (i) (i)
+1. | Chapter 4.1 | Identification, Development of Human resources, Short Term | Framework and Improvement in
+to 4.5 Designation and framework and technical expertise guidelines for coordination of
+
+Protection of guidelines to and inter-agency identification, activities related
+
+Critical National administer the ONSA (NCCC) | engagements for designation, to CNII protection
+
+Information identification, effective audit,
+
+Infrastructure designation, protection | Relevant coordination of management and
+
+(CNII) and periodic audit of Stakeholders activities related protection of CNII
+CNII in the public and to CNII protection developed and
+private sectors Security and operational Enhanced
+
+LEAs Human resources, Short Term information
+
+Establishment of technical expertise TISN established | sharing and
+Trusted Information TISN and funding for and functional, synergy between
+Sharing Network (TISN) technical design, and collaboration | relevant
+made up of owners administration and activities stakeholders and
+and operators of CNII day-to-day commenced owners/operators
+and government functioning of of CNII
+stakeholders TISN
+Development and ONSA (NCCC) | Human resources, Medium CNII Protection Effective risk
+Execution of CNII Security and inter-agency Term Plan developed mitigation and
+
+Protection Plan
+
+LEAs
+FMOCDE
+(NITDA, NCC)
+Regulatory
+Agencies
+TISN
+
+engagements and
+funding for
+development and
+implementation of
+CNII Protection
+Plan
+
+and operational
+
+reduction in scale
+and impact of
+physical and cyber
+attacks on CNII
+
+1-4
+
+
+
+
+Chapter 4.3 | Security of Arrangements to ONSA (NCCC/ | Human resources, Short Term | Internet and Reduction in
+to 4.5 Internet and secure the nation's ngCERT) technical telecoms security risks and
+Telecoms Internet and Regulatory expertise, tools, gateways secured | attacks on
+Gateways telecommunications Agencies, inter-agency Internet and
+gateways from, TISN engagements as telecoms
+disruption or well as funding for gateways
+destruction development of
+arrangements to
+continually secure
+Internet and
+telecoms
+gateways
+Chapter 4.3 | Disaster Recovery | Develop and employ ONSA (NCCC) | Human resources, Medium Disaster recovery | Enhanced
+to 4.5 Plan for CNII effective mechanisms FMOCDE technical facilities, Term mechanisms recovery and
+to ensure business (NITDA) inter-agency emplaced seamless
+continuity and rapid NEMA engagements as continuity in the
+recovery of essential Relevant well as funding for operation of CNII
+services from cyber SLEAs development of in the event of
+attacks TISN disaster recovery attacks, disaster
+Disaster recovery and mechanisms or technical
+business continuity failure
+mechanisms inspected
+as part of CNII audit
+Chapter 4.3 | Development of Creation of annual list FMorF (BNP) Inter-agency and Short Term | CNII protection Availability of
+to 4.5 Budget for CNII of eligible CNIl under inter-ministerial (Annual) budget requisite funding
+Protection protection ONSA (NCCC) | engagements for appropriated for activities
+
+Budget allocation for
+protection of
+designated CNII in the
+public and private
+sectors
+
+development,
+appropriation and
+continuous update
+of annual budget
+for CNII protection
+
+related to CNII
+protection
+
+1-5
+
+
+
+
+PILLAR 3: ENHANCING CYBERSECURITY INCIDENT MANAGEMENT
+
+Ser | Reference | Express/Implied Further Actions Responsible Implementation | Estimated | Timeframe? Performance Metrics
+Task Required Agency Requirements Me Rational Outcomes KPI
+(a) (b) (c) (d) (e) (£) (8) (h) (i) (i)
+1. | Chapter 5.1 | Development of | Development of ONSA (NCCC) | Human resources, Short to Relevant Sectoral Improved
+to 5.6 National frameworks and technical Medium CSIRTs established incident
+Cybersecurity regulations for NgCERT expertise, tools, Term and operational detection and
+Crisis Response establishment of inter-agency response across
+Mechanism CSIRTs Sectoral engagements and ACIS installed and all identified
+CSIRTs funding for commissioned sectors of the
+Development of establishment of across terminals of | economy
+ACIS System for o Regulatory CSIRTs, and all relevant agencies
+information sharing Agencies development of Enhanced
+on cyber incidents ACIS platform, NCCRP developed information
+Development of Relevant NCCRP as well as and executed when sharing and
+National Stakeholders | operationalisation required prompt incident
+Cybersecurity Crisis of other activities reporting
+Response Plan towards enhancing Effective
+(NCCRP) cyber crisis response to cyber
+response incidents
+2. | Chapter 5.4 | National Organise and ONSA (NCCC) | Human resources, Short Term | Regular cyber drills | Improved synergy
+Cybersecurity conduct periodic NgCERT multi-stakeholder (quarterly organised and and enhanced
+Readiness exercises and drills | Sectoral engagement, tools drills and executed cybersecurity
+Exercises and to assess national CSIRTs and materials as annual readiness,
+Drills preparedness Relevant well as funding for exercises) Quarterly protection and
+against cyber threat | MDAs planning, conduct evaluation reports incidents
+for timely CSIRTS and evaluation of developed with response
+mitigation and (Private), cyber exercises lessons learned capabilities
+recovery in the Academia, and drills
+
+event of attacks
+
+Industry and
+International
+Partners
+
+1-6
+
+
+
+
+Chapter 5.5 | Development of | Design and ONSA (NCCC) | Human resources Medium CEMS Improved
+Cyber installation of CEMS expertise, inter- Term commissioned and | detection and
+Emergency for effective ngCERT agency operational interception of
+Monitoring detection and engagement and cyber threats
+System (CEMS) interception of Sectoral funding for design,
+cyber threats and CSIRTs commissioning Enhanced
+associated and installation of information
+information sharing | ISPs and IXPs | CEMs across dissemination on
+terminals of imminent cyber
+ngCERT and CSIRTs threats
+Chapter 5.7 | Human Institutionalisation | ONSA (NCCC) | Funding and inter- Medium Human and- Enhanced ability
+Resources and of technical ngCERT agency Term technological of ngCERT and
+Technological capacity building, Regulatory engagements for (Continuous | capacity developed | CSIRTs to carry
+Capacity provision of Agencies human and Annually and sustained out mandate of
+Development for | technological Sectoral technological thereafter) cyber incident
+ngCERT, Sectoral | capabilities and CSIRTSs, capacity monitoring,
+and other CSIRTs | regular system Private Sector | development prevention and
+maintenance, CSIRTs Periodic conduct of | response
+upgrades and training and
+support services provision of routine
+Development of technical
+training maintenance and
+programmes and support services for
+provision of support ngCERT and CSIRTS
+services facilities
+Chapter 5.8 | Establishment of | Establishment of ONSA (NCCC) | Human resources, Medium NTWG established Improved synergy
+National NTWG of multi- multi-stakeholder Term and collaboration and enhanced
+Technical stakeholder setup NTWG engagement and activities information
+Working Group with representation administration commenced sharing between
+(NTWG) for from the requirements for stakeholders
+Public Private international day-to-day
+Partnership community functioning of
+(PPP) NTWG
+
+1-7
+
+
+
+
+Chapter 5.8
+
+Development
+and
+Implementation
+of PPP
+Cybersecure
+Framework for
+Security of
+National Digital
+Infrastructures
+
+Develop draft PPP
+Cybersecure
+Framework for
+consideration
+
+Develop modalities
+for implementation
+of approved PPP
+Cybersecure
+Framework
+
+ONSA (NCCC)
+
+NTWG
+
+Human resources
+expertise, inter-
+agency
+engagement and
+funding for
+development of
+Cybersecure
+Framework
+
+Medium
+Term
+
+NTWG, in
+collaboration with
+relevant
+stakeholders, to
+develop a PPP
+Cybersecure
+Framework to
+assure the security
+of the nation's
+digital
+infrastructures
+
+Continuous
+registration and
+renewal of licenses
+for:
+
+Cybersecurity
+Organizations,
+Cyber Cafes,
+Managed Security
+Service Providers,
+etc
+
+PPP Cybersecure
+Framework
+approved and
+implementation
+activities
+commenced
+
+Number of
+cybersecurity
+organisations and
+related entities
+registered and
+licensed
+
+1-8
+
+
+
+
+PILLAR 4: STRENGTHENING LEGAL AND REGULATORY FRAMEWORK
+
+Ser | Reference Express/Implied Further Actions Responsible Implementation | Estimated | Timeframe? Performance Metrics
+Task Required Agency Requirements Mel Rational KPI
+Outcomes
+(a) (b) (c) (d) (e) (£) (8) (h) (i) (i)
+1. | Chapter Amendment of the | Constitute multi- CAC Human resources, Short to Cybercrimes Act Improved
+6.1 Cybercrimes stakeholder committee | ONSA multi-stakeholder Medium 2015 amended legislative
+(Prohibition, to review the (NCCC) engagement, Term framework for
+Prevention Etc) Cybercrimes Act 2015 to | FMOJ materials and administration of
+Act 2015 accommodate NASS funding for review cybersecurity in
+establishment of NCCC of existing Nigeria
+and other areas as listed Cybercrimes Act
+in the strategy towards
+document development of
+Development of draft new cybersecurity
+Cybersecurity Act to legislation
+cover cybercrime and Inter-agency
+other aspects of arrangements for
+cybersecurity promulgation of
+new cybersecurity
+egislation
+2. | Chapter Provision of Development of ONSA Human resources, Long Term | Frameworks for Enhanced
+6.2 Cybersecurity national data (NCCC) inter-agency National Data security of
+Framework for framework for public engagement and Governance and IP | national data
+Strengthening service delivery, CAC unding for Protection
+National Data research, economy and | FMoCDE development and developed
+Governance and security. (NIMC) security of national
+Protection of FMoE data framework
+Digital Intellectual | Development of NOTAP Technical expertise
+Property (IP) measures to ensure the Nigeria and funding for Medium
+safeguard of the digital | Copyright development of IP Term
+content of intellectual Commission | protection
+property NIRA rameworks
+
+1-9
+
+
+
+
+Chapter Harmonization of | Identifying existing laws | ONSA Human resources, Medium Legislative Harmonised
+6.2 E-Business related to e-business in | (NCCC) multi-stakeholder Term Framework for provisions across
+Legislative Nigeria with a view to FMo) engagement and Online Consumer all identified laws
+Framework harmonising them EMOCDE materials for Protection
+EMoITI working group to Developed
+FCCPC harmonise e-
+business laws
+Chapter Enactment of Data | Enactment ofa law OSGF Human resources, Short Term | National Data Improvement in
+6.2 Protection and regulating the storage, FMoJ multi-stakeholder Protection data protection
+Privacy law processing, FMOCDE engagement, Legislative and privacy
+transmission and access | (NITDA, materials and Framework
+to personal data, which | NIMC -1D4D unding for enacted Reduction in
+provides the necessary PSC) development and number of cases
+protection against ONSA enactment of of data breaches
+unlawful access, usage (NCCC) egislative
+and lawful NSS framework
+dissemination
+Establish an OSGF nter-agency Short Term | Independent Improved
+independent and FMOCDE arrangements, national coordination,
+effective regulatory (NIMC - human resources, regulator/body administration
+authority to coordinate | ID4D PSC) materials and established and and enforcement
+data protection and ONSA funding for operational of data
+privacy issues in Nigeria | (NCCC) establishment of protection
+Develop Guidelines for regulatory Guidelines related activities
+: authority and developed and
+Data protection
+development of enforced
+
+procedures to include
+steps to be taken for
+customer consent,
+record retention, secure
+data disposal,
+international data
+transfer and complaint
+handling
+
+data protection
+guidelines
+
+
+
+
+Chapter Establishment of Establish technology ONSA(NCCC) | Technical Medium to | Technology Reduction in
+6.3 Mechanism for platform/mechanism expertise, training, Long Term | platform/ Child Abuse
+Filtering and involving ngCERT/ FMoJ human resources, mechanism Materials (CAM)
+Preventing the Internet Providers, FMoOCDE tools, multi- deployed and on the Internet
+Spread of Online Content Operators for (NITDA, stakeholder operational and social media
+Child Abuse reporting and removing | NCC) engagement and in Nigeria's
+Materials (CAM) or blocking access to FMoST funding for cyberspace
+and Prosecution of | ¡illegal content or CAM LEAs development and
+Suspects within NGOs operationalisation
+Nigeria's of mechanisms to
+Jurisdiction combat CAM
+Chapter Launching of Constitution of Law ONSA Programmes, Medium Awareness Sustained
+6.3 National Child Enforcement Task Force | (NCCC) inter-agency Term campaign channels for
+Online Safety on Child Online FMoJ engagements, (Annually) | launched and improving
+Awareness Protection FMoE human resources sustained sensitization and
+Campaign and Development of FMoWASD and funding for Task force mechanism for
+other related programs and activities NITDA constitution and established combating online
+initiatives to promote awareness LEAs operationalisation child exploitation
+and education on child | NOA of Task Force and National register and abuse
+online safety NGOs launching of created Reduction in
+Creation of National o ud Cases of abuse number of cases
+Register of Convicted - reduced of online child
+Offenders online safety exploitation
+Chapter Launching of Development of multi- ONSA Programmes, Medium Mechanisms to Reduction in
+6.4 Online Safety stakeholder forum to (NCCC) inter-agency Term combat online number of cases
+Awareness and drive online gender FMoJ engagements, (Annually) | gender of online
+Education for protection and creation | FMoE human resources exploitation exploitation of
+Women and of opportunities to FMoWASD and funding for developed women
+Breaking Barriers improve the FMOoCDE running activities Initiatives to drive !
+to Digital Gender participation of women | (NITDA) to enhance women Increase in the
+Gap in cybersecurity LEAs women online empowerment number of
+activities and NOA safety and created women engaged
+engagements NGOs promote digital in cybersecurity
+
+gender equality
+
+1-11
+
+
+
+
+Chapter Capacity Building Strengthening ONSA Technical Medium Training program, | Capacity building
+6.5 for Law Cybersecurity capacity (NCCC) expertise, training, Term Seminars, for Judges and
+Enforcement and building for the judicial human resources, (Recurrent) | Workshops and lawyers on
+Judiciary officers, legal FMoJ tools, multi- Conferences cybercrime laws -
+practitioners and law LEAs stakeholder organised and Minimum of 50
+enforcement officers NCTI engagement and conducted judges and 200
+NGOs funding for lawyers per
+capacity annum
+development
+Capacity building
+for prosecutors
+and law
+enforcement
+agencies on
+digital forensics,
+cybercrime
+investigation and
+prosecution -
+minimum of 500
+per annum
+Chapter Establishment ofa | Develop and implement | ONSA Human resources Medium Establishment ofa | Improvement in
+6.6 Specialised modalities for the (NCCC) and expertise for Term division at the ability of courts
+Division for establishment of a establishment and Federal High Court | to handle digital
+Cybercrime division that will have FMoJ operationalisation on cybersecurity evidence and
+Related Cases in the mandate to CJ of the of specialised and related successfully
+the Federal High adjudicate exclusively Federal High | division matters prosecute
+Court on cybersecurity and Court cybercriminals
+
+related cases
+
+
+
+
+10.
+
+Chapter
+6.6
+
+Development of
+Digital Forensics
+Capacity and
+Provision of
+Regulatory
+Oversight
+Functions
+
+Establish a National
+Framework for the
+regulation, certification,
+technical support and
+collaboration of digital
+forensic laboratories
+across the country
+
+Develop modalities for
+human and
+technological capacity
+development for
+National Digital Forensic
+Laboratory
+
+ONSA
+(NCCC)
+
+LEAs
+
+Human resources,
+funding and inter-
+agency
+engagements for
+human and
+technological
+capacity
+development for
+digital forensic
+laboratories
+
+Medium
+Term
+(Continuous
+Annually
+thereafter)
+
+Framework
+developed and
+implemented
+
+Human and-
+technological
+capacity developed
+and sustained
+
+Periodic conduct
+of training and
+provision of
+routine technical
+maintenance and
+support services
+for laboratories
+
+Number of
+successful digital
+forensics
+investigations
+
+
+
+
+PILLAR 5: ENHANCING CYBER DEFENCE CAPABILITY
+
+Ser | Reference Express/Implied Further Actions Responsible Implementation | Estimated | Timeframe? Performance Metrics
+Task Required Agency Requirements Budget Rational KPI
+(m) Outcomes
+(a) (b) (c) (d) (e) (£) (8) (h) (i) (i)
+1. | Chapter Establishment and | Setting up of Defence MoD (DSA) Technical Short Term | Defence CSIRT Operational
+7.1 Operationalisation | CSIRT and SOC to expertise, training, operational to Defence SOC
+of Defence monitor and protect ONSA (NCCC) human resources, Interface with with agile
+Computer Security | the Nigerian tools, hardware ngCERT and other | Defence CSIRT
+Incident Response | cyberspace and FMOST(NASRDA) | and software Sectoral CSIRTs
+Team (CSIRT) and | respond in event of systems, multi- for cyber incident | Number of
+Security escalating cyber-attack | Sectoral CSIRTs | stakeholder management, successful
+Operations Centre engagement and technology and cyber drills and
+(SOC) funding for skills transfer and | exercises
+establishment and joint conduct of
+operationalisation drills and Number of
+of CSIRT/SOC exercises successful
+cyber attacks
+prevented
+2. | Chapter Development of Development of NCDP | MoD (DSA) Human resources, Medium NCDP formulated | Effective
+7.2 National Cyber outlining arrangements technical Term and operational response to
+Defence Plan for protection of the ONSA (NCCC) expertise, inter- (Continuous national cyber
+(NCDP) Nigerian cyberspace in | FMOST(NASRDA) | agency Thereafter) attacks on CNII
+the event of escalated | Relevant engagements and and impact
+national cyber-attack Stakeholders funding for prevention
+
+development and
+implementation of
+NCDP
+
+
+
+
+Chapter
+7.3
+
+Human Resources
+and Technological
+Capacity
+Development for
+Defence CSIRT
+
+Institutionalisation of
+technical capacity
+building, provision of
+technological
+capabilities and regular
+system maintenance,
+Upgrades and support
+services
+
+MOD (DSA)
+
+ONSA (NCCC)
+
+Funding, tools and
+inter-agency
+engagements for
+human and
+technological
+capacity
+development
+
+Medium
+Term
+(Continuous
+Annually
+thereafter)
+
+Human and-
+technological
+capacity
+developed and
+sustained
+
+Periodic conduct
+of training and
+provision of
+routine technical
+maintenance and
+support services
+for Defence CSIRT
+facilities
+
+Enhanced
+ability of
+Defence CSIRT
+to carry out
+mandate of
+cyber defence
+
+Reduction in
+the number of
+successful
+cyber attacks
+and increase in
+the number of
+quelled cyber
+attacks
+
+
+
+
+PILLAR 6: PROMOTING A THRIVING DIGITAL ECONOMY
+
+Ser | Reference | Express/Implied Further Actions Responsible Implementation | Estimated | Timeframe? Performance Metrics
+Task Required Agency Requirements Me Rational KPI
+Outcomes
+(a) (b) (c) (d) (e) (£) (8) (h) (i) (i)
+1. | Chapter Activities to Develop programs and | ONSA (NCCC) | Human resources, Medium Periodic training Number of training
+8.1 Develop activities to promote technical Term programmes for programmes
+Responsible the confidence and use | FMoCDE expertise, tools (Continuous | government conducted by
+Cybersecurity of e-government, (NITDA, NCC) | and systems, Annually employees government
+Culture and e-business and FMol8:C(NBC) | trainings, inter- thereafter) conducted agencies
+Behaviour to e-transactions NOA agency
+Engender a Safe platforms in the NGOs engagements and Mechanisms Online protection
+and Trusted Nigerian cyberspace funding for launch delivered for measures
+Internet and Private of activities to service providers implemented by
+Digital Conduct of activities to | Sector promote and other private sector
+Environment ensure that individuals cybersecurity operators of service providers
+and organisations are culture online digital
+
+aware of their
+responsibilities within
+the cyberspace
+
+services to protect
+online platforms
+
+Provision of free
+publicly available
+materials on
+online safety for
+users of the
+Internet among
+the general public
+and conduct of
+surveys
+
+General
+improvement in
+safety and
+confidence of
+online
+environment
+
+
+
+
+Chapter
+8.2
+
+Cybersecurity
+Human Resources
+and Workforce
+Development
+
+Development, FMOE (NUC, Funding, tools and Long Term Developed Rate of enrolment
+promotion and NBTE, UBEC) | multi-stakeholder (Continuous | curriculum for and successful
+accreditation of engagements for Annually Cybersecurity completion of
+cybersecurity courses/ | FMoCDE human resources thereafter) o quality
+curriculum in academic | (NITDA, NCC) | and workforce Adequate training cybersecurity
+institutions capacity materials and education in
+development resources universities and
+
+Integrate cybersecurity | ONSA (NCCC) Capacity other educational
+awareness efforts into development of institutions
+ICT courses at the cybersecurity
+school, academic and academic teachers
+vocational levels
+
+Framework to
+
+incentivise skills
+
+and talents in
+
+cybersecurity such
+
+as award of grants
+
+to institutions for
+
+cybersecurity
+
+research and
+
+traineeship in
+
+cybersecurity
+Establish National ONSA (NCCC, | Funding, tools and Long Term NCTI established Number of
+Cybersecurity Training | NCTI) multi-stakeholder (Continuous certified
+Institute (NCTI) engagements for Annually cybersecurity
+Skills acquisition and Relevant professional thereafter) Standardised professionals in
+professional Stakeholders | development certification the private sector
+development in courses created and Government
+cybersecurity
+Research and FMoE Funding, tools and Long Term Roadmap to Number of
+Development (R8.D) in | Academia multi-stakeholder harness successful quality
+Cybersecurity and Industry | engagements for cybersecurity RED | cybersecurity RED
+
+ONSA (NCCC) | research and efforts developed | projects
+
+development
+
+
+
+
+Chapter Indigenous Development of FMST Technical Long Term Establishment of Increase in
+8.3 Cybersecurity competitive indigenous | (NOTAP) expertise, multi- (Continuous | cybersecurity number of quality
+Technology cybersecurity products | FMoCDE stakeholder thereafter) technology indigenous
+Development and services in the (NITDA) engagement, innovation centres | cybersecurity
+market FMOoE (NUC) | funding and and laboratories software and
+Academia €: organisations to in institutions of hardware
+Funding of Industry drive indigenous learning and deployed
+cybersecurity RED ONSA (NCCC) | technology industry
+projects TETFund development
+NGOs
+Chapter Development ofa | Promotion of cyber NAICOM Human resources, Long Term Increased Increase in cyber
+8.3 Cyber Insurance insurance products and | ONSA(NCCC) | multi-stakeholder coverage for risks | liability coverage
+Sector services engagement, associated with
+technical cyber incidents
+Alleviating potential expertise, funding
+consequences of cyber and training to
+incidents develop cyber
+insurance sector
+Chapter Cybersecurity Develop Cybersecurity | NOA Human resources, Short Term Cybersecurity Awareness in Local
+8.4 Awareness and Awareness programs in technical (Continuous) | Information Portal | Languages
+Sensitisation Local Languages ONSA (NCCC) | expertise, tools launched
+Campaign and systems, Awareness Number of NCAM
+Encourage the National | FMoCDE trainings, inter- Activities on activities
+Cybersecurity LEAs agency Cybersecurity
+Awareness Month NGOs engagements and commenced General
+(NCAM) NAN funding for launch improvement in
+NIRA of sensitisation Private Sector cybersecurity
+Private Sector ATCON campaign Awareness Forum | awareness through
+Partnership for CSEAN created conduct of surveys
+Awareness and ISPAN Forum created for
+Capacity Building CPN cybersecurity
+NCS
+
+professionals
+including the ones
+in Diaspora
+
+
+
+
+Chapter Mechanisms to Adoption of FMoF (CBN, Human resources, Medium Strengthening Risk Management
+8.5 Mitigate Risks mechanisms to drive NFIU) technical Term frameworks for Framework for
+Associated with progressive use of ONSA (NCCC) expertise, tools managing virtual Virtual Assets
+Virtual Assets virtual currencies while and systems, inter- assets Developed
+addressing associated Other agency Driving
+risks relevant engagement and bona
+stakeholders | funding for risk sensitization and
+O Collaboration on
+mitigation Virtual Assets
+measures
+Chapter Protection of Identification and ONSA (NCCC) | Technical Long Term Integrated threat | Mitigating financial
+8.5 Digital Economic protection of FINTECH, | FMoF (BNP, expertise, tools intelligent System | crime and
+Infrastructure innovation sectors and | CBN) and systems, for the financial improved
+financial platforms FMOCDE multi-stakeholder industry resilience of
+NDIC engagement, FINTECH products
+NBC human resources,
+(Banking training and
+Sector) funding to
+NFIU emplace activities
+SEC to protect digital
+
+economic
+infrastructure
+
+
+
+
+PILLAR 7: ASSURANCE MONITORING AND EVALUATION
+
+Ser | Reference | Express/Implied Further Actions Responsible Implementation | Estimated | Timeframe? Performance Metrics
+Task Required Agency Requirements Ml Rational KPI
+Outcomes
+(a) (b) (c) (a) (e) (£) (g) (h) (i) (i)
+1. | Chapter Development and | Design and adoption of | FMoCDE Human resources, Medium Cybersecurity Reduction in use of
+9.1 Adherence to technical standards (NITDA) training, tools and Term Technical sub-standard
+Cybersecurity and good practices systems, inter- Standards and software and
+Technology . Regulatory agency Good Practices systems
+Mechanism to ensure : an
+Standards . Agencies engagements and Guidelines
+adherence to technical :
+tandards and d funding for developed Number of
+stan ar sand 800 ONSA (NCCC) | development and a successful audits
+practices Activities launched
+enforcement of to publicise and conducted
+Periodic audit of CNII, standards as well P
+' promote
+and Government and as capacity ideli
+private sector ICT and building for guldelines
+cybersecurity system compliance Interface with
+Capacity building for officers global partners to
+: ensure alignment
+auditors and A :
+: . with international
+compliance officers
+standards
+2. | Chapter Improvement of Enhancement of FMOCDE Technical Medium Audit on Quality of
+9.2 Cybersecurity quality of cybersecurity | (NITDA) expertise, tools, Term procurement, cybersecurity
+Quality Control systems deployed for inter-agency (Continuous | deployment and software and
+and Security government Regulatory engagements and Thereafter) | development of technical systems
+Processes operations, businesses, | Agencies funding for technology enhanced based
+commercial and promotion of systems on feedback and
+financial services ONSA (NCCC) | quality control and Quality antivirus, audit reports
+Promotion of security processes 1DS, IPS, E2E
+standardised technical encryption,
+security and multifactor
+
+cryptographic controls
+
+authentication etc
+
+1-20
+
+
+
+
+Chapter
+9.2
+
+Coordinate and
+secure effective
+use and expansion
+of Public Key
+Infrastructure
+(PKI) through
+robust vetting
+
+Development of
+National
+Framework for
+Cybersecurity
+Regulations and
+Compliance
+
+Certification of
+registration authorities
+
+Ensure management
+system and policy of
+central directories
+
+Develop modalities to
+ensure conformity and
+enforcement of
+national cybersecurity
+regulation standards
+and guidelines of PKI
+value chain
+
+FMOoCDE
+(NITDA,NIMC,
+Galaxy
+Backbone)
+
+ONSA (NCCC)
+
+Technical
+expertise, tools,
+inter-agency
+engagements and
+funding for
+development and
+enforcement of
+guidelines for PKI
+
+Medium
+Term
+
+Long Term
+
+A trustworthy
+digital
+communication
+and transaction
+environment
+
+Framework for
+Cybersecurity
+regulations and
+compliance
+developed and
+enforced
+
+Developed
+framework for
+cybersecurity
+regulations and
+compliance
+
+1-21
+
+
+
+
+PILLAR 8: ENHANCING INTERNATIONAL COOPERATION
+
+Ser | Reference || Express/Implied Further Actions Responsible Implementation | Estimated | Timeframe? Performance Metrics
+Task Required Agency Requirements Budget Rational KPI
+tm) Outcomes
+(a) (b) (c) (d) (e) (£) (8) (h) (i) (i)
+1. | Chapter Capacity Development of FMoJ Funding, tools, Medium Training Number of trained
+10.1 Development in capacity to harmonise FMoFA expertise and Term programmes and professionals in
+International the responsibilities of NIIA multi-stakeholder (Continuous | related activities cyber diplomacy
+Cyber Law and stakeholders across ONSA engagements for Thereafter) | on cyber and international
+Cyber Diplomacy government, academia | (NCCC) capacity diplomacy and cyber law
+and industry for development in international cyber Improvements in
+enhanced regional and cyber law and law launched dialogue and
+international diplomacy discussions on the
+engagement global stage
+2. | Chapter Cross Border Development of FMoJ Multilateral Medium Improved Increase in
+6.7 and Cybersecurity Law | mechanisms to FMoFA engagement, Term collaboration successful number
+Chapter Enforcement to enhance bilateral and ONSA technical (Continuous | between law of cross-border
+10.2 Combat multi-lateral (NCCC) expertise, human Thereafter) | enforcement and processing of
+Cybercrime collaboration towards SLEAs resources, training judiciary for cross- | cybercrime cases
+combating cybercrime and funding to border
+develop capacity investigation,
+and drive synergy prosecution and
+transfer of digital
+evidence
+3. | Chapter International Review membership of | FMoFA Multilateral Long Term Enhanced Improved
+10.3 cooperation recognised FMoJ engagement, International participation in
+International bodies ONSA expertise, training Cooperation global
+Facilitate cybersecurity | (NCCC) and funding to cybersecurity
+cooperation among NIIA enhance activities, dialogue,
+stakeholders, international programs and
+international bodies synergy initiatives
+
+1-22
+
+
+
+
+Chapter
+10.3
+
+Acceding to
+International
+Cybersecurity
+Conventions
+
+International
+cooperation
+mechanisms to
+enhance synergy in
+global cybersecurity
+concerns and improve
+access to technical
+support, influence and
+outreach
+
+ONSA(NCCC)
+FMoJ
+FMoFA
+
+Expertise, multi-
+stakeholder
+engagements and
+multilateral
+engagements to
+enhance
+consultation
+towards endorsing
+identified
+cybersecurity
+conventions
+
+Medium
+Term
+
+Consultation and
+accession to
+International
+Conventions on
+Cybercrime and
+other multi-lateral
+instruments
+
+international
+conventions
+endorsed
+
+IRelevant stakeholders ar
+requirements would be sub:
+
+ject to validation by t
+
+e to develop budgetary requirements for implementation of express/implied tasks. Budgetary
+he Cybercrime Advisory Council (CAC).
+
+2Short Term (First and Second Quarter 2021), Medium Term (Third 2021 to Second Quarter 2022) Long Term (Third Quarter
+2022 - Fourth Quarter 2025)
+
+1-23
+
+
+
+
+FEDERAL REPUBLIC OF NIGERIA
+
+NATIONAL CYBERSECURITY
+POLICY AND STRATEGY 2021
+Summary
+
+VISION MISSION
+
+A safe and secure digital community that
+
+provides opportunities for its citize d optimise:
+
+promotes peaceful and proact Ú and coordination capa
+
+engagements in cyberspace for enhanced  addressing the nation's cyber risk exposure
+national prosperity
+
+The National Cybersecurity Policy and Strategy 2021 is a purposeful and living document
+which outlines the roadmap for realisation of our cybersecurity Vision and Mission. The
+document is a confluence of ends, ways and means which articulates the efforts of all
+stakeholders and emplaces our National Cybersecurity Programme on 8 critical pillars
+
+Enhancing Cyber
+Defence Capability
+
+Strengthening Cybersecurity
+Governance and Coordination
+
+Promoting a Thriving
+Digital Economy
+
+8 Pillars
+to form the
+support for our
+national
+cybersecurity
+program
+
+Enhancing Cybersecurity Le .
+Incident Management
+
+Strengthening Legal and el
+Regulatory Framework VLO
+
+(65 Enhancing International
+5) Cooperation
+
+In line with the provisions of Section 41 of the Cybercrimes
+(Prohibition, Prevention, Etc) Act 2015 which empowers the
+Office of the National Security Adviser to be the coordinating
+body for national cybersecurity, the National Cybersecurity
+Coordination Centre (NCCC) is entrusted with the responsibility
+
+of aligning and harmonising the efforts of all stakeholders
+towards the delivery of our National Cybersecurity Programme
+
+
+
+
+To deliver the objectives of our National Cybersecurity Programme, we have an
+Implementation Plan that is our roadmap for driving success, measuring progress and
+transforming our prescribed strategic actions into reality. The key actions are:
+
++ Establishment of National Cybersecurity
+Coordination Centre
+
++ Driving Awareness of Cybersecurity
+Stakeholders' Responsibilities
+
++ Coordination of national cybersecurity
+incident management
++ Establishment of Sectoral CSIRTs
+
+« National Crisis Response Plan
+
++ Administering the activities of the cyber
+establishments of the armed forces and
+law enforcement agencies
+
++ Development of a cyber defence plan for
+Nigeria
+
++ Training of the armed forces to protect the
+Nigerian cyberspace
+
++ Deployment of robust and high-quality
+cybersecurity technology to safeguard our
+cyberspace
+
++ Strengthening Standards and Good
+Practices in Public and Private Sectors
+
++ Deployment of Quality Controls and
+Security Processes
+
++ Comprehensive approach to CNIl
+Protection and Resilience
+
++ Identifying and Coordinating CNI Sectors
+
+and Dependencies
+
+* Developing CNII Protection Plan
+
++ Review and harmonisation of existing legal
+framework on cybersecurity (including e-
+business and online consumer protection).
+
++ Internet Safety and Protection of Children
+and Gender Rights Online
+
++ Developing the capacity of the judiciary
+and law enforcement to address
+cybercrime
+
++ Promoting the use of the cyberspace to
+drive Nigeria's digital economy
+
++ Building trust and confidence in a safe
+and resilient Nigerian cyberspace
+
+* Promoting an indigenous cyber workforce
+
++ Driving a high level of awareness on
+cybersecurity
+
+CIMESS
+
++ Alignment of efforts of domestic
+cybersecurity stakeholders within Nigeria
+to enhance international engagement
+
++ Strengthening cybersecurity influence on
+the regional stage
+
++ Providing support for international
+mechanisms that promote cybersecurity
+
+As the country sets out to implement the strategic measures and unlock national potentials for
+ensuring progressive use of the nation's cyberspace, all stakeholders have a mandate to make
+conscious effort to balance the security, social and economic imperatives of cyberspace with
+the cybersecurity needs of government, industry, academia and the international community.
+
+
+
+
+
+
+
