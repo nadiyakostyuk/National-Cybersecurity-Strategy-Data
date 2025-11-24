@@ -1,6 +1,6 @@
 # National-Cybersecurity-Strategy-Data
 
-National Cybersecurity Strategy Data (versus 1.0) can be found on the following [website] (https://sites.google.com/view/nationalcyberstrategies/home).
+National Cybersecurity Strategy Data (versus 1.0) can be found on the following [website](https://sites.google.com/view/nationalcyberstrategies/home).
 
 ## The Paper
 
