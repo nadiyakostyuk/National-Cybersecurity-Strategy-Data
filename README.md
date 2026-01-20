@@ -4,7 +4,7 @@ National Cybersecurity Strategy Data (versus 1.0) can be found on the following 
 
 ## The Paper
 
-[Kostyuk, Nadiya](https://www.cmu.edu/cmist/about-us/people/faculty/nadiya-kostyuk.html).["Cyber Chess: Using a New Panel Dataset to Identify Global Patterns in National Cybersecurity-Strategy Adoption."](https://academic.oup.com/isq/article/70/1/sqaf097/8417719).<i> International Studies Quarterly</i>.
+[Kostyuk, Nadiya](https://www.cmu.edu/cmist/about-us/people/faculty/nadiya-kostyuk.html)."["Cyber Chess: Using a New Panel Dataset to Identify Global Patterns in National Cybersecurity-Strategy Adoption."](https://academic.oup.com/isq/article/70/1/sqaf097/8417719).<i> International Studies Quarterly</i>.
 
 <a href= "https://github.com/nadiyakostyuk/National-Cybersecurity-Strategy-Data/blob/main/draft/strategy_diffusion_main.pdf">Main Manuscript </a>
 
